@@ -1,0 +1,40 @@
+# 원본 데이터
+RAW/
+
+# dataset/ 안은 기본적으로 다 무시하고, 재현에 필요한 메타데이터만 예외로 커밋
+dataset/*
+!dataset/data.yaml
+!dataset/manifest.csv
+
+# 모델 가중치
+*.pt
+*.pth
+*.onnx
+*.engine
+weights/
+
+# ultralytics 학습 결과물
+runs/
+wandb/
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 기타
+plan/

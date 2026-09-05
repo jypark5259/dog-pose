@@ -1,0 +1,1601 @@
+﻿split,class,filename,source_video,source_frame,breed,action
+train,footup,dog-footup-100017__frame_150_timestamp_6000.jpg,dog-footup-100017,frame_150_timestamp_6000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051913__frame_144_timestamp_4800.jpg,dog-footup-051913,frame_144_timestamp_4800.jpg,퍼그,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050785__frame_10_timestamp_400.jpg,dog-footup-050785,frame_10_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-041710__frame_108_timestamp_3600.jpg,dog-footup-041710,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088052__frame_102_timestamp_3400.jpg,dog-footup-088052,frame_102_timestamp_3400.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091192__frame_10_timestamp_400.jpg,dog-footup-091192,frame_10_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093026__frame_150_timestamp_5000.jpg,dog-footup-093026,frame_150_timestamp_5000.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-102114__frame_114_timestamp_3800.jpg,dog-footup-102114,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-092963__frame_120_timestamp_4000.jpg,dog-footup-092963,frame_120_timestamp_4000.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098350__frame_138_timestamp_4600.jpg,dog-footup-098350,frame_138_timestamp_4600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093780__frame_168_timestamp_5600.jpg,dog-footup-093780,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-011377__frame_150_timestamp_6000.jpg,dog-footup-011377,frame_150_timestamp_6000.jpg,보더 콜리,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093411__frame_145_timestamp_5800.jpg,dog-footup-093411,frame_145_timestamp_5800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018340__frame_0_timestamp_0.jpg,dog-footup-018340,frame_0_timestamp_0.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-057856__frame_150_timestamp_6000.jpg,dog-footup-057856,frame_150_timestamp_6000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-022420__frame_114_timestamp_3800.jpg,dog-footup-022420,frame_114_timestamp_3800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-099721__frame_135_timestamp_5400.jpg,dog-footup-099721,frame_135_timestamp_5400.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098838__frame_168_timestamp_5600.jpg,dog-footup-098838,frame_168_timestamp_5600.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-019419__frame_150_timestamp_6000.jpg,dog-footup-019419,frame_150_timestamp_6000.jpg,피니시 스피츠,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079329__frame_120_timestamp_4800.jpg,dog-footup-079329,frame_120_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050241__frame_126_timestamp_4200.jpg,dog-footup-050241,frame_126_timestamp_4200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-100620__frame_168_timestamp_5600.jpg,dog-footup-100620,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068370__frame_168_timestamp_5600.jpg,dog-footup-068370,frame_168_timestamp_5600.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-090735__frame_108_timestamp_3600.jpg,dog-footup-090735,frame_108_timestamp_3600.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-080455__frame_108_timestamp_3600.jpg,dog-footup-080455,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-079228__frame_114_timestamp_3800.jpg,dog-footup-079228,frame_114_timestamp_3800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093375__frame_144_timestamp_4800.jpg,dog-footup-093375,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,20201202_dog-footup-004029.mp4__frame_126_timestamp_4200.jpg,20201202_dog-footup-004029.mp4,frame_126_timestamp_4200.jpg,재패니스 스피츠,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101955__frame_162_timestamp_5400.jpg,dog-footup-101955,frame_162_timestamp_5400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-100670__frame_145_timestamp_5800.jpg,dog-footup-100670,frame_145_timestamp_5800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050014__frame_110_timestamp_2000.jpg,dog-footup-050014,frame_110_timestamp_2000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-037235__frame_126_timestamp_4200.jpg,dog-footup-037235,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,20201126_dog-footup-004879.mp4__frame_144_timestamp_4800.jpg,20201126_dog-footup-004879.mp4,frame_144_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088318__frame_0_timestamp_0.jpg,dog-footup-088318,frame_0_timestamp_0.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050081__frame_145_timestamp_5800.jpg,dog-footup-050081,frame_145_timestamp_5800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-044214__frame_145_timestamp_5800.jpg,dog-footup-044214,frame_145_timestamp_5800.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093743__frame_126_timestamp_4200.jpg,dog-footup-093743,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018351__frame_144_timestamp_4800.jpg,dog-footup-018351,frame_144_timestamp_4800.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-057032__frame_144_timestamp_4800.jpg,dog-footup-057032,frame_144_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-026369__frame_108_timestamp_3600.jpg,dog-footup-026369,frame_108_timestamp_3600.jpg,믹스견,앞발 하나를 들어 올림
+train,footup,20201202_dog-footup-001900.mp4__frame_1092_timestamp_18200.jpg,20201202_dog-footup-001900.mp4,frame_1092_timestamp_18200.jpg,파피용,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-069450__frame_114_timestamp_3800.jpg,dog-footup-069450,frame_114_timestamp_3800.jpg,재패니스 스피츠,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-070710__frame_168_timestamp_5600.jpg,dog-footup-070710,frame_168_timestamp_5600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101189__frame_162_timestamp_5400.jpg,dog-footup-101189,frame_162_timestamp_5400.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027769__frame_132_timestamp_4400.jpg,dog-footup-027769,frame_132_timestamp_4400.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-066016__frame_138_timestamp_4600.jpg,dog-footup-066016,frame_138_timestamp_4600.jpg,골든 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-065441__frame_120_timestamp_4000.jpg,dog-footup-065441,frame_120_timestamp_4000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027217__frame_108_timestamp_3600.jpg,dog-footup-027217,frame_108_timestamp_3600.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,20201202_dog-footup-009660.mp4__frame_132_timestamp_4400.jpg,20201202_dog-footup-009660.mp4,frame_132_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093027__frame_0_timestamp_0.jpg,dog-footup-093027,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068117__frame_102_timestamp_3400.jpg,dog-footup-068117,frame_102_timestamp_3400.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093834__frame_0_timestamp_0.jpg,dog-footup-093834,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079685__frame_10_timestamp_400.jpg,dog-footup-079685,frame_10_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088680__frame_144_timestamp_4800.jpg,dog-footup-088680,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081249__frame_10_timestamp_400.jpg,dog-footup-081249,frame_10_timestamp_400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-102862__frame_0_timestamp_0.jpg,dog-footup-102862,frame_0_timestamp_0.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089512__frame_130_timestamp_5200.jpg,dog-footup-089512,frame_130_timestamp_5200.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051908__frame_125_timestamp_5000.jpg,dog-footup-051908,frame_125_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079459__frame_0_timestamp_0.jpg,dog-footup-079459,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018124__frame_126_timestamp_4200.jpg,dog-footup-018124,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018353__frame_144_timestamp_4800.jpg,dog-footup-018353,frame_144_timestamp_4800.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-026248__frame_10_timestamp_400.jpg,dog-footup-026248,frame_10_timestamp_400.jpg,치와와,앞발 하나를 들어 올림
+train,footup,dog-footup-045094__frame_150_timestamp_6000.jpg,dog-footup-045094,frame_150_timestamp_6000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,20201118_dog-footup-002656.mp4__frame_108_timestamp_3600.jpg,20201118_dog-footup-002656.mp4,frame_108_timestamp_3600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-028392__frame_126_timestamp_4200.jpg,dog-footup-028392,frame_126_timestamp_4200.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-085533__frame_145_timestamp_5800.jpg,dog-footup-085533,frame_145_timestamp_5800.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-053101__frame_108_timestamp_3600.jpg,dog-footup-053101,frame_108_timestamp_3600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-061771__frame_204_timestamp_3400.jpg,dog-footup-061771,frame_204_timestamp_3400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098683__frame_168_timestamp_5600.jpg,dog-footup-098683,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-099867__frame_168_timestamp_5600.jpg,dog-footup-099867,frame_168_timestamp_5600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-049600__frame_126_timestamp_4200.jpg,dog-footup-049600,frame_126_timestamp_4200.jpg,요크셔 테리어,앞발 하나를 들어 올림
+train,footup,dog-footup-085020__frame_0_timestamp_0.jpg,dog-footup-085020,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-080871__frame_0_timestamp_0.jpg,dog-footup-080871,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101071__frame_105_timestamp_4200.jpg,dog-footup-101071,frame_105_timestamp_4200.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045746__frame_135_timestamp_5400.jpg,dog-footup-045746,frame_135_timestamp_5400.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-024034__frame_145_timestamp_5800.jpg,dog-footup-024034,frame_145_timestamp_5800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-035047__frame_108_timestamp_3600.jpg,dog-footup-035047,frame_108_timestamp_3600.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073549__frame_150_timestamp_6000.jpg,dog-footup-073549,frame_150_timestamp_6000.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-100077__frame_100_timestamp_4000.jpg,dog-footup-100077,frame_100_timestamp_4000.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098657__frame_168_timestamp_5600.jpg,dog-footup-098657,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-085057__frame_138_timestamp_4600.jpg,dog-footup-085057,frame_138_timestamp_4600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-074203__frame_168_timestamp_5600.jpg,dog-footup-074203,frame_168_timestamp_5600.jpg,웰시 코기 (펨브록),앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098961__frame_126_timestamp_4200.jpg,dog-footup-098961,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-066986__frame_102_timestamp_3400.jpg,dog-footup-066986,frame_102_timestamp_3400.jpg,사모예드견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089927__frame_144_timestamp_2400.jpg,dog-footup-089927,frame_144_timestamp_2400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-021270__frame_145_timestamp_5800.jpg,dog-footup-021270,frame_145_timestamp_5800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093757__frame_150_timestamp_5000.jpg,dog-footup-093757,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-020159__frame_120_timestamp_4800.jpg,dog-footup-020159,frame_120_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-047722__frame_144_timestamp_4800.jpg,dog-footup-047722,frame_144_timestamp_4800.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-017259__frame_102_timestamp_3400.jpg,dog-footup-017259,frame_102_timestamp_3400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-058874__frame_126_timestamp_4200.jpg,dog-footup-058874,frame_126_timestamp_4200.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093951__frame_110_timestamp_4400.jpg,dog-footup-093951,frame_110_timestamp_4400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-092174__frame_126_timestamp_4200.jpg,dog-footup-092174,frame_126_timestamp_4200.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098841__frame_108_timestamp_3600.jpg,dog-footup-098841,frame_108_timestamp_3600.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093459__frame_108_timestamp_3600.jpg,dog-footup-093459,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089107__frame_145_timestamp_5800.jpg,dog-footup-089107,frame_145_timestamp_5800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-057532__frame_12_timestamp_400.jpg,dog-footup-057532,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089472__frame_150_timestamp_6000.jpg,dog-footup-089472,frame_150_timestamp_6000.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045090__frame_140_timestamp_5600.jpg,dog-footup-045090,frame_140_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051333__frame_132_timestamp_4400.jpg,dog-footup-051333,frame_132_timestamp_4400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,20201027_dog-footup-000143.mp4__frame_150_timestamp_5000.jpg,20201027_dog-footup-000143.mp4,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-040267__frame_126_timestamp_4200.jpg,dog-footup-040267,frame_126_timestamp_4200.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-020050__frame_108_timestamp_3600.jpg,dog-footup-020050,frame_108_timestamp_3600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098989__frame_156_timestamp_5200.jpg,dog-footup-098989,frame_156_timestamp_5200.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081152__frame_130_timestamp_5200.jpg,dog-footup-081152,frame_130_timestamp_5200.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079498__frame_156_timestamp_5200.jpg,dog-footup-079498,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-039604__frame_144_timestamp_4800.jpg,dog-footup-039604,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-026243__frame_162_timestamp_5400.jpg,dog-footup-026243,frame_162_timestamp_5400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093821__frame_126_timestamp_4200.jpg,dog-footup-093821,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091398__frame_114_timestamp_3800.jpg,dog-footup-091398,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-052432__frame_140_timestamp_5600.jpg,dog-footup-052432,frame_140_timestamp_5600.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093063__frame_135_timestamp_5400.jpg,dog-footup-093063,frame_135_timestamp_5400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-028556__frame_168_timestamp_5600.jpg,dog-footup-028556,frame_168_timestamp_5600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088620__frame_108_timestamp_3600.jpg,dog-footup-088620,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018194__frame_120_timestamp_4800.jpg,dog-footup-018194,frame_120_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-017867__frame_108_timestamp_1800.jpg,dog-footup-017867,frame_108_timestamp_1800.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-090321__frame_156_timestamp_5200.jpg,dog-footup-090321,frame_156_timestamp_5200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068715__frame_156_timestamp_5200.jpg,dog-footup-068715,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-020037__frame_120_timestamp_4000.jpg,dog-footup-020037,frame_120_timestamp_4000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-041311__frame_108_timestamp_3600.jpg,dog-footup-041311,frame_108_timestamp_3600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-084931__frame_105_timestamp_4200.jpg,dog-footup-084931,frame_105_timestamp_4200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-013412__frame_145_timestamp_5800.jpg,dog-footup-013412,frame_145_timestamp_5800.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-069405__frame_0_timestamp_0.jpg,dog-footup-069405,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027036__frame_145_timestamp_5800.jpg,dog-footup-027036,frame_145_timestamp_5800.jpg,말티즈,앞발 하나를 들어 올림
+train,footup,dog-footup-020891__frame_144_timestamp_4800.jpg,dog-footup-020891,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-063889__frame_120_timestamp_4800.jpg,dog-footup-063889,frame_120_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,20201202_dog-footup-009016.mp4__frame_167_timestamp_5572.jpg,20201202_dog-footup-009016.mp4,frame_167_timestamp_5572.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-024938__frame_150_timestamp_6000.jpg,dog-footup-024938,frame_150_timestamp_6000.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-015709__frame_144_timestamp_4800.jpg,dog-footup-015709,frame_144_timestamp_4800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079447__frame_0_timestamp_0.jpg,dog-footup-079447,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073426__frame_105_timestamp_4200.jpg,dog-footup-073426,frame_105_timestamp_4200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-018518__frame_135_timestamp_5400.jpg,dog-footup-018518,frame_135_timestamp_5400.jpg,재패니스 스피츠,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-055561__frame_143_timestamp_2600.jpg,dog-footup-055561,frame_143_timestamp_2600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-029972__frame_150_timestamp_6000.jpg,dog-footup-029972,frame_150_timestamp_6000.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089917__frame_144_timestamp_4800.jpg,dog-footup-089917,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-039547__frame_114_timestamp_3800.jpg,dog-footup-039547,frame_114_timestamp_3800.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093123__frame_150_timestamp_5000.jpg,dog-footup-093123,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088691__frame_144_timestamp_4800.jpg,dog-footup-088691,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-071603__frame_100_timestamp_4000.jpg,dog-footup-071603,frame_100_timestamp_4000.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-063827__frame_125_timestamp_5000.jpg,dog-footup-063827,frame_125_timestamp_5000.jpg,믹스견,앞발 하나를 들어 올림
+train,footup,dog-footup-022406__frame_108_timestamp_3600.jpg,dog-footup-022406,frame_108_timestamp_3600.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-024518__frame_126_timestamp_4200.jpg,dog-footup-024518,frame_126_timestamp_4200.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089989__frame_156_timestamp_5200.jpg,dog-footup-089989,frame_156_timestamp_5200.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-040431__frame_102_timestamp_3400.jpg,dog-footup-040431,frame_102_timestamp_3400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-046181__frame_114_timestamp_3800.jpg,dog-footup-046181,frame_114_timestamp_3800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-040367__frame_115_timestamp_4600.jpg,dog-footup-040367,frame_115_timestamp_4600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073757__frame_115_timestamp_4600.jpg,dog-footup-073757,frame_115_timestamp_4600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-026372__frame_108_timestamp_3600.jpg,dog-footup-026372,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-080780__frame_150_timestamp_5000.jpg,dog-footup-080780,frame_150_timestamp_5000.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051310__frame_102_timestamp_3400.jpg,dog-footup-051310,frame_102_timestamp_3400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-061395__frame_155_timestamp_6200.jpg,dog-footup-061395,frame_155_timestamp_6200.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-001821__frame_1116_timestamp_18600.jpg,dog-footup-001821,frame_1116_timestamp_18600.jpg,파피용,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-023968__frame_150_timestamp_5000.jpg,dog-footup-023968,frame_150_timestamp_5000.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098195__frame_150_timestamp_5000.jpg,dog-footup-098195,frame_150_timestamp_5000.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073584__frame_145_timestamp_5800.jpg,dog-footup-073584,frame_145_timestamp_5800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-100522__frame_126_timestamp_4200.jpg,dog-footup-100522,frame_126_timestamp_4200.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068703__frame_125_timestamp_5000.jpg,dog-footup-068703,frame_125_timestamp_5000.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101321__frame_0_timestamp_0.jpg,dog-footup-101321,frame_0_timestamp_0.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050588__frame_110_timestamp_4400.jpg,dog-footup-050588,frame_110_timestamp_4400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091278__frame_10_timestamp_400.jpg,dog-footup-091278,frame_10_timestamp_400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-005958__frame_114_timestamp_3800.jpg,dog-footup-005958,frame_114_timestamp_3800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079793__frame_156_timestamp_5200.jpg,dog-footup-079793,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079590__frame_102_timestamp_3400.jpg,dog-footup-079590,frame_102_timestamp_3400.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098840__frame_126_timestamp_4200.jpg,dog-footup-098840,frame_126_timestamp_4200.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091292__frame_110_timestamp_4400.jpg,dog-footup-091292,frame_110_timestamp_4400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-022519__frame_162_timestamp_5400.jpg,dog-footup-022519,frame_162_timestamp_5400.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-046530__frame_100_timestamp_4000.jpg,dog-footup-046530,frame_100_timestamp_4000.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,20201202_dog-footup-003892.mp4__frame_156_timestamp_5200.jpg,20201202_dog-footup-003892.mp4,frame_156_timestamp_5200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-063883__frame_0_timestamp_0.jpg,dog-footup-063883,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-072033__frame_0_timestamp_0.jpg,dog-footup-072033,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-070925__frame_12_timestamp_400.jpg,dog-footup-070925,frame_12_timestamp_400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-043139__frame_125_timestamp_5000.jpg,dog-footup-043139,frame_125_timestamp_5000.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-053490__frame_121_timestamp_2200.jpg,dog-footup-053490,frame_121_timestamp_2200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-049252__frame_11_timestamp_200.jpg,dog-footup-049252,frame_11_timestamp_200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-011375__frame_105_timestamp_4200.jpg,dog-footup-011375,frame_105_timestamp_4200.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093440__frame_12_timestamp_400.jpg,dog-footup-093440,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-017726__frame_1080_timestamp_18000.jpg,dog-footup-017726,frame_1080_timestamp_18000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-070997__frame_12_timestamp_400.jpg,dog-footup-070997,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-024490__frame_116_timestamp_5800.jpg,dog-footup-024490,frame_116_timestamp_5800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-057877__frame_138_timestamp_4600.jpg,dog-footup-057877,frame_138_timestamp_4600.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027080__frame_120_timestamp_4800.jpg,dog-footup-027080,frame_120_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-092106__frame_100_timestamp_4000.jpg,dog-footup-092106,frame_100_timestamp_4000.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088856__frame_168_timestamp_5600.jpg,dog-footup-088856,frame_168_timestamp_5600.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-040127__frame_125_timestamp_5000.jpg,dog-footup-040127,frame_125_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-046508__frame_162_timestamp_5400.jpg,dog-footup-046508,frame_162_timestamp_5400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073901__frame_168_timestamp_5600.jpg,dog-footup-073901,frame_168_timestamp_5600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-053313__frame_144_timestamp_4800.jpg,dog-footup-053313,frame_144_timestamp_4800.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-016832__frame_150_timestamp_5000.jpg,dog-footup-016832,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-080594__frame_150_timestamp_6000.jpg,dog-footup-080594,frame_150_timestamp_6000.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-074856__frame_140_timestamp_5600.jpg,dog-footup-074856,frame_140_timestamp_5600.jpg,포메라니안,앞발 하나를 들어 올림
+train,footup,dog-footup-068632__frame_10_timestamp_400.jpg,dog-footup-068632,frame_10_timestamp_400.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089903__frame_108_timestamp_3600.jpg,dog-footup-089903,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091822__frame_125_timestamp_5000.jpg,dog-footup-091822,frame_125_timestamp_5000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-031277__frame_102_timestamp_3400.jpg,dog-footup-031277,frame_102_timestamp_3400.jpg,믹스견,앞발 하나를 들어 올림
+train,footup,dog-footup-046544__frame_162_timestamp_5400.jpg,dog-footup-046544,frame_162_timestamp_5400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-022607__frame_168_timestamp_5600.jpg,dog-footup-022607,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-049189__frame_0_timestamp_0.jpg,dog-footup-049189,frame_0_timestamp_0.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-012534__frame_120_timestamp_4000.jpg,dog-footup-012534,frame_120_timestamp_4000.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-033865__frame_0_timestamp_0.jpg,dog-footup-033865,frame_0_timestamp_0.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-085998__frame_126_timestamp_4200.jpg,dog-footup-085998,frame_126_timestamp_4200.jpg,재패니스 스피츠,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-065797__frame_120_timestamp_4000.jpg,dog-footup-065797,frame_120_timestamp_4000.jpg,퍼그,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081449__frame_100_timestamp_4000.jpg,dog-footup-081449,frame_100_timestamp_4000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-002542__frame_102_timestamp_3400.jpg,dog-footup-002542,frame_102_timestamp_3400.jpg,삽살개,앞발 하나를 들어 올림
+train,footup,dog-footup-093714__frame_126_timestamp_4200.jpg,dog-footup-093714,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-015668__frame_108_timestamp_3600.jpg,dog-footup-015668,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-100383__frame_12_timestamp_400.jpg,dog-footup-100383,frame_12_timestamp_400.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-008751__frame_108_timestamp_3600.jpg,dog-footup-008751,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088696__frame_156_timestamp_5200.jpg,dog-footup-088696,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101387__frame_100_timestamp_4000.jpg,dog-footup-101387,frame_100_timestamp_4000.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-072287__frame_138_timestamp_4600.jpg,dog-footup-072287,frame_138_timestamp_4600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050437__frame_100_timestamp_5000.jpg,dog-footup-050437,frame_100_timestamp_5000.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098339__frame_126_timestamp_4200.jpg,dog-footup-098339,frame_126_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051760__frame_144_timestamp_4800.jpg,dog-footup-051760,frame_144_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-052025__frame_144_timestamp_4800.jpg,dog-footup-052025,frame_144_timestamp_4800.jpg,시바,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-037519__frame_132_timestamp_4400.jpg,dog-footup-037519,frame_132_timestamp_4400.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-048967__frame_156_timestamp_5200.jpg,dog-footup-048967,frame_156_timestamp_5200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081143__frame_0_timestamp_0.jpg,dog-footup-081143,frame_0_timestamp_0.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045146__frame_1068_timestamp_17800.jpg,dog-footup-045146,frame_1068_timestamp_17800.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068787__frame_140_timestamp_5600.jpg,dog-footup-068787,frame_140_timestamp_5600.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081928__frame_108_timestamp_3600.jpg,dog-footup-081928,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,20201126_dog-footup-001198.mp4__frame_143_timestamp_4771.jpg,20201126_dog-footup-001198.mp4,frame_143_timestamp_4771.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-055253__frame_156_timestamp_2600.jpg,dog-footup-055253,frame_156_timestamp_2600.jpg,말티즈,앞발 하나를 들어 올림
+train,footup,dog-footup-093592__frame_105_timestamp_4200.jpg,dog-footup-093592,frame_105_timestamp_4200.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-099944__frame_0_timestamp_0.jpg,dog-footup-099944,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051151__frame_100_timestamp_4000.jpg,dog-footup-051151,frame_100_timestamp_4000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027181__frame_115_timestamp_4600.jpg,dog-footup-027181,frame_115_timestamp_4600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088828__frame_114_timestamp_3800.jpg,dog-footup-088828,frame_114_timestamp_3800.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-021851__frame_114_timestamp_3800.jpg,dog-footup-021851,frame_114_timestamp_3800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-054086__frame_12_timestamp_400.jpg,dog-footup-054086,frame_12_timestamp_400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,20201121_dog-footup-002409.mp4__frame_180_timestamp_3000.jpg,20201121_dog-footup-002409.mp4,frame_180_timestamp_3000.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098429__frame_138_timestamp_4600.jpg,dog-footup-098429,frame_138_timestamp_4600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098862__frame_156_timestamp_5200.jpg,dog-footup-098862,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-047805__frame_1116_timestamp_18600.jpg,dog-footup-047805,frame_1116_timestamp_18600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,20201111_dog-footup-000659.mp4__frame_246_timestamp_8200.jpg,20201111_dog-footup-000659.mp4,frame_246_timestamp_8200.jpg,래브라도 리트리버,앞발 하나를 들어 올림
+train,footup,dog-footup-073591__frame_110_timestamp_4400.jpg,dog-footup-073591,frame_110_timestamp_4400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-072526__frame_150_timestamp_5000.jpg,dog-footup-072526,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-035487__frame_120_timestamp_4000.jpg,dog-footup-035487,frame_120_timestamp_4000.jpg,시바,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-064623__frame_110_timestamp_4400.jpg,dog-footup-064623,frame_110_timestamp_4400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-042428__frame_10_timestamp_400.jpg,dog-footup-042428,frame_10_timestamp_400.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-044390__frame_100_timestamp_4000.jpg,dog-footup-044390,frame_100_timestamp_4000.jpg,시바,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-021479__frame_0_timestamp_0.jpg,dog-footup-021479,frame_0_timestamp_0.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-033716__frame_12_timestamp_400.jpg,dog-footup-033716,frame_12_timestamp_400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-072531__frame_144_timestamp_4800.jpg,dog-footup-072531,frame_144_timestamp_4800.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-066056__frame_138_timestamp_4600.jpg,dog-footup-066056,frame_138_timestamp_4600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-066361__frame_168_timestamp_5600.jpg,dog-footup-066361,frame_168_timestamp_5600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-038607__frame_132_timestamp_4400.jpg,dog-footup-038607,frame_132_timestamp_4400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-073384__frame_108_timestamp_3600.jpg,dog-footup-073384,frame_108_timestamp_3600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-034096__frame_0_timestamp_0.jpg,dog-footup-034096,frame_0_timestamp_0.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-056204__frame_115_timestamp_4600.jpg,dog-footup-056204,frame_115_timestamp_4600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-044387__frame_0_timestamp_0.jpg,dog-footup-044387,frame_0_timestamp_0.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-078100__frame_12_timestamp_400.jpg,dog-footup-078100,frame_12_timestamp_400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-092958__frame_102_timestamp_3400.jpg,dog-footup-092958,frame_102_timestamp_3400.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093801__frame_120_timestamp_4000.jpg,dog-footup-093801,frame_120_timestamp_4000.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,20201202_dog-footup-001141.mp4__frame_168_timestamp_5600.jpg,20201202_dog-footup-001141.mp4,frame_168_timestamp_5600.jpg,웰시 코기 (펨브록),앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089201__frame_156_timestamp_2600.jpg,dog-footup-089201,frame_156_timestamp_2600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-040313__frame_150_timestamp_5000.jpg,dog-footup-040313,frame_150_timestamp_5000.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088665__frame_144_timestamp_4800.jpg,dog-footup-088665,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-022894__frame_132_timestamp_4400.jpg,dog-footup-022894,frame_132_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045740__frame_10_timestamp_400.jpg,dog-footup-045740,frame_10_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-031304__frame_100_timestamp_4000.jpg,dog-footup-031304,frame_100_timestamp_4000.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-101524__frame_0_timestamp_0.jpg,dog-footup-101524,frame_0_timestamp_0.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079463__frame_10_timestamp_400.jpg,dog-footup-079463,frame_10_timestamp_400.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-071634__frame_105_timestamp_4200.jpg,dog-footup-071634,frame_105_timestamp_4200.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-090504__frame_150_timestamp_5000.jpg,dog-footup-090504,frame_150_timestamp_5000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-062886__frame_110_timestamp_4400.jpg,dog-footup-062886,frame_110_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-066724__frame_102_timestamp_3400.jpg,dog-footup-066724,frame_102_timestamp_3400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089879__frame_132_timestamp_4400.jpg,dog-footup-089879,frame_132_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-090370__frame_102_timestamp_3400.jpg,dog-footup-090370,frame_102_timestamp_3400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-091300__frame_110_timestamp_4400.jpg,dog-footup-091300,frame_110_timestamp_4400.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-016838__frame_162_timestamp_5400.jpg,dog-footup-016838,frame_162_timestamp_5400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-032278__frame_12_timestamp_400.jpg,dog-footup-032278,frame_12_timestamp_400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-057089__frame_132_timestamp_4400.jpg,dog-footup-057089,frame_132_timestamp_4400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-028384__frame_132_timestamp_4400.jpg,dog-footup-028384,frame_132_timestamp_4400.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-102134__frame_150_timestamp_5000.jpg,dog-footup-102134,frame_150_timestamp_5000.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081507__frame_110_timestamp_4400.jpg,dog-footup-081507,frame_110_timestamp_4400.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-088140__frame_102_timestamp_3400.jpg,dog-footup-088140,frame_102_timestamp_3400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-030382__frame_140_timestamp_5600.jpg,dog-footup-030382,frame_140_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-090001__frame_138_timestamp_4600.jpg,dog-footup-090001,frame_138_timestamp_4600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-037559__frame_120_timestamp_4800.jpg,dog-footup-037559,frame_120_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-065448__frame_108_timestamp_3600.jpg,dog-footup-065448,frame_108_timestamp_3600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-014403__frame_126_timestamp_4200.jpg,dog-footup-014403,frame_126_timestamp_4200.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-065009__frame_120_timestamp_4800.jpg,dog-footup-065009,frame_120_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-049774__frame_115_timestamp_4600.jpg,dog-footup-049774,frame_115_timestamp_4600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068213__frame_105_timestamp_4200.jpg,dog-footup-068213,frame_105_timestamp_4200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-092939__frame_132_timestamp_4400.jpg,dog-footup-092939,frame_132_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-033733__frame_0_timestamp_0.jpg,dog-footup-033733,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-024967__frame_120_timestamp_4000.jpg,dog-footup-024967,frame_120_timestamp_4000.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-030265__frame_132_timestamp_4400.jpg,dog-footup-030265,frame_132_timestamp_4400.jpg,골든 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-044130__frame_125_timestamp_5000.jpg,dog-footup-044130,frame_125_timestamp_5000.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-047662__frame_110_timestamp_4400.jpg,dog-footup-047662,frame_110_timestamp_4400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,20201110_dog-footup-001086.mp4__frame_110_timestamp_4583.jpg,20201110_dog-footup-001086.mp4,frame_110_timestamp_4583.jpg,믹스견,앞발 하나를 들어 올림
+train,footup,dog-footup-090513__frame_110_timestamp_4400.jpg,dog-footup-090513,frame_110_timestamp_4400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-046780__frame_144_timestamp_4800.jpg,dog-footup-046780,frame_144_timestamp_4800.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-027488__frame_0_timestamp_0.jpg,dog-footup-027488,frame_0_timestamp_0.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-020219__frame_105_timestamp_4200.jpg,dog-footup-020219,frame_105_timestamp_4200.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068585__frame_1128_timestamp_18800.jpg,dog-footup-068585,frame_1128_timestamp_18800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098445__frame_156_timestamp_5200.jpg,dog-footup-098445,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-047166__frame_140_timestamp_5600.jpg,dog-footup-047166,frame_140_timestamp_5600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051343__frame_102_timestamp_3400.jpg,dog-footup-051343,frame_102_timestamp_3400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-102006__frame_100_timestamp_4000.jpg,dog-footup-102006,frame_100_timestamp_4000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-050767__frame_140_timestamp_5600.jpg,dog-footup-050767,frame_140_timestamp_5600.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-069176__frame_126_timestamp_4200.jpg,dog-footup-069176,frame_126_timestamp_4200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098994__frame_162_timestamp_5400.jpg,dog-footup-098994,frame_162_timestamp_5400.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-051596__frame_138_timestamp_4600.jpg,dog-footup-051596,frame_138_timestamp_4600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045281__frame_120_timestamp_4800.jpg,dog-footup-045281,frame_120_timestamp_4800.jpg,시추,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-079686__frame_150_timestamp_6000.jpg,dog-footup-079686,frame_150_timestamp_6000.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-045971__frame_135_timestamp_5400.jpg,dog-footup-045971,frame_135_timestamp_5400.jpg,푸들,앞발 하나를 들어 올림
+train,footup,dog-footup-066556__frame_10_timestamp_400.jpg,dog-footup-066556,frame_10_timestamp_400.jpg,진돗개,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-043980__frame_138_timestamp_4600.jpg,dog-footup-043980,frame_138_timestamp_4600.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-098812__frame_0_timestamp_0.jpg,dog-footup-098812,frame_0_timestamp_0.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+train,footup,20201118_dog-footup-002984.mp4__frame_168_timestamp_5600.jpg,20201118_dog-footup-002984.mp4,frame_168_timestamp_5600.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-081223__frame_120_timestamp_4800.jpg,dog-footup-081223,frame_120_timestamp_4800.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-034641__frame_168_timestamp_5600.jpg,dog-footup-034641,frame_168_timestamp_5600.jpg,치와와,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-069687__frame_130_timestamp_5200.jpg,dog-footup-069687,frame_130_timestamp_5200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-093294__frame_12_timestamp_400.jpg,dog-footup-093294,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-059649__frame_130_timestamp_5200.jpg,dog-footup-059649,frame_130_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-068819__frame_1100_timestamp_20000.jpg,dog-footup-068819,frame_1100_timestamp_20000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-032884__frame_155_timestamp_6200.jpg,dog-footup-032884,frame_155_timestamp_6200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-089922__frame_168_timestamp_2800.jpg,dog-footup-089922,frame_168_timestamp_2800.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,footup,dog-footup-034080__frame_144_timestamp_4800.jpg,dog-footup-034080,frame_144_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-043663__frame_114_timestamp_3800.jpg,dog-footup-043663,frame_114_timestamp_3800.jpg,파피용,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-087897__frame_124_timestamp_6200.jpg,dog-footup-087897,frame_124_timestamp_6200.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-050934__frame_120_timestamp_4000.jpg,dog-footup-050934,frame_120_timestamp_4000.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-049258__frame_1001_timestamp_18200.jpg,dog-footup-049258,frame_1001_timestamp_18200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-098678__frame_12_timestamp_400.jpg,dog-footup-098678,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-012320__frame_168_timestamp_5600.jpg,dog-footup-012320,frame_168_timestamp_5600.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,20201117_dog-footup-001326.mp4__frame_155_timestamp_5172.jpg,20201117_dog-footup-001326.mp4,frame_155_timestamp_5172.jpg,푸들,앞발 하나를 들어 올림
+val,footup,dog-footup-092135__frame_0_timestamp_0.jpg,dog-footup-092135,frame_0_timestamp_0.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-042396__frame_130_timestamp_5200.jpg,dog-footup-042396,frame_130_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-028032__frame_1104_timestamp_18400.jpg,dog-footup-028032,frame_1104_timestamp_18400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-057714__frame_138_timestamp_4600.jpg,dog-footup-057714,frame_138_timestamp_4600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-046245__frame_162_timestamp_5400.jpg,dog-footup-046245,frame_162_timestamp_5400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-022301__frame_144_timestamp_4800.jpg,dog-footup-022301,frame_144_timestamp_4800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-051355__frame_150_timestamp_5000.jpg,dog-footup-051355,frame_150_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-043131__frame_144_timestamp_4800.jpg,dog-footup-043131,frame_144_timestamp_4800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-100053__frame_108_timestamp_3600.jpg,dog-footup-100053,frame_108_timestamp_3600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093325__frame_102_timestamp_3400.jpg,dog-footup-093325,frame_102_timestamp_3400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-037757__frame_198_timestamp_4400.jpg,dog-footup-037757,frame_198_timestamp_4400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-006458__frame_125_timestamp_5000.jpg,dog-footup-006458,frame_125_timestamp_5000.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-065676__frame_108_timestamp_3600.jpg,dog-footup-065676,frame_108_timestamp_3600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-081222__frame_105_timestamp_4200.jpg,dog-footup-081222,frame_105_timestamp_4200.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+val,footup,20201202_dog-footup-003855.mp4__frame_114_timestamp_3800.jpg,20201202_dog-footup-003855.mp4,frame_114_timestamp_3800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-012182__frame_150_timestamp_6000.jpg,dog-footup-012182,frame_150_timestamp_6000.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-072560__frame_114_timestamp_3800.jpg,dog-footup-072560,frame_114_timestamp_3800.jpg,치와와,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093739__frame_108_timestamp_3600.jpg,dog-footup-093739,frame_108_timestamp_3600.jpg,치와와,앞발 하나를 들어 올리는 동작
+val,footup,20201111_dog-footup-001079.mp4__frame_0_timestamp_0.jpg,20201111_dog-footup-001079.mp4,frame_0_timestamp_0.jpg,웰시 코기 (펨브록),앞발 하나를 들어 올림
+val,footup,dog-footup-089702__frame_12_timestamp_400.jpg,dog-footup-089702,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-055032__frame_102_timestamp_3400.jpg,dog-footup-055032,frame_102_timestamp_3400.jpg,진돗개,앞발 하나를 들어 올림
+val,footup,dog-footup-052265__frame_18_timestamp_600.jpg,dog-footup-052265,frame_18_timestamp_600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-091787__frame_120_timestamp_4800.jpg,dog-footup-091787,frame_120_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093343__frame_114_timestamp_3800.jpg,dog-footup-093343,frame_114_timestamp_3800.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-098183__frame_168_timestamp_5600.jpg,dog-footup-098183,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-050056__frame_140_timestamp_5600.jpg,dog-footup-050056,frame_140_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-071096__frame_108_timestamp_3600.jpg,dog-footup-071096,frame_108_timestamp_3600.jpg,진돗개,앞발 하나를 들어 올리는 동작
+val,footup,20201124_dog-footup-000530.mp4__frame_168_timestamp_5600.jpg,20201124_dog-footup-000530.mp4,frame_168_timestamp_5600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-058064__frame_135_timestamp_5400.jpg,dog-footup-058064,frame_135_timestamp_5400.jpg,파피용,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-032756__frame_110_timestamp_4400.jpg,dog-footup-032756,frame_110_timestamp_4400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-024344__frame_115_timestamp_4600.jpg,dog-footup-024344,frame_115_timestamp_4600.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-080223__frame_156_timestamp_5200.jpg,dog-footup-080223,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-083437__frame_162_timestamp_5400.jpg,dog-footup-083437,frame_162_timestamp_5400.jpg,닥스훈트,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-098771__frame_102_timestamp_3400.jpg,dog-footup-098771,frame_102_timestamp_3400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-067458__frame_102_timestamp_3400.jpg,dog-footup-067458,frame_102_timestamp_3400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093728__frame_12_timestamp_400.jpg,dog-footup-093728,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-088936__frame_138_timestamp_4600.jpg,dog-footup-088936,frame_138_timestamp_4600.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-030134__frame_120_timestamp_4800.jpg,dog-footup-030134,frame_120_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-102531__frame_130_timestamp_5200.jpg,dog-footup-102531,frame_130_timestamp_5200.jpg,치와와,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-022945__frame_126_timestamp_4200.jpg,dog-footup-022945,frame_126_timestamp_4200.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-057901__frame_1122_timestamp_20400.jpg,dog-footup-057901,frame_1122_timestamp_20400.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-036651__frame_120_timestamp_4000.jpg,dog-footup-036651,frame_120_timestamp_4000.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-023168__frame_138_timestamp_4600.jpg,dog-footup-023168,frame_138_timestamp_4600.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-035053__frame_132_timestamp_4400.jpg,dog-footup-035053,frame_132_timestamp_4400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093485__frame_168_timestamp_5600.jpg,dog-footup-093485,frame_168_timestamp_5600.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-041847__frame_0_timestamp_0.jpg,dog-footup-041847,frame_0_timestamp_0.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-101235__frame_162_timestamp_5400.jpg,dog-footup-101235,frame_162_timestamp_5400.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-098464__frame_156_timestamp_5200.jpg,dog-footup-098464,frame_156_timestamp_5200.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-034032__frame_156_timestamp_5200.jpg,dog-footup-034032,frame_156_timestamp_5200.jpg,치와와,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-093771__frame_135_timestamp_5400.jpg,dog-footup-093771,frame_135_timestamp_5400.jpg,시바,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-101560__frame_138_timestamp_4600.jpg,dog-footup-101560,frame_138_timestamp_4600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-070517__frame_162_timestamp_5400.jpg,dog-footup-070517,frame_162_timestamp_5400.jpg,비숑 프리제,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-038523__frame_168_timestamp_2800.jpg,dog-footup-038523,frame_168_timestamp_2800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-090018__frame_102_timestamp_3400.jpg,dog-footup-090018,frame_102_timestamp_3400.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-028599__frame_120_timestamp_4800.jpg,dog-footup-028599,frame_120_timestamp_4800.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-092161__frame_108_timestamp_3600.jpg,dog-footup-092161,frame_108_timestamp_3600.jpg,아메리칸 코커 스패니얼,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-031331__frame_105_timestamp_4200.jpg,dog-footup-031331,frame_105_timestamp_4200.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-021911__frame_144_timestamp_4800.jpg,dog-footup-021911,frame_144_timestamp_4800.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-029994__frame_135_timestamp_5400.jpg,dog-footup-029994,frame_135_timestamp_5400.jpg,푸들,앞발 하나를 들어 올림
+val,footup,dog-footup-080326__frame_144_timestamp_4800.jpg,dog-footup-080326,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-088962__frame_162_timestamp_5400.jpg,dog-footup-088962,frame_162_timestamp_5400.jpg,요크셔 테리어,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-025129__frame_102_timestamp_3400.jpg,dog-footup-025129,frame_102_timestamp_3400.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-090332__frame_102_timestamp_3400.jpg,dog-footup-090332,frame_102_timestamp_3400.jpg,포메라니안,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-041429__frame_144_timestamp_4800.jpg,dog-footup-041429,frame_144_timestamp_4800.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-089839__frame_228_timestamp_3800.jpg,dog-footup-089839,frame_228_timestamp_3800.jpg,푸들,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-090367__frame_102_timestamp_3400.jpg,dog-footup-090367,frame_102_timestamp_3400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-072561__frame_18_timestamp_600.jpg,dog-footup-072561,frame_18_timestamp_600.jpg,푸들,앞발 하나를 들어 올림
+val,footup,dog-footup-052382__frame_110_timestamp_4400.jpg,dog-footup-052382,frame_110_timestamp_4400.jpg,보더 콜리,앞발 하나를 들어 올리는 동작
+val,footup,20201117_dog-footup-001883.mp4__frame_138_timestamp_4600.jpg,20201117_dog-footup-001883.mp4,frame_138_timestamp_4600.jpg,포메라니안,앞발 하나를 들어 올림
+val,footup,dog-footup-050268__frame_126_timestamp_4200.jpg,dog-footup-050268,frame_126_timestamp_4200.jpg,말티즈,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-079469__frame_120_timestamp_4800.jpg,dog-footup-079469,frame_120_timestamp_4800.jpg,래브라도 리트리버,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-041658__frame_110_timestamp_4400.jpg,dog-footup-041658,frame_110_timestamp_4400.jpg,믹스견,앞발 하나를 들어 올리는 동작
+val,footup,dog-footup-098673__frame_12_timestamp_400.jpg,dog-footup-098673,frame_12_timestamp_400.jpg,푸들,앞발 하나를 들어 올리는 동작
+train,lying,dog-lying-057068__frame_138_timestamp_4600.jpg,dog-lying-057068,frame_138_timestamp_4600.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-091207__frame_1032_timestamp_17200.jpg,dog-lying-091207,frame_1032_timestamp_17200.jpg,베들링턴 테리어,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-057055__frame_156_timestamp_5200.jpg,dog-lying-057055,frame_156_timestamp_5200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-085953__frame_10_timestamp_400.jpg,dog-lying-085953,frame_10_timestamp_400.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-053004__frame_135_timestamp_5400.jpg,dog-lying-053004,frame_135_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098978__frame_0_timestamp_0.jpg,dog-lying-098978,frame_0_timestamp_0.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-038909__frame_102_timestamp_3400.jpg,dog-lying-038909,frame_102_timestamp_3400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-078581__frame_135_timestamp_5400.jpg,dog-lying-078581,frame_135_timestamp_5400.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088522__frame_145_timestamp_5800.jpg,dog-lying-088522,frame_145_timestamp_5800.jpg,웰시 코기 (펨브록),배와 목을 보여주며 누움
+train,lying,dog-lying-051828__frame_150_timestamp_5000.jpg,dog-lying-051828,frame_150_timestamp_5000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043774__frame_138_timestamp_4600.jpg,dog-lying-043774,frame_138_timestamp_4600.jpg,로트바일러,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-032571__frame_102_timestamp_3400.jpg,dog-lying-032571,frame_102_timestamp_3400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022066__frame_132_timestamp_4400.jpg,dog-lying-022066,frame_132_timestamp_4400.jpg,요크셔 테리어,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088930__frame_145_timestamp_5800.jpg,dog-lying-088930,frame_145_timestamp_5800.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-017269__frame_110_timestamp_2000.jpg,dog-lying-017269,frame_110_timestamp_2000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-059102__frame_135_timestamp_5400.jpg,dog-lying-059102,frame_135_timestamp_5400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-017962__frame_162_timestamp_5400.jpg,dog-lying-017962,frame_162_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-014772__frame_156_timestamp_5200.jpg,dog-lying-014772,frame_156_timestamp_5200.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-004747.mp4__frame_114_timestamp_7600.jpg,20201202_dog-lying-004747.mp4,frame_114_timestamp_7600.jpg,재패니스 스피츠,배와 목을 보여주며 누움
+train,lying,dog-lying-050429__frame_12_timestamp_400.jpg,dog-lying-050429,frame_12_timestamp_400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-048622__frame_144_timestamp_4800.jpg,dog-lying-048622,frame_144_timestamp_4800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-029559__frame_126_timestamp_4200.jpg,dog-lying-029559,frame_126_timestamp_4200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047572__frame_110_timestamp_4400.jpg,dog-lying-047572,frame_110_timestamp_4400.jpg,보더 콜리,배와 목을 보여주며 눕는 동작
+train,lying,20201113_dog-lying-000267.mp4__frame_138_timestamp_4600.jpg,20201113_dog-lying-000267.mp4,frame_138_timestamp_4600.jpg,믹스견,배와 목을 보여주며 누움
+train,lying,dog-lying-013249__frame_135_timestamp_5400.jpg,dog-lying-013249,frame_135_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047692__frame_135_timestamp_5400.jpg,dog-lying-047692,frame_135_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021990__frame_132_timestamp_4400.jpg,dog-lying-021990,frame_132_timestamp_4400.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-045112__frame_108_timestamp_3600.jpg,dog-lying-045112,frame_108_timestamp_3600.jpg,요크셔 테리어,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-029901__frame_135_timestamp_5400.jpg,dog-lying-029901,frame_135_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-013782__frame_144_timestamp_4800.jpg,dog-lying-013782,frame_144_timestamp_4800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,20201117_dog-lying-002203.mp4__frame_132_timestamp_4400.jpg,20201117_dog-lying-002203.mp4,frame_132_timestamp_4400.jpg,치와와,배와 목을 보여주며 누움
+train,lying,dog-lying-088809__frame_130_timestamp_5200.jpg,dog-lying-088809,frame_130_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-013470__frame_156_timestamp_5200.jpg,dog-lying-013470,frame_156_timestamp_5200.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021813__frame_150_timestamp_5000.jpg,dog-lying-021813,frame_150_timestamp_5000.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-045754__frame_132_timestamp_4400.jpg,dog-lying-045754,frame_132_timestamp_4400.jpg,보더 콜리,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-014908__frame_132_timestamp_4400.jpg,dog-lying-014908,frame_132_timestamp_4400.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-011068__frame_162_timestamp_5400.jpg,dog-lying-011068,frame_162_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-073680__frame_105_timestamp_4200.jpg,dog-lying-073680,frame_105_timestamp_4200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021933__frame_135_timestamp_5400.jpg,dog-lying-021933,frame_135_timestamp_5400.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-027508__frame_114_timestamp_3800.jpg,dog-lying-027508,frame_114_timestamp_3800.jpg,파피용,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-067763__frame_156_timestamp_5200.jpg,dog-lying-067763,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-028379__frame_110_timestamp_4400.jpg,dog-lying-028379,frame_110_timestamp_4400.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-038502__frame_114_timestamp_3800.jpg,dog-lying-038502,frame_114_timestamp_3800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-079888__frame_0_timestamp_0.jpg,dog-lying-079888,frame_0_timestamp_0.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047079__frame_102_timestamp_3400.jpg,dog-lying-047079,frame_102_timestamp_3400.jpg,보더 콜리,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-065243__frame_0_timestamp_0.jpg,dog-lying-065243,frame_0_timestamp_0.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-051426__frame_125_timestamp_5000.jpg,dog-lying-051426,frame_125_timestamp_5000.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-069433__frame_150_timestamp_5000.jpg,dog-lying-069433,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-035007__frame_150_timestamp_6000.jpg,dog-lying-035007,frame_150_timestamp_6000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-055191__frame_100_timestamp_4000.jpg,dog-lying-055191,frame_100_timestamp_4000.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-078303__frame_156_timestamp_5200.jpg,dog-lying-078303,frame_156_timestamp_5200.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-034899__frame_114_timestamp_3800.jpg,dog-lying-034899,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-100197__frame_150_timestamp_6000.jpg,dog-lying-100197,frame_150_timestamp_6000.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-087552__frame_135_timestamp_5400.jpg,dog-lying-087552,frame_135_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-033045__frame_232_timestamp_11600.jpg,dog-lying-033045,frame_232_timestamp_11600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-037478__frame_120_timestamp_4800.jpg,dog-lying-037478,frame_120_timestamp_4800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-070760__frame_0_timestamp_0.jpg,dog-lying-070760,frame_0_timestamp_0.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,20201118_dog-lying-002221.mp4__frame_126_timestamp_4200.jpg,20201118_dog-lying-002221.mp4,frame_126_timestamp_4200.jpg,파피용,배와 목을 보여주며 누움
+train,lying,20201202_dog-lying-002397.mp4__frame_126_timestamp_4200.jpg,20201202_dog-lying-002397.mp4,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-032263__frame_138_timestamp_4600.jpg,dog-lying-032263,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-053640__frame_162_timestamp_5400.jpg,dog-lying-053640,frame_162_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088611__frame_140_timestamp_5600.jpg,dog-lying-088611,frame_140_timestamp_5600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-036290__frame_114_timestamp_3800.jpg,dog-lying-036290,frame_114_timestamp_3800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043973__frame_0_timestamp_0.jpg,dog-lying-043973,frame_0_timestamp_0.jpg,래브라도 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-093831__frame_150_timestamp_5000.jpg,dog-lying-093831,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-012967__frame_114_timestamp_3800.jpg,dog-lying-012967,frame_114_timestamp_3800.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-006678__frame_145_timestamp_5800.jpg,dog-lying-006678,frame_145_timestamp_5800.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022008__frame_120_timestamp_4000.jpg,dog-lying-022008,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-030404__frame_120_timestamp_4000.jpg,dog-lying-030404,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-006649__frame_162_timestamp_5400.jpg,dog-lying-006649,frame_162_timestamp_5400.jpg,골든 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-004350__frame_102_timestamp_3400.jpg,dog-lying-004350,frame_102_timestamp_3400.jpg,페키니즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-082059__frame_1044_timestamp_17400.jpg,dog-lying-082059,frame_1044_timestamp_17400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,20201126_dog-lying-004864.mp4__frame_119_timestamp_3989.jpg,20201126_dog-lying-004864.mp4,frame_119_timestamp_3989.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-026687__frame_138_timestamp_4600.jpg,dog-lying-026687,frame_138_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,20201118_dog-lying-000068.mp4__frame_137_timestamp_4571.jpg,20201118_dog-lying-000068.mp4,frame_137_timestamp_4571.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,20201022_dog-lying-000036.mp4__frame_11_timestamp_367.jpg,20201022_dog-lying-000036.mp4,frame_11_timestamp_367.jpg,믹스견,배와 목을 보여주며 누움
+train,lying,dog-lying-029514__frame_162_timestamp_5400.jpg,dog-lying-029514,frame_162_timestamp_5400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098988__frame_0_timestamp_0.jpg,dog-lying-098988,frame_0_timestamp_0.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-101339__frame_100_timestamp_4000.jpg,dog-lying-101339,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-061564__frame_140_timestamp_5600.jpg,dog-lying-061564,frame_140_timestamp_5600.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-024049__frame_115_timestamp_4600.jpg,dog-lying-024049,frame_115_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-071511__frame_115_timestamp_4600.jpg,dog-lying-071511,frame_115_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-051138__frame_12_timestamp_400.jpg,dog-lying-051138,frame_12_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-061856__frame_1116_timestamp_18600.jpg,dog-lying-061856,frame_1116_timestamp_18600.jpg,올드 잉글리시 쉽독,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022113__frame_135_timestamp_5400.jpg,dog-lying-022113,frame_135_timestamp_5400.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-023940__frame_144_timestamp_4800.jpg,dog-lying-023940,frame_144_timestamp_4800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-085380__frame_0_timestamp_0.jpg,dog-lying-085380,frame_0_timestamp_0.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045702__frame_108_timestamp_3600.jpg,dog-lying-045702,frame_108_timestamp_3600.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098952__frame_114_timestamp_3800.jpg,dog-lying-098952,frame_114_timestamp_3800.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-050834__frame_126_timestamp_4200.jpg,dog-lying-050834,frame_126_timestamp_4200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-066178__frame_126_timestamp_4200.jpg,dog-lying-066178,frame_126_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-066265__frame_150_timestamp_5000.jpg,dog-lying-066265,frame_150_timestamp_5000.jpg,웰시 코기 (카디건),배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-029328__frame_132_timestamp_4400.jpg,dog-lying-029328,frame_132_timestamp_4400.jpg,오스트레일리안 실키 테리어,배와 목을 보여주며 눕는 동작
+train,lying,20201120_dog-lying-001949.mp4__frame_132_timestamp_4400.jpg,20201120_dog-lying-001949.mp4,frame_132_timestamp_4400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-079720__frame_198_timestamp_3600.jpg,dog-lying-079720,frame_198_timestamp_3600.jpg,미니어처 핀셔,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043951__frame_0_timestamp_0.jpg,dog-lying-043951,frame_0_timestamp_0.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-040613__frame_150_timestamp_5000.jpg,dog-lying-040613,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-072777__frame_108_timestamp_3600.jpg,dog-lying-072777,frame_108_timestamp_3600.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-016595__frame_125_timestamp_5000.jpg,dog-lying-016595,frame_125_timestamp_5000.jpg,파피용,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043935__frame_108_timestamp_3600.jpg,dog-lying-043935,frame_108_timestamp_3600.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-102010__frame_140_timestamp_5600.jpg,dog-lying-102010,frame_140_timestamp_5600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-070408__frame_132_timestamp_4400.jpg,dog-lying-070408,frame_132_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-009503__frame_130_timestamp_5200.jpg,dog-lying-009503,frame_130_timestamp_5200.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-048253__frame_120_timestamp_2000.jpg,dog-lying-048253,frame_120_timestamp_2000.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088585__frame_132_timestamp_4400.jpg,dog-lying-088585,frame_132_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-087264__frame_150_timestamp_6000.jpg,dog-lying-087264,frame_150_timestamp_6000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-100189__frame_12_timestamp_400.jpg,dog-lying-100189,frame_12_timestamp_400.jpg,재패니스 스피츠,배와 목을 보여주며 누움
+train,lying,dog-lying-070773__frame_145_timestamp_5800.jpg,dog-lying-070773,frame_145_timestamp_5800.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-052099__frame_0_timestamp_0.jpg,dog-lying-052099,frame_0_timestamp_0.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-013022__frame_138_timestamp_4600.jpg,dog-lying-013022,frame_138_timestamp_4600.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-081184__frame_110_timestamp_4400.jpg,dog-lying-081184,frame_110_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022281__frame_144_timestamp_4800.jpg,dog-lying-022281,frame_144_timestamp_4800.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-024787__frame_156_timestamp_5200.jpg,dog-lying-024787,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,20201120_dog-lying-003093.mp4__frame_150_timestamp_5000.jpg,20201120_dog-lying-003093.mp4,frame_150_timestamp_5000.jpg,파피용,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-044860__frame_126_timestamp_4200.jpg,dog-lying-044860,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-025895__frame_138_timestamp_4600.jpg,dog-lying-025895,frame_138_timestamp_4600.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022767__frame_138_timestamp_4600.jpg,dog-lying-022767,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-035128__frame_0_timestamp_0.jpg,dog-lying-035128,frame_0_timestamp_0.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-058264__frame_10_timestamp_400.jpg,dog-lying-058264,frame_10_timestamp_400.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-015233__frame_144_timestamp_4800.jpg,dog-lying-015233,frame_144_timestamp_4800.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088768__frame_150_timestamp_5000.jpg,dog-lying-088768,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-101331__frame_115_timestamp_4600.jpg,dog-lying-101331,frame_115_timestamp_4600.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-042939__frame_150_timestamp_6000.jpg,dog-lying-042939,frame_150_timestamp_6000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-016072__frame_162_timestamp_5400.jpg,dog-lying-016072,frame_162_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045353__frame_126_timestamp_4200.jpg,dog-lying-045353,frame_126_timestamp_4200.jpg,보더 콜리,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-004280.mp4__frame_102_timestamp_3400.jpg,20201202_dog-lying-004280.mp4,frame_102_timestamp_3400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022493__frame_105_timestamp_4200.jpg,dog-lying-022493,frame_105_timestamp_4200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-023944__frame_110_timestamp_4400.jpg,dog-lying-023944,frame_110_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-013880__frame_0_timestamp_0.jpg,dog-lying-013880,frame_0_timestamp_0.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022546__frame_115_timestamp_4600.jpg,dog-lying-022546,frame_115_timestamp_4600.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-036298__frame_12_timestamp_400.jpg,dog-lying-036298,frame_12_timestamp_400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-052905__frame_156_timestamp_5200.jpg,dog-lying-052905,frame_156_timestamp_5200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-020435__frame_138_timestamp_4600.jpg,dog-lying-020435,frame_138_timestamp_4600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-088487__frame_105_timestamp_4200.jpg,dog-lying-088487,frame_105_timestamp_4200.jpg,웰시 코기 (펨브록),배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-050757__frame_144_timestamp_4800.jpg,dog-lying-050757,frame_144_timestamp_4800.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045162__frame_135_timestamp_5400.jpg,dog-lying-045162,frame_135_timestamp_5400.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-039241__frame_12_timestamp_400.jpg,dog-lying-039241,frame_12_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-028308__frame_108_timestamp_3600.jpg,dog-lying-028308,frame_108_timestamp_3600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-036475__frame_144_timestamp_4800.jpg,dog-lying-036475,frame_144_timestamp_4800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,20201111_dog-lying-000055.mp4__frame_102_timestamp_3400.jpg,20201111_dog-lying-000055.mp4,frame_102_timestamp_3400.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-024808__frame_220_timestamp_4000.jpg,dog-lying-024808,frame_220_timestamp_4000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-036003__frame_162_timestamp_5400.jpg,dog-lying-036003,frame_162_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-014074__frame_120_timestamp_4000.jpg,dog-lying-014074,frame_120_timestamp_4000.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-063104__frame_145_timestamp_5800.jpg,dog-lying-063104,frame_145_timestamp_5800.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-016624__frame_126_timestamp_4200.jpg,dog-lying-016624,frame_126_timestamp_4200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045156__frame_145_timestamp_5800.jpg,dog-lying-045156,frame_145_timestamp_5800.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022377__frame_0_timestamp_0.jpg,dog-lying-022377,frame_0_timestamp_0.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-017418__frame_120_timestamp_4000.jpg,dog-lying-017418,frame_120_timestamp_4000.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-014888__frame_12_timestamp_400.jpg,dog-lying-014888,frame_12_timestamp_400.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-070419__frame_102_timestamp_3400.jpg,dog-lying-070419,frame_102_timestamp_3400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022937__frame_125_timestamp_5000.jpg,dog-lying-022937,frame_125_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-026745__frame_10_timestamp_400.jpg,dog-lying-026745,frame_10_timestamp_400.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-053377__frame_126_timestamp_4200.jpg,dog-lying-053377,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-040448__frame_132_timestamp_4400.jpg,dog-lying-040448,frame_132_timestamp_4400.jpg,골든 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-015037__frame_120_timestamp_4000.jpg,dog-lying-015037,frame_120_timestamp_4000.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047789__frame_10_timestamp_400.jpg,dog-lying-047789,frame_10_timestamp_400.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-081382__frame_138_timestamp_4600.jpg,dog-lying-081382,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-065517__frame_120_timestamp_4000.jpg,dog-lying-065517,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-071828__frame_108_timestamp_3600.jpg,dog-lying-071828,frame_108_timestamp_3600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-064338__frame_102_timestamp_3400.jpg,dog-lying-064338,frame_102_timestamp_3400.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-055917__frame_126_timestamp_4200.jpg,dog-lying-055917,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-033470__frame_162_timestamp_5400.jpg,dog-lying-033470,frame_162_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-102859__frame_0_timestamp_0.jpg,dog-lying-102859,frame_0_timestamp_0.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-064408__frame_162_timestamp_5400.jpg,dog-lying-064408,frame_162_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-050860__frame_114_timestamp_3800.jpg,dog-lying-050860,frame_114_timestamp_3800.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-066616__frame_102_timestamp_3400.jpg,dog-lying-066616,frame_102_timestamp_3400.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021975__frame_132_timestamp_4400.jpg,dog-lying-021975,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-040327__frame_132_timestamp_2200.jpg,dog-lying-040327,frame_132_timestamp_2200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-041558__frame_0_timestamp_0.jpg,dog-lying-041558,frame_0_timestamp_0.jpg,믹스견,배와 목을 보여주며 누움
+train,lying,dog-lying-082039__frame_162_timestamp_5400.jpg,dog-lying-082039,frame_162_timestamp_5400.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,20201125_dog-lying-002755.mp4__frame_131_timestamp_4371.jpg,20201125_dog-lying-002755.mp4,frame_131_timestamp_4371.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-049967__frame_138_timestamp_4600.jpg,dog-lying-049967,frame_138_timestamp_4600.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-042861__frame_108_timestamp_3600.jpg,dog-lying-042861,frame_108_timestamp_3600.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-034283__frame_114_timestamp_3800.jpg,dog-lying-034283,frame_114_timestamp_3800.jpg,비숑 프리제,배와 목을 보여주며 누움
+train,lying,dog-lying-040646__frame_126_timestamp_4200.jpg,dog-lying-040646,frame_126_timestamp_4200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-008694.mp4__frame_132_timestamp_4400.jpg,20201202_dog-lying-008694.mp4,frame_132_timestamp_4400.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-051731__frame_156_timestamp_5200.jpg,dog-lying-051731,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-034499__frame_130_timestamp_5200.jpg,dog-lying-034499,frame_130_timestamp_5200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-052064__frame_120_timestamp_4000.jpg,dog-lying-052064,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-093595__frame_150_timestamp_6000.jpg,dog-lying-093595,frame_150_timestamp_6000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045834__frame_115_timestamp_4600.jpg,dog-lying-045834,frame_115_timestamp_4600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-009118.mp4__frame_108_timestamp_3600.jpg,20201202_dog-lying-009118.mp4,frame_108_timestamp_3600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-030647__frame_162_timestamp_5400.jpg,dog-lying-030647,frame_162_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-050095__frame_100_timestamp_4000.jpg,dog-lying-050095,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-028540__frame_138_timestamp_4600.jpg,dog-lying-028540,frame_138_timestamp_4600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-052192__frame_140_timestamp_5600.jpg,dog-lying-052192,frame_140_timestamp_5600.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047214__frame_105_timestamp_4200.jpg,dog-lying-047214,frame_105_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-068711__frame_114_timestamp_3800.jpg,dog-lying-068711,frame_114_timestamp_3800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-005444.mp4__frame_155_timestamp_5172.jpg,20201202_dog-lying-005444.mp4,frame_155_timestamp_5172.jpg,요크셔 테리어,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021901__frame_0_timestamp_0.jpg,dog-lying-021901,frame_0_timestamp_0.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-090822__frame_132_timestamp_4400.jpg,dog-lying-090822,frame_132_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098973__frame_12_timestamp_400.jpg,dog-lying-098973,frame_12_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-050057__frame_156_timestamp_5200.jpg,dog-lying-050057,frame_156_timestamp_5200.jpg,보더 콜리,배와 목을 보여주며 누움
+train,lying,dog-lying-081179__frame_138_timestamp_4600.jpg,dog-lying-081179,frame_138_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-087589__frame_102_timestamp_3400.jpg,dog-lying-087589,frame_102_timestamp_3400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-029603__frame_0_timestamp_0.jpg,dog-lying-029603,frame_0_timestamp_0.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-072267__frame_120_timestamp_4000.jpg,dog-lying-072267,frame_120_timestamp_4000.jpg,래브라도 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-066590__frame_0_timestamp_0.jpg,dog-lying-066590,frame_0_timestamp_0.jpg,보더 콜리,배와 목을 보여주며 누움
+train,lying,dog-lying-021910__frame_150_timestamp_5000.jpg,dog-lying-021910,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-033786__frame_144_timestamp_4800.jpg,dog-lying-033786,frame_144_timestamp_4800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-067101__frame_102_timestamp_3400.jpg,dog-lying-067101,frame_102_timestamp_3400.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045856__frame_1045_timestamp_19000.jpg,dog-lying-045856,frame_1045_timestamp_19000.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,20201025_dog-lying-000083.mp4__frame_132_timestamp_4400.jpg,20201025_dog-lying-000083.mp4,frame_132_timestamp_4400.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-050254__frame_0_timestamp_0.jpg,dog-lying-050254,frame_0_timestamp_0.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-034072__frame_102_timestamp_3400.jpg,dog-lying-034072,frame_102_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-027665__frame_130_timestamp_5200.jpg,dog-lying-027665,frame_130_timestamp_5200.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-027483__frame_162_timestamp_5400.jpg,dog-lying-027483,frame_162_timestamp_5400.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,20201117_dog-lying-001361.mp4__frame_150_timestamp_5000.jpg,20201117_dog-lying-001361.mp4,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-046187__frame_156_timestamp_5200.jpg,dog-lying-046187,frame_156_timestamp_5200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-065494__frame_110_timestamp_4400.jpg,dog-lying-065494,frame_110_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,20201124_dog-lying-002046.mp4__frame_0_timestamp_0.jpg,20201124_dog-lying-002046.mp4,frame_0_timestamp_0.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-100786__frame_144_timestamp_4800.jpg,dog-lying-100786,frame_144_timestamp_4800.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022005__frame_162_timestamp_5400.jpg,dog-lying-022005,frame_162_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022118__frame_110_timestamp_4400.jpg,dog-lying-022118,frame_110_timestamp_4400.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-023358__frame_150_timestamp_5000.jpg,dog-lying-023358,frame_150_timestamp_5000.jpg,래브라도 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-002087.mp4__frame_114_timestamp_3800.jpg,20201202_dog-lying-002087.mp4,frame_114_timestamp_3800.jpg,셔틀랜드 쉽독,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022644__frame_115_timestamp_4600.jpg,dog-lying-022644,frame_115_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-012050__frame_114_timestamp_3800.jpg,dog-lying-012050,frame_114_timestamp_3800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-072609__frame_108_timestamp_5400.jpg,dog-lying-072609,frame_108_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-044069__frame_120_timestamp_4000.jpg,dog-lying-044069,frame_120_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-041629__frame_120_timestamp_4000.jpg,dog-lying-041629,frame_120_timestamp_4000.jpg,시추,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-006710__frame_138_timestamp_4600.jpg,dog-lying-006710,frame_138_timestamp_4600.jpg,페키니즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-025201__frame_126_timestamp_4200.jpg,dog-lying-025201,frame_126_timestamp_4200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-028981__frame_162_timestamp_5400.jpg,dog-lying-028981,frame_162_timestamp_5400.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-015724__frame_132_timestamp_4400.jpg,dog-lying-015724,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-071600__frame_140_timestamp_5600.jpg,dog-lying-071600,frame_140_timestamp_5600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-047782__frame_100_timestamp_4000.jpg,dog-lying-047782,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-033815__frame_120_timestamp_4000.jpg,dog-lying-033815,frame_120_timestamp_4000.jpg,시바,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-018845__frame_108_timestamp_3600.jpg,dog-lying-018845,frame_108_timestamp_3600.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-039477__frame_105_timestamp_4200.jpg,dog-lying-039477,frame_105_timestamp_4200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-030935__frame_120_timestamp_4000.jpg,dog-lying-030935,frame_120_timestamp_4000.jpg,독일 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-069082__frame_102_timestamp_3400.jpg,dog-lying-069082,frame_102_timestamp_3400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-100426__frame_0_timestamp_0.jpg,dog-lying-100426,frame_0_timestamp_0.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043773__frame_144_timestamp_4800.jpg,dog-lying-043773,frame_144_timestamp_4800.jpg,로트바일러,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-013717__frame_130_timestamp_5200.jpg,dog-lying-013717,frame_130_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-023346__frame_138_timestamp_4600.jpg,dog-lying-023346,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022705__frame_102_timestamp_3400.jpg,dog-lying-022705,frame_102_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-081652__frame_110_timestamp_4400.jpg,dog-lying-081652,frame_110_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-012369__frame_156_timestamp_5200.jpg,dog-lying-012369,frame_156_timestamp_5200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-089979__frame_126_timestamp_4200.jpg,dog-lying-089979,frame_126_timestamp_4200.jpg,믹스견,배와 목을 보여주며 누움
+train,lying,dog-lying-036747__frame_138_timestamp_4600.jpg,dog-lying-036747,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-080573__frame_126_timestamp_4200.jpg,dog-lying-080573,frame_126_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-072903__frame_120_timestamp_4000.jpg,dog-lying-072903,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-042291__frame_105_timestamp_4200.jpg,dog-lying-042291,frame_105_timestamp_4200.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-063717__frame_156_timestamp_5200.jpg,dog-lying-063717,frame_156_timestamp_5200.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-088637__frame_150_timestamp_6000.jpg,dog-lying-088637,frame_150_timestamp_6000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-060290__frame_120_timestamp_4000.jpg,dog-lying-060290,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-073641__frame_144_timestamp_4800.jpg,dog-lying-073641,frame_144_timestamp_4800.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-023201__frame_10_timestamp_400.jpg,dog-lying-023201,frame_10_timestamp_400.jpg,시베리안 허스키,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-024747__frame_108_timestamp_3600.jpg,dog-lying-024747,frame_108_timestamp_3600.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-069142__frame_100_timestamp_4000.jpg,dog-lying-069142,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-017420__frame_132_timestamp_2200.jpg,dog-lying-017420,frame_132_timestamp_2200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-026696__frame_144_timestamp_4800.jpg,dog-lying-026696,frame_144_timestamp_4800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-072744__frame_126_timestamp_4200.jpg,dog-lying-072744,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-041923__frame_110_timestamp_2000.jpg,dog-lying-041923,frame_110_timestamp_2000.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-015284__frame_132_timestamp_4400.jpg,dog-lying-015284,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-100308__frame_0_timestamp_0.jpg,dog-lying-100308,frame_0_timestamp_0.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-004502.mp4__frame_108_timestamp_3600.jpg,20201202_dog-lying-004502.mp4,frame_108_timestamp_3600.jpg,골든 리트리버,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-060660__frame_0_timestamp_0.jpg,dog-lying-060660,frame_0_timestamp_0.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-025084__frame_132_timestamp_4400.jpg,dog-lying-025084,frame_132_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-069512__frame_150_timestamp_5000.jpg,dog-lying-069512,frame_150_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-063730__frame_0_timestamp_0.jpg,dog-lying-063730,frame_0_timestamp_0.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-070058__frame_100_timestamp_4000.jpg,dog-lying-070058,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-020046__frame_12_timestamp_400.jpg,dog-lying-020046,frame_12_timestamp_400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,20201118_dog-lying-000198.mp4__frame_0_timestamp_0.jpg,20201118_dog-lying-000198.mp4,frame_0_timestamp_0.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-055516__frame_100_timestamp_4000.jpg,dog-lying-055516,frame_100_timestamp_4000.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-040344__frame_120_timestamp_4800.jpg,dog-lying-040344,frame_120_timestamp_4800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-089298__frame_120_timestamp_4800.jpg,dog-lying-089298,frame_120_timestamp_4800.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-101901__frame_105_timestamp_4200.jpg,dog-lying-101901,frame_105_timestamp_4200.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098372__frame_156_timestamp_5200.jpg,dog-lying-098372,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-081758__frame_15_timestamp_600.jpg,dog-lying-081758,frame_15_timestamp_600.jpg,진돗개,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-036934__frame_144_timestamp_4800.jpg,dog-lying-036934,frame_144_timestamp_4800.jpg,푸들,배와 목을 보여주며 누움
+train,lying,dog-lying-032541__frame_150_timestamp_5000.jpg,dog-lying-032541,frame_150_timestamp_5000.jpg,말티즈,배와 목을 보여주며 누움
+train,lying,dog-lying-014229__frame_156_timestamp_5200.jpg,dog-lying-014229,frame_156_timestamp_5200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-049658__frame_145_timestamp_5800.jpg,dog-lying-049658,frame_145_timestamp_5800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-068182__frame_125_timestamp_5000.jpg,dog-lying-068182,frame_125_timestamp_5000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-053031__frame_135_timestamp_5400.jpg,dog-lying-053031,frame_135_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-033979__frame_126_timestamp_4200.jpg,dog-lying-033979,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-098370__frame_120_timestamp_4000.jpg,dog-lying-098370,frame_120_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-007894.mp4__frame_126_timestamp_4200.jpg,20201202_dog-lying-007894.mp4,frame_126_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-065150__frame_10_timestamp_400.jpg,dog-lying-065150,frame_10_timestamp_400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-052065__frame_156_timestamp_5200.jpg,dog-lying-052065,frame_156_timestamp_5200.jpg,퍼그,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-039170__frame_162_timestamp_5400.jpg,dog-lying-039170,frame_162_timestamp_5400.jpg,치와와,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-031992__frame_150_timestamp_5000.jpg,dog-lying-031992,frame_150_timestamp_5000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,20201124_dog-lying-002396.mp4__frame_162_timestamp_5400.jpg,20201124_dog-lying-002396.mp4,frame_162_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-099716__frame_138_timestamp_4600.jpg,dog-lying-099716,frame_138_timestamp_4600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-090820__frame_102_timestamp_3400.jpg,dog-lying-090820,frame_102_timestamp_3400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-030780__frame_162_timestamp_5400.jpg,dog-lying-030780,frame_162_timestamp_5400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-018315__frame_210_timestamp_7000.jpg,dog-lying-018315,frame_210_timestamp_7000.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-022702__frame_132_timestamp_4400.jpg,dog-lying-022702,frame_132_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-092414__frame_144_timestamp_4800.jpg,dog-lying-092414,frame_144_timestamp_4800.jpg,독일 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-030750__frame_108_timestamp_3600.jpg,dog-lying-030750,frame_108_timestamp_3600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-032463__frame_100_timestamp_4000.jpg,dog-lying-032463,frame_100_timestamp_4000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045753__frame_162_timestamp_5400.jpg,dog-lying-045753,frame_162_timestamp_5400.jpg,보더 콜리,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-027693__frame_156_timestamp_5200.jpg,dog-lying-027693,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,20201126_dog-lying-001630.mp4__frame_131_timestamp_4391.jpg,20201126_dog-lying-001630.mp4,frame_131_timestamp_4391.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-049649__frame_102_timestamp_3400.jpg,dog-lying-049649,frame_102_timestamp_3400.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-035536__frame_138_timestamp_4600.jpg,dog-lying-035536,frame_138_timestamp_4600.jpg,퍼그,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-081337__frame_110_timestamp_4400.jpg,dog-lying-081337,frame_110_timestamp_4400.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-043113__frame_140_timestamp_5600.jpg,dog-lying-043113,frame_140_timestamp_5600.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-041699__frame_150_timestamp_5000.jpg,dog-lying-041699,frame_150_timestamp_5000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-045984__frame_150_timestamp_6000.jpg,dog-lying-045984,frame_150_timestamp_6000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-059834__frame_150_timestamp_6000.jpg,dog-lying-059834,frame_150_timestamp_6000.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+train,lying,20201124_dog-lying-001926.mp4__frame_131_timestamp_4379.jpg,20201124_dog-lying-001926.mp4,frame_131_timestamp_4379.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-057945__frame_125_timestamp_5000.jpg,dog-lying-057945,frame_125_timestamp_5000.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-031869__frame_114_timestamp_3800.jpg,dog-lying-031869,frame_114_timestamp_3800.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-061277__frame_1032_timestamp_17200.jpg,dog-lying-061277,frame_1032_timestamp_17200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-101499__frame_105_timestamp_4200.jpg,dog-lying-101499,frame_105_timestamp_4200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-049128__frame_135_timestamp_5400.jpg,dog-lying-049128,frame_135_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-069527__frame_120_timestamp_4000.jpg,dog-lying-069527,frame_120_timestamp_4000.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-021193__frame_126_timestamp_4200.jpg,dog-lying-021193,frame_126_timestamp_4200.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,20201202_dog-lying-010053.mp4__frame_12_timestamp_400.jpg,20201202_dog-lying-010053.mp4,frame_12_timestamp_400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-091683__frame_108_timestamp_3600.jpg,dog-lying-091683,frame_108_timestamp_3600.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-014366__frame_156_timestamp_5200.jpg,dog-lying-014366,frame_156_timestamp_5200.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-040848__frame_150_timestamp_5000.jpg,dog-lying-040848,frame_150_timestamp_5000.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-078233__frame_126_timestamp_4200.jpg,dog-lying-078233,frame_126_timestamp_4200.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+train,lying,20201104_dog-lying-000552.mp4__frame_161_timestamp_5382.jpg,20201104_dog-lying-000552.mp4,frame_161_timestamp_5382.jpg,포메라니안,배와 목을 보여주며 누움
+train,lying,dog-lying-090816__frame_126_timestamp_4200.jpg,dog-lying-090816,frame_126_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-040661__frame_132_timestamp_4400.jpg,dog-lying-040661,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+train,lying,dog-lying-032755__frame_132_timestamp_4400.jpg,dog-lying-032755,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-039946__frame_0_timestamp_0.jpg,dog-lying-039946,frame_0_timestamp_0.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-048673__frame_1008_timestamp_16800.jpg,dog-lying-048673,frame_1008_timestamp_16800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-078351__frame_132_timestamp_4400.jpg,dog-lying-078351,frame_132_timestamp_4400.jpg,웰시 코기 (카디건),배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-071545__frame_102_timestamp_3400.jpg,dog-lying-071545,frame_102_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-065230__frame_126_timestamp_4200.jpg,dog-lying-065230,frame_126_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-025411__frame_132_timestamp_4400.jpg,dog-lying-025411,frame_132_timestamp_4400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-078709__frame_125_timestamp_5000.jpg,dog-lying-078709,frame_125_timestamp_5000.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-051978__frame_114_timestamp_3800.jpg,dog-lying-051978,frame_114_timestamp_3800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-022398__frame_120_timestamp_4000.jpg,dog-lying-022398,frame_120_timestamp_4000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-021264__frame_162_timestamp_5400.jpg,dog-lying-021264,frame_162_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-021972__frame_126_timestamp_4200.jpg,dog-lying-021972,frame_126_timestamp_4200.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-090857__frame_144_timestamp_4800.jpg,dog-lying-090857,frame_144_timestamp_4800.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-060886__frame_135_timestamp_5400.jpg,dog-lying-060886,frame_135_timestamp_5400.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-090844__frame_108_timestamp_3600.jpg,dog-lying-090844,frame_108_timestamp_3600.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-026878__frame_128_timestamp_6400.jpg,dog-lying-026878,frame_128_timestamp_6400.jpg,진돗개,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-021840__frame_100_timestamp_4000.jpg,dog-lying-021840,frame_100_timestamp_4000.jpg,피니시 스피츠,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-035606__frame_1056_timestamp_19200.jpg,dog-lying-035606,frame_1056_timestamp_19200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-072406__frame_145_timestamp_5800.jpg,dog-lying-072406,frame_145_timestamp_5800.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-013273__frame_162_timestamp_5400.jpg,dog-lying-013273,frame_162_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-013990__frame_102_timestamp_3400.jpg,dog-lying-013990,frame_102_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-013634__frame_126_timestamp_4200.jpg,dog-lying-013634,frame_126_timestamp_4200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-026915__frame_138_timestamp_4600.jpg,dog-lying-026915,frame_138_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-073892__frame_140_timestamp_5600.jpg,dog-lying-073892,frame_140_timestamp_5600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-030209__frame_102_timestamp_3400.jpg,dog-lying-030209,frame_102_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,20201026_dog-lying-000112.mp4__frame_162_timestamp_5400.jpg,20201026_dog-lying-000112.mp4,frame_162_timestamp_5400.jpg,푸들,배와 목을 보여주며 누움
+val,lying,dog-lying-041820__frame_110_timestamp_4400.jpg,dog-lying-041820,frame_110_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-072608__frame_132_timestamp_2200.jpg,dog-lying-072608,frame_132_timestamp_2200.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-050624__frame_165_timestamp_3000.jpg,dog-lying-050624,frame_165_timestamp_3000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-098378__frame_12_timestamp_400.jpg,dog-lying-098378,frame_12_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-057908__frame_204_timestamp_3400.jpg,dog-lying-057908,frame_204_timestamp_3400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-016594__frame_12_timestamp_400.jpg,dog-lying-016594,frame_12_timestamp_400.jpg,파피용,배와 목을 보여주며 눕는 동작
+val,lying,20201126_dog-lying-002062.mp4__frame_114_timestamp_3800.jpg,20201126_dog-lying-002062.mp4,frame_114_timestamp_3800.jpg,셔틀랜드 쉽독,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-098155__frame_144_timestamp_4800.jpg,dog-lying-098155,frame_144_timestamp_4800.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-057246__frame_10_timestamp_400.jpg,dog-lying-057246,frame_10_timestamp_400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,20201125_dog-lying-002545.mp4__frame_138_timestamp_4600.jpg,20201125_dog-lying-002545.mp4,frame_138_timestamp_4600.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-059621__frame_105_timestamp_4200.jpg,dog-lying-059621,frame_105_timestamp_4200.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-056673__frame_132_timestamp_4400.jpg,dog-lying-056673,frame_132_timestamp_4400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-073230__frame_120_timestamp_4800.jpg,dog-lying-073230,frame_120_timestamp_4800.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-080979__frame_102_timestamp_3400.jpg,dog-lying-080979,frame_102_timestamp_3400.jpg,재패니스 스피츠,배와 목을 보여주며 누움
+val,lying,dog-lying-028166__frame_126_timestamp_4200.jpg,dog-lying-028166,frame_126_timestamp_4200.jpg,요크셔 테리어,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-044193__frame_10_timestamp_400.jpg,dog-lying-044193,frame_10_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-041613__frame_156_timestamp_5200.jpg,dog-lying-041613,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-017030__frame_144_timestamp_4800.jpg,dog-lying-017030,frame_144_timestamp_4800.jpg,치와와,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-050040__frame_12_timestamp_400.jpg,dog-lying-050040,frame_12_timestamp_400.jpg,웰시 코기 (카디건),배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-057868__frame_1128_timestamp_18800.jpg,dog-lying-057868,frame_1128_timestamp_18800.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-012705__frame_12_timestamp_400.jpg,dog-lying-012705,frame_12_timestamp_400.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,20201202_dog-lying-009978.mp4__frame_144_timestamp_4800.jpg,20201202_dog-lying-009978.mp4,frame_144_timestamp_4800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-073562__frame_162_timestamp_5400.jpg,dog-lying-073562,frame_162_timestamp_5400.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-041389__frame_115_timestamp_4600.jpg,dog-lying-041389,frame_115_timestamp_4600.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-089635__frame_130_timestamp_5200.jpg,dog-lying-089635,frame_130_timestamp_5200.jpg,래브라도 리트리버,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-079361__frame_156_timestamp_5200.jpg,dog-lying-079361,frame_156_timestamp_5200.jpg,로트바일러,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-050385__frame_114_timestamp_3800.jpg,dog-lying-050385,frame_114_timestamp_3800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-042782__frame_105_timestamp_4200.jpg,dog-lying-042782,frame_105_timestamp_4200.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-054162__frame_150_timestamp_5000.jpg,dog-lying-054162,frame_150_timestamp_5000.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,20201123_dog-lying-002004.mp4__frame_150_timestamp_5000.jpg,20201123_dog-lying-002004.mp4,frame_150_timestamp_5000.jpg,비숑 프리제,배와 목을 보여주며 눕는 동작
+val,lying,20201202_dog-lying-002220.mp4__frame_102_timestamp_3400.jpg,20201202_dog-lying-002220.mp4,frame_102_timestamp_3400.jpg,파피용,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-045029__frame_156_timestamp_5200.jpg,dog-lying-045029,frame_156_timestamp_5200.jpg,시추,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-025358__frame_156_timestamp_5200.jpg,dog-lying-025358,frame_156_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-100705__frame_144_timestamp_4800.jpg,dog-lying-100705,frame_144_timestamp_4800.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-035116__frame_132_timestamp_4400.jpg,dog-lying-035116,frame_132_timestamp_4400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-040610__frame_102_timestamp_3400.jpg,dog-lying-040610,frame_102_timestamp_3400.jpg,재패니스 스피츠,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-029272__frame_135_timestamp_5400.jpg,dog-lying-029272,frame_135_timestamp_5400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-063763__frame_135_timestamp_5400.jpg,dog-lying-063763,frame_135_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-029840__frame_132_timestamp_4400.jpg,dog-lying-029840,frame_132_timestamp_4400.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-063831__frame_115_timestamp_4600.jpg,dog-lying-063831,frame_115_timestamp_4600.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-081412__frame_130_timestamp_5200.jpg,dog-lying-081412,frame_130_timestamp_5200.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-069137__frame_102_timestamp_3400.jpg,dog-lying-069137,frame_102_timestamp_3400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-073005__frame_125_timestamp_5000.jpg,dog-lying-073005,frame_125_timestamp_5000.jpg,치와와,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-090859__frame_108_timestamp_3600.jpg,dog-lying-090859,frame_108_timestamp_3600.jpg,푸들,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-014364__frame_120_timestamp_4000.jpg,dog-lying-014364,frame_120_timestamp_4000.jpg,닥스훈트,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-089948__frame_12_timestamp_400.jpg,dog-lying-089948,frame_12_timestamp_400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-040394__frame_1008_timestamp_16800.jpg,dog-lying-040394,frame_1008_timestamp_16800.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-023142__frame_135_timestamp_5400.jpg,dog-lying-023142,frame_135_timestamp_5400.jpg,믹스견,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-045355__frame_102_timestamp_3400.jpg,dog-lying-045355,frame_102_timestamp_3400.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-020356__frame_150_timestamp_5000.jpg,dog-lying-020356,frame_150_timestamp_5000.jpg,포메라니안,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-089641__frame_135_timestamp_5400.jpg,dog-lying-089641,frame_135_timestamp_5400.jpg,래브라도 리트리버,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-033970__frame_180_timestamp_3000.jpg,dog-lying-033970,frame_180_timestamp_3000.jpg,치와와,배와 목을 보여주며 눕는 동작
+val,lying,20201123_dog-lying-000334.mp4__frame_12_timestamp_400.jpg,20201123_dog-lying-000334.mp4,frame_12_timestamp_400.jpg,셔틀랜드 쉽독,배와 목을 보여주며 눕는 동작
+val,lying,20201124_dog-lying-001916.mp4__frame_11_timestamp_367.jpg,20201124_dog-lying-001916.mp4,frame_11_timestamp_367.jpg,셔틀랜드 쉽독,배와 목을 보여주며 눕는 동작
+val,lying,dog-lying-081881__frame_132_timestamp_4400.jpg,dog-lying-081881,frame_132_timestamp_4400.jpg,말티즈,배와 목을 보여주며 눕는 동작
+train,sit,dog-sit-043271__frame_132_timestamp_4400.jpg,dog-sit-043271,frame_132_timestamp_4400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-060901__frame_18_timestamp_600.jpg,dog-sit-060901,frame_18_timestamp_600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-091064__frame_125_timestamp_5000.jpg,dog-sit-091064,frame_125_timestamp_5000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-052422__frame_115_timestamp_4600.jpg,dog-sit-052422,frame_115_timestamp_4600.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-053724__frame_150_timestamp_6000.jpg,dog-sit-053724,frame_150_timestamp_6000.jpg,말티즈,앉기
+train,sit,dog-sit-027950__frame_114_timestamp_3800.jpg,dog-sit-027950,frame_114_timestamp_3800.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-070796__frame_150_timestamp_6000.jpg,dog-sit-070796,frame_150_timestamp_6000.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-088820__frame_150_timestamp_6000.jpg,dog-sit-088820,frame_150_timestamp_6000.jpg,말티즈,앉는 동작
+train,sit,20201202_dog-sit-003954.mp4__frame_156_timestamp_5200.jpg,20201202_dog-sit-003954.mp4,frame_156_timestamp_5200.jpg,셔틀랜드 쉽독,앉는 동작
+train,sit,dog-sit-099900__frame_162_timestamp_5400.jpg,dog-sit-099900,frame_162_timestamp_5400.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-012052__frame_1032_timestamp_17200.jpg,dog-sit-012052,frame_1032_timestamp_17200.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-012843__frame_102_timestamp_3400.jpg,dog-sit-012843,frame_102_timestamp_3400.jpg,푸들,앉는 동작
+train,sit,dog-sit-099609__frame_105_timestamp_4200.jpg,dog-sit-099609,frame_105_timestamp_4200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-072584__frame_156_timestamp_5200.jpg,dog-sit-072584,frame_156_timestamp_5200.jpg,치와와,앉는 동작
+train,sit,dog-sit-098313__frame_120_timestamp_4800.jpg,dog-sit-098313,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-063988__frame_150_timestamp_6000.jpg,dog-sit-063988,frame_150_timestamp_6000.jpg,푸들,앉는 동작
+train,sit,dog-sit-038470__frame_132_timestamp_4400.jpg,dog-sit-038470,frame_132_timestamp_4400.jpg,푸들,앉는 동작
+train,sit,dog-sit-071004__frame_102_timestamp_6800.jpg,dog-sit-071004,frame_102_timestamp_6800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-078899__frame_0_timestamp_0.jpg,dog-sit-078899,frame_0_timestamp_0.jpg,말티즈,앉는 동작
+train,sit,dog-sit-042317__frame_135_timestamp_5400.jpg,dog-sit-042317,frame_135_timestamp_5400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-043241__frame_110_timestamp_4400.jpg,dog-sit-043241,frame_110_timestamp_4400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-087984__frame_102_timestamp_3400.jpg,dog-sit-087984,frame_102_timestamp_3400.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-099563__frame_0_timestamp_0.jpg,dog-sit-099563,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-057994__frame_156_timestamp_5200.jpg,dog-sit-057994,frame_156_timestamp_5200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-098323__frame_100_timestamp_4000.jpg,dog-sit-098323,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-020503__frame_132_timestamp_4400.jpg,dog-sit-020503,frame_132_timestamp_4400.jpg,닥스훈트,앉기
+train,sit,dog-sit-047650__frame_150_timestamp_6000.jpg,dog-sit-047650,frame_150_timestamp_6000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-028750__frame_115_timestamp_4600.jpg,dog-sit-028750,frame_115_timestamp_4600.jpg,시베리안 허스키,앉는 동작
+train,sit,dog-sit-080628__frame_135_timestamp_5400.jpg,dog-sit-080628,frame_135_timestamp_5400.jpg,치와와,앉기
+train,sit,20201121_dog-sit-001519.mp4__frame_149_timestamp_4972.jpg,20201121_dog-sit-001519.mp4,frame_149_timestamp_4972.jpg,믹스견,앉는 동작
+train,sit,dog-sit-092198__frame_0_timestamp_0.jpg,dog-sit-092198,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-072816__frame_108_timestamp_3600.jpg,dog-sit-072816,frame_108_timestamp_3600.jpg,로트바일러,앉는 동작
+train,sit,dog-sit-092370__frame_126_timestamp_4200.jpg,dog-sit-092370,frame_126_timestamp_4200.jpg,시추,앉기
+train,sit,dog-sit-042083__frame_1001_timestamp_18200.jpg,dog-sit-042083,frame_1001_timestamp_18200.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-024236__frame_156_timestamp_5200.jpg,dog-sit-024236,frame_156_timestamp_5200.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-092971__frame_132_timestamp_4400.jpg,dog-sit-092971,frame_132_timestamp_4400.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,20201118_dog-sit-001333.mp4__frame_125_timestamp_4171.jpg,20201118_dog-sit-001333.mp4,frame_125_timestamp_4171.jpg,셔틀랜드 쉽독,앉기
+train,sit,dog-sit-087299__frame_105_timestamp_4200.jpg,dog-sit-087299,frame_105_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-087806__frame_140_timestamp_5600.jpg,dog-sit-087806,frame_140_timestamp_5600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-013340__frame_1092_timestamp_18200.jpg,dog-sit-013340,frame_1092_timestamp_18200.jpg,푸들,앉는 동작
+train,sit,dog-sit-049148__frame_130_timestamp_5200.jpg,dog-sit-049148,frame_130_timestamp_5200.jpg,푸들,앉는 동작
+train,sit,dog-sit-025437__frame_12_timestamp_400.jpg,dog-sit-025437,frame_12_timestamp_400.jpg,파피용,앉기
+train,sit,dog-sit-045178__frame_120_timestamp_2000.jpg,dog-sit-045178,frame_120_timestamp_2000.jpg,푸들,앉는 동작
+train,sit,dog-sit-005759__frame_120_timestamp_4000.jpg,dog-sit-005759,frame_120_timestamp_4000.jpg,믹스견,앉는 동작
+train,sit,dog-sit-051857__frame_1067_timestamp_19400.jpg,dog-sit-051857,frame_1067_timestamp_19400.jpg,말티즈,앉는 동작
+train,sit,20201202_dog-sit-003399.mp4__frame_132_timestamp_4400.jpg,20201202_dog-sit-003399.mp4,frame_132_timestamp_4400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-098057__frame_140_timestamp_5600.jpg,dog-sit-098057,frame_140_timestamp_5600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-036635__frame_110_timestamp_4400.jpg,dog-sit-036635,frame_110_timestamp_4400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-043588__frame_114_timestamp_3800.jpg,dog-sit-043588,frame_114_timestamp_3800.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-029107__frame_10_timestamp_400.jpg,dog-sit-029107,frame_10_timestamp_400.jpg,푸들,앉는 동작
+train,sit,dog-sit-097972__frame_145_timestamp_5800.jpg,dog-sit-097972,frame_145_timestamp_5800.jpg,말티즈,앉는 동작
+train,sit,20201202_dog-sit-004402.mp4__frame_108_timestamp_3600.jpg,20201202_dog-sit-004402.mp4,frame_108_timestamp_3600.jpg,믹스견,앉는 동작
+train,sit,dog-sit-032250__frame_120_timestamp_4800.jpg,dog-sit-032250,frame_120_timestamp_4800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-098583__frame_138_timestamp_4600.jpg,dog-sit-098583,frame_138_timestamp_4600.jpg,푸들,앉는 동작
+train,sit,dog-sit-068630__frame_162_timestamp_5400.jpg,dog-sit-068630,frame_162_timestamp_5400.jpg,푸들,앉는 동작
+train,sit,dog-sit-038755__frame_150_timestamp_6000.jpg,dog-sit-038755,frame_150_timestamp_6000.jpg,푸들,앉는 동작
+train,sit,dog-sit-042190__frame_1023_timestamp_18600.jpg,dog-sit-042190,frame_1023_timestamp_18600.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-090995__frame_100_timestamp_4000.jpg,dog-sit-090995,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-022483__frame_144_timestamp_4800.jpg,dog-sit-022483,frame_144_timestamp_4800.jpg,푸들,앉는 동작
+train,sit,dog-sit-052243__frame_0_timestamp_0.jpg,dog-sit-052243,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-102083__frame_150_timestamp_5000.jpg,dog-sit-102083,frame_150_timestamp_5000.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-064390__frame_150_timestamp_5000.jpg,dog-sit-064390,frame_150_timestamp_5000.jpg,치와와,앉는 동작
+train,sit,dog-sit-088610__frame_102_timestamp_3400.jpg,dog-sit-088610,frame_102_timestamp_3400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-081875__frame_10_timestamp_400.jpg,dog-sit-081875,frame_10_timestamp_400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,20201202_dog-sit-001880.mp4__frame_0_timestamp_0.jpg,20201202_dog-sit-001880.mp4,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,20201120_dog-sit-002931.mp4__frame_162_timestamp_5400.jpg,20201120_dog-sit-002931.mp4,frame_162_timestamp_5400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-101583__frame_108_timestamp_3600.jpg,dog-sit-101583,frame_108_timestamp_3600.jpg,푸들,앉는 동작
+train,sit,dog-sit-027131__frame_0_timestamp_0.jpg,dog-sit-027131,frame_0_timestamp_0.jpg,재패니스 스피츠,앉는 동작
+train,sit,dog-sit-046398__frame_126_timestamp_4200.jpg,dog-sit-046398,frame_126_timestamp_4200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-061541__frame_150_timestamp_6000.jpg,dog-sit-061541,frame_150_timestamp_6000.jpg,믹스견,앉는 동작
+train,sit,dog-sit-089329__frame_120_timestamp_4800.jpg,dog-sit-089329,frame_120_timestamp_4800.jpg,치와와,앉는 동작
+train,sit,dog-sit-042201__frame_11_timestamp_200.jpg,dog-sit-042201,frame_11_timestamp_200.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-092759__frame_130_timestamp_5200.jpg,dog-sit-092759,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-053132__frame_102_timestamp_3400.jpg,dog-sit-053132,frame_102_timestamp_3400.jpg,믹스견,앉는 동작
+train,sit,dog-sit-088551__frame_126_timestamp_4200.jpg,dog-sit-088551,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-089758__frame_105_timestamp_4200.jpg,dog-sit-089758,frame_105_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-079067__frame_140_timestamp_5600.jpg,dog-sit-079067,frame_140_timestamp_5600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-090157__frame_145_timestamp_5800.jpg,dog-sit-090157,frame_145_timestamp_5800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-065879__frame_156_timestamp_5200.jpg,dog-sit-065879,frame_156_timestamp_5200.jpg,퍼그,앉는 동작
+train,sit,dog-sit-032855__frame_140_timestamp_5600.jpg,dog-sit-032855,frame_140_timestamp_5600.jpg,푸들,앉는 동작
+train,sit,dog-sit-018816__frame_130_timestamp_5200.jpg,dog-sit-018816,frame_130_timestamp_5200.jpg,푸들,앉는 동작
+train,sit,dog-sit-014763__frame_125_timestamp_5000.jpg,dog-sit-014763,frame_125_timestamp_5000.jpg,말티즈,앉는 동작
+train,sit,dog-sit-080251__frame_10_timestamp_400.jpg,dog-sit-080251,frame_10_timestamp_400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-100563__frame_114_timestamp_3800.jpg,dog-sit-100563,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-045240__frame_135_timestamp_5400.jpg,dog-sit-045240,frame_135_timestamp_5400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-036728__frame_125_timestamp_5000.jpg,dog-sit-036728,frame_125_timestamp_5000.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-098281__frame_130_timestamp_5200.jpg,dog-sit-098281,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-053564__frame_115_timestamp_4600.jpg,dog-sit-053564,frame_115_timestamp_4600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-043441__frame_115_timestamp_4600.jpg,dog-sit-043441,frame_115_timestamp_4600.jpg,푸들,앉는 동작
+train,sit,dog-sit-098123__frame_135_timestamp_5400.jpg,dog-sit-098123,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-074266__frame_138_timestamp_4600.jpg,dog-sit-074266,frame_138_timestamp_4600.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-064832__frame_156_timestamp_5200.jpg,dog-sit-064832,frame_156_timestamp_5200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-079519__frame_150_timestamp_6000.jpg,dog-sit-079519,frame_150_timestamp_6000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-073214__frame_100_timestamp_4000.jpg,dog-sit-073214,frame_100_timestamp_4000.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-061598__frame_132_timestamp_4400.jpg,dog-sit-061598,frame_132_timestamp_4400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-019117__frame_120_timestamp_4800.jpg,dog-sit-019117,frame_120_timestamp_4800.jpg,치와와,앉는 동작
+train,sit,dog-sit-085287__frame_140_timestamp_5600.jpg,dog-sit-085287,frame_140_timestamp_5600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-066159__frame_120_timestamp_4800.jpg,dog-sit-066159,frame_120_timestamp_4800.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-040157__frame_100_timestamp_4000.jpg,dog-sit-040157,frame_100_timestamp_4000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-054851__frame_144_timestamp_4800.jpg,dog-sit-054851,frame_144_timestamp_4800.jpg,진돗개,앉기
+train,sit,dog-sit-089650__frame_100_timestamp_4000.jpg,dog-sit-089650,frame_100_timestamp_4000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-099597__frame_105_timestamp_4200.jpg,dog-sit-099597,frame_105_timestamp_4200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-070363__frame_162_timestamp_5400.jpg,dog-sit-070363,frame_162_timestamp_5400.jpg,사모예드견,앉는 동작
+train,sit,dog-sit-060186__frame_130_timestamp_5200.jpg,dog-sit-060186,frame_130_timestamp_5200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-091957__frame_110_timestamp_4400.jpg,dog-sit-091957,frame_110_timestamp_4400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-038643__frame_10_timestamp_400.jpg,dog-sit-038643,frame_10_timestamp_400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-013275__frame_108_timestamp_1800.jpg,dog-sit-013275,frame_108_timestamp_1800.jpg,푸들,앉는 동작
+train,sit,dog-sit-080827__frame_132_timestamp_4400.jpg,dog-sit-080827,frame_132_timestamp_4400.jpg,푸들,앉는 동작
+train,sit,dog-sit-058311__frame_114_timestamp_3800.jpg,dog-sit-058311,frame_114_timestamp_3800.jpg,퍼그,앉는 동작
+train,sit,dog-sit-088322__frame_0_timestamp_0.jpg,dog-sit-088322,frame_0_timestamp_0.jpg,치와와,앉는 동작
+train,sit,dog-sit-067165__frame_144_timestamp_4800.jpg,dog-sit-067165,frame_144_timestamp_4800.jpg,시추,앉는 동작
+train,sit,dog-sit-098126__frame_130_timestamp_5200.jpg,dog-sit-098126,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-072996__frame_115_timestamp_4600.jpg,dog-sit-072996,frame_115_timestamp_4600.jpg,치와와,앉는 동작
+train,sit,dog-sit-092066__frame_0_timestamp_0.jpg,dog-sit-092066,frame_0_timestamp_0.jpg,말티즈,앉는 동작
+train,sit,dog-sit-010384__frame_114_timestamp_3800.jpg,dog-sit-010384,frame_114_timestamp_3800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-006968__frame_110_timestamp_4400.jpg,dog-sit-006968,frame_110_timestamp_4400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-058719__frame_120_timestamp_4000.jpg,dog-sit-058719,frame_120_timestamp_4000.jpg,말티즈,앉는 동작
+train,sit,dog-sit-081946__frame_120_timestamp_4800.jpg,dog-sit-081946,frame_120_timestamp_4800.jpg,시바,앉는 동작
+train,sit,dog-sit-099144__frame_145_timestamp_5800.jpg,dog-sit-099144,frame_145_timestamp_5800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-079406__frame_126_timestamp_4200.jpg,dog-sit-079406,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-013531__frame_102_timestamp_3400.jpg,dog-sit-013531,frame_102_timestamp_3400.jpg,닥스훈트,앉는 동작
+train,sit,dog-sit-014658__frame_108_timestamp_3600.jpg,dog-sit-014658,frame_108_timestamp_3600.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-090337__frame_120_timestamp_4000.jpg,dog-sit-090337,frame_120_timestamp_4000.jpg,보스턴 테리어,앉는 동작
+train,sit,dog-sit-100576__frame_102_timestamp_3400.jpg,dog-sit-100576,frame_102_timestamp_3400.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-050440__frame_130_timestamp_5200.jpg,dog-sit-050440,frame_130_timestamp_5200.jpg,말티즈,앉는 동작
+train,sit,20201030_dog-sit-000273.mp4__frame_144_timestamp_4800.jpg,20201030_dog-sit-000273.mp4,frame_144_timestamp_4800.jpg,포메라니안,앉기
+train,sit,dog-sit-028049__frame_114_timestamp_3800.jpg,dog-sit-028049,frame_114_timestamp_3800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-037972__frame_130_timestamp_5200.jpg,dog-sit-037972,frame_130_timestamp_5200.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-080232__frame_135_timestamp_5400.jpg,dog-sit-080232,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-021346__frame_130_timestamp_5200.jpg,dog-sit-021346,frame_130_timestamp_5200.jpg,포메라니안,앉기
+train,sit,dog-sit-033222__frame_1044_timestamp_17400.jpg,dog-sit-033222,frame_1044_timestamp_17400.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-013624__frame_12_timestamp_400.jpg,dog-sit-013624,frame_12_timestamp_400.jpg,믹스견,앉는 동작
+train,sit,dog-sit-045185__frame_135_timestamp_5400.jpg,dog-sit-045185,frame_135_timestamp_5400.jpg,시추,앉는 동작
+train,sit,dog-sit-018964__frame_0_timestamp_0.jpg,dog-sit-018964,frame_0_timestamp_0.jpg,요크셔 테리어,앉는 동작
+train,sit,dog-sit-091436__frame_130_timestamp_5200.jpg,dog-sit-091436,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-081231__frame_145_timestamp_5800.jpg,dog-sit-081231,frame_145_timestamp_5800.jpg,래브라도 리트리버,앉기
+train,sit,dog-sit-027632__frame_100_timestamp_4000.jpg,dog-sit-027632,frame_100_timestamp_4000.jpg,말티즈,앉는 동작
+train,sit,dog-sit-027463__frame_144_timestamp_4800.jpg,dog-sit-027463,frame_144_timestamp_4800.jpg,믹스견,앉는 동작
+train,sit,20201202_dog-sit-002411.mp4__frame_1078_timestamp_17985.jpg,20201202_dog-sit-002411.mp4,frame_1078_timestamp_17985.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-087713__frame_110_timestamp_4400.jpg,dog-sit-087713,frame_110_timestamp_4400.jpg,치와와,앉는 동작
+train,sit,dog-sit-101595__frame_150_timestamp_5000.jpg,dog-sit-101595,frame_150_timestamp_5000.jpg,푸들,앉는 동작
+train,sit,dog-sit-099583__frame_0_timestamp_0.jpg,dog-sit-099583,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-052571__frame_0_timestamp_0.jpg,dog-sit-052571,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-093410__frame_126_timestamp_4200.jpg,dog-sit-093410,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-049464__frame_12_timestamp_400.jpg,dog-sit-049464,frame_12_timestamp_400.jpg,푸들,앉기
+train,sit,dog-sit-091613__frame_120_timestamp_4000.jpg,dog-sit-091613,frame_120_timestamp_4000.jpg,푸들,앉는 동작
+train,sit,dog-sit-068498__frame_114_timestamp_3800.jpg,dog-sit-068498,frame_114_timestamp_3800.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-022605__frame_126_timestamp_4200.jpg,dog-sit-022605,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-070181__frame_150_timestamp_6000.jpg,dog-sit-070181,frame_150_timestamp_6000.jpg,베들링턴 테리어,앉는 동작
+train,sit,20201120_dog-sit-002889.mp4__frame_0_timestamp_0.jpg,20201120_dog-sit-002889.mp4,frame_0_timestamp_0.jpg,셔틀랜드 쉽독,앉는 동작
+train,sit,dog-sit-077906__frame_105_timestamp_4200.jpg,dog-sit-077906,frame_105_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-023490__frame_10_timestamp_400.jpg,dog-sit-023490,frame_10_timestamp_400.jpg,말티즈,앉는 동작
+train,sit,20201111_dog-sit-000806.mp4__frame_144_timestamp_4800.jpg,20201111_dog-sit-000806.mp4,frame_144_timestamp_4800.jpg,웰시 코기 (펨브록),앉기
+train,sit,dog-sit-093096__frame_145_timestamp_5800.jpg,dog-sit-093096,frame_145_timestamp_5800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-101778__frame_115_timestamp_4600.jpg,dog-sit-101778,frame_115_timestamp_4600.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-080525__frame_150_timestamp_6000.jpg,dog-sit-080525,frame_150_timestamp_6000.jpg,포메라니안,앉는 동작
+train,sit,20201124_dog-sit-000958.mp4__frame_150_timestamp_5000.jpg,20201124_dog-sit-000958.mp4,frame_150_timestamp_5000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-071502__frame_0_timestamp_0.jpg,dog-sit-071502,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-049914__frame_114_timestamp_3800.jpg,dog-sit-049914,frame_114_timestamp_3800.jpg,시추,앉는 동작
+train,sit,dog-sit-064323__frame_132_timestamp_4400.jpg,dog-sit-064323,frame_132_timestamp_4400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-098128__frame_100_timestamp_4000.jpg,dog-sit-098128,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-088090__frame_150_timestamp_6000.jpg,dog-sit-088090,frame_150_timestamp_6000.jpg,보더 콜리,앉는 동작
+train,sit,dog-sit-099616__frame_135_timestamp_5400.jpg,dog-sit-099616,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-085417__frame_135_timestamp_5400.jpg,dog-sit-085417,frame_135_timestamp_5400.jpg,시바,앉는 동작
+train,sit,dog-sit-039260__frame_156_timestamp_5200.jpg,dog-sit-039260,frame_156_timestamp_5200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-045684__frame_162_timestamp_5400.jpg,dog-sit-045684,frame_162_timestamp_5400.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-090247__frame_150_timestamp_6000.jpg,dog-sit-090247,frame_150_timestamp_6000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-078116__frame_0_timestamp_0.jpg,dog-sit-078116,frame_0_timestamp_0.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-072331__frame_126_timestamp_4200.jpg,dog-sit-072331,frame_126_timestamp_4200.jpg,말티즈,앉기
+train,sit,20201202_dog-sit-006114.mp4__frame_101_timestamp_3370.jpg,20201202_dog-sit-006114.mp4,frame_101_timestamp_3370.jpg,푸들,앉는 동작
+train,sit,dog-sit-016234__frame_132_timestamp_4400.jpg,dog-sit-016234,frame_132_timestamp_4400.jpg,파피용,앉는 동작
+train,sit,dog-sit-088661__frame_144_timestamp_4800.jpg,dog-sit-088661,frame_144_timestamp_4800.jpg,푸들,앉는 동작
+train,sit,dog-sit-098120__frame_145_timestamp_5800.jpg,dog-sit-098120,frame_145_timestamp_5800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-087821__frame_135_timestamp_5400.jpg,dog-sit-087821,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-039914__frame_102_timestamp_3400.jpg,dog-sit-039914,frame_102_timestamp_3400.jpg,푸들,앉는 동작
+train,sit,dog-sit-069278__frame_138_timestamp_4600.jpg,dog-sit-069278,frame_138_timestamp_4600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-093118__frame_125_timestamp_5000.jpg,dog-sit-093118,frame_125_timestamp_5000.jpg,푸들,앉는 동작
+train,sit,dog-sit-084865__frame_105_timestamp_4200.jpg,dog-sit-084865,frame_105_timestamp_4200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-015616__frame_120_timestamp_4000.jpg,dog-sit-015616,frame_120_timestamp_4000.jpg,믹스견,앉는 동작
+train,sit,dog-sit-091394__frame_145_timestamp_5800.jpg,dog-sit-091394,frame_145_timestamp_5800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-079033__frame_0_timestamp_0.jpg,dog-sit-079033,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-098121__frame_100_timestamp_4000.jpg,dog-sit-098121,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-088075__frame_0_timestamp_0.jpg,dog-sit-088075,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-035109__frame_132_timestamp_4400.jpg,dog-sit-035109,frame_132_timestamp_4400.jpg,푸들,앉는 동작
+train,sit,dog-sit-084921__frame_130_timestamp_5200.jpg,dog-sit-084921,frame_130_timestamp_5200.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-053767__frame_10_timestamp_400.jpg,dog-sit-053767,frame_10_timestamp_400.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-080173__frame_140_timestamp_5600.jpg,dog-sit-080173,frame_140_timestamp_5600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-093011__frame_126_timestamp_4200.jpg,dog-sit-093011,frame_126_timestamp_4200.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-099105__frame_120_timestamp_4800.jpg,dog-sit-099105,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-044422__frame_132_timestamp_4400.jpg,dog-sit-044422,frame_132_timestamp_4400.jpg,시추,앉기
+train,sit,dog-sit-070184__frame_120_timestamp_4000.jpg,dog-sit-070184,frame_120_timestamp_4000.jpg,푸들,앉는 동작
+train,sit,dog-sit-059396__frame_150_timestamp_6000.jpg,dog-sit-059396,frame_150_timestamp_6000.jpg,치와와,앉는 동작
+train,sit,dog-sit-087649__frame_114_timestamp_3800.jpg,dog-sit-087649,frame_114_timestamp_3800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-092748__frame_0_timestamp_0.jpg,dog-sit-092748,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-082020__frame_0_timestamp_0.jpg,dog-sit-082020,frame_0_timestamp_0.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-098386__frame_0_timestamp_0.jpg,dog-sit-098386,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-099582__frame_150_timestamp_6000.jpg,dog-sit-099582,frame_150_timestamp_6000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-046896__frame_162_timestamp_5400.jpg,dog-sit-046896,frame_162_timestamp_5400.jpg,시바,앉는 동작
+train,sit,dog-sit-060152__frame_150_timestamp_6000.jpg,dog-sit-060152,frame_150_timestamp_6000.jpg,말티즈,앉는 동작
+train,sit,dog-sit-046900__frame_114_timestamp_3800.jpg,dog-sit-046900,frame_114_timestamp_3800.jpg,시바,앉는 동작
+train,sit,dog-sit-099246__frame_130_timestamp_5200.jpg,dog-sit-099246,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-086092__frame_144_timestamp_4800.jpg,dog-sit-086092,frame_144_timestamp_4800.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-080346__frame_12_timestamp_400.jpg,dog-sit-080346,frame_12_timestamp_400.jpg,보스턴 테리어,앉는 동작
+train,sit,dog-sit-067902__frame_140_timestamp_5600.jpg,dog-sit-067902,frame_140_timestamp_5600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-099579__frame_140_timestamp_5600.jpg,dog-sit-099579,frame_140_timestamp_5600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-030465__frame_145_timestamp_5800.jpg,dog-sit-030465,frame_145_timestamp_5800.jpg,푸들,앉는 동작
+train,sit,dog-sit-080792__frame_0_timestamp_0.jpg,dog-sit-080792,frame_0_timestamp_0.jpg,푸들,앉는 동작
+train,sit,dog-sit-081391__frame_138_timestamp_4600.jpg,dog-sit-081391,frame_138_timestamp_4600.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-046901__frame_132_timestamp_4400.jpg,dog-sit-046901,frame_132_timestamp_4400.jpg,시바,앉는 동작
+train,sit,dog-sit-043860__frame_0_timestamp_0.jpg,dog-sit-043860,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-016313__frame_12_timestamp_400.jpg,dog-sit-016313,frame_12_timestamp_400.jpg,파피용,앉기
+train,sit,dog-sit-100769__frame_150_timestamp_6000.jpg,dog-sit-100769,frame_150_timestamp_6000.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-020141__frame_12_timestamp_400.jpg,dog-sit-020141,frame_12_timestamp_400.jpg,래브라도 리트리버,앉는 동작
+train,sit,dog-sit-073187__frame_145_timestamp_5800.jpg,dog-sit-073187,frame_145_timestamp_5800.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-065416__frame_108_timestamp_3600.jpg,dog-sit-065416,frame_108_timestamp_3600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-079526__frame_120_timestamp_4800.jpg,dog-sit-079526,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-102136__frame_156_timestamp_5200.jpg,dog-sit-102136,frame_156_timestamp_5200.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-028860__frame_12_timestamp_400.jpg,dog-sit-028860,frame_12_timestamp_400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-067365__frame_138_timestamp_4600.jpg,dog-sit-067365,frame_138_timestamp_4600.jpg,사모예드견,앉는 동작
+train,sit,dog-sit-073886__frame_105_timestamp_4200.jpg,dog-sit-073886,frame_105_timestamp_4200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-080924__frame_100_timestamp_4000.jpg,dog-sit-080924,frame_100_timestamp_4000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-033546__frame_132_timestamp_4400.jpg,dog-sit-033546,frame_132_timestamp_4400.jpg,말티즈,앉기
+train,sit,dog-sit-090214__frame_100_timestamp_4000.jpg,dog-sit-090214,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-037906__frame_132_timestamp_2400.jpg,dog-sit-037906,frame_132_timestamp_2400.jpg,요크셔 테리어,앉는 동작
+train,sit,dog-sit-091739__frame_115_timestamp_4600.jpg,dog-sit-091739,frame_115_timestamp_4600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-085284__frame_115_timestamp_4600.jpg,dog-sit-085284,frame_115_timestamp_4600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-043067__frame_10_timestamp_400.jpg,dog-sit-043067,frame_10_timestamp_400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-022232__frame_115_timestamp_4600.jpg,dog-sit-022232,frame_115_timestamp_4600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-081474__frame_120_timestamp_4800.jpg,dog-sit-081474,frame_120_timestamp_4800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-053291__frame_0_timestamp_0.jpg,dog-sit-053291,frame_0_timestamp_0.jpg,믹스견,앉는 동작
+train,sit,dog-sit-051465__frame_114_timestamp_3800.jpg,dog-sit-051465,frame_114_timestamp_3800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-081265__frame_114_timestamp_3800.jpg,dog-sit-081265,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-014736__frame_102_timestamp_3400.jpg,dog-sit-014736,frame_102_timestamp_3400.jpg,푸들,앉는 동작
+train,sit,dog-sit-078193__frame_144_timestamp_4800.jpg,dog-sit-078193,frame_144_timestamp_4800.jpg,로트바일러,앉는 동작
+train,sit,dog-sit-014803__frame_102_timestamp_3400.jpg,dog-sit-014803,frame_102_timestamp_3400.jpg,푸들,앉는 동작
+train,sit,dog-sit-024335__frame_10_timestamp_400.jpg,dog-sit-024335,frame_10_timestamp_400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-048134__frame_12_timestamp_400.jpg,dog-sit-048134,frame_12_timestamp_400.jpg,말티즈,앉는 동작
+train,sit,dog-sit-065955__frame_145_timestamp_5800.jpg,dog-sit-065955,frame_145_timestamp_5800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-090758__frame_150_timestamp_6000.jpg,dog-sit-090758,frame_150_timestamp_6000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-093501__frame_162_timestamp_5400.jpg,dog-sit-093501,frame_162_timestamp_5400.jpg,푸들,앉는 동작
+train,sit,dog-sit-087817__frame_150_timestamp_6000.jpg,dog-sit-087817,frame_150_timestamp_6000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-054878__frame_138_timestamp_4600.jpg,dog-sit-054878,frame_138_timestamp_4600.jpg,푸들,앉기
+train,sit,dog-sit-099115__frame_135_timestamp_5400.jpg,dog-sit-099115,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-007682__frame_0_timestamp_0.jpg,dog-sit-007682,frame_0_timestamp_0.jpg,말티즈,앉는 동작
+train,sit,dog-sit-031401__frame_228_timestamp_3800.jpg,dog-sit-031401,frame_228_timestamp_3800.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-040324__frame_0_timestamp_0.jpg,dog-sit-040324,frame_0_timestamp_0.jpg,포메라니안,앉기
+train,sit,dog-sit-047717__frame_145_timestamp_5800.jpg,dog-sit-047717,frame_145_timestamp_5800.jpg,믹스견,앉기
+train,sit,dog-sit-081980__frame_114_timestamp_3800.jpg,dog-sit-081980,frame_114_timestamp_3800.jpg,시추,앉는 동작
+train,sit,dog-sit-088778__frame_0_timestamp_0.jpg,dog-sit-088778,frame_0_timestamp_0.jpg,믹스견,앉는 동작
+train,sit,dog-sit-068150__frame_102_timestamp_3400.jpg,dog-sit-068150,frame_102_timestamp_3400.jpg,치와와,앉는 동작
+train,sit,dog-sit-091444__frame_0_timestamp_0.jpg,dog-sit-091444,frame_0_timestamp_0.jpg,아메리칸 코커 스패니얼,앉는 동작
+train,sit,dog-sit-020402__frame_105_timestamp_4200.jpg,dog-sit-020402,frame_105_timestamp_4200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-079088__frame_132_timestamp_4400.jpg,dog-sit-079088,frame_132_timestamp_4400.jpg,치와와,앉는 동작
+train,sit,dog-sit-043418__frame_108_timestamp_3600.jpg,dog-sit-043418,frame_108_timestamp_3600.jpg,웰시 코기 (카디건),앉기
+train,sit,dog-sit-059783__frame_110_timestamp_4400.jpg,dog-sit-059783,frame_110_timestamp_4400.jpg,푸들,앉는 동작
+train,sit,dog-sit-090563__frame_0_timestamp_0.jpg,dog-sit-090563,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-005169__frame_126_timestamp_4200.jpg,dog-sit-005169,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-092534__frame_126_timestamp_4200.jpg,dog-sit-092534,frame_126_timestamp_4200.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-093193__frame_135_timestamp_5400.jpg,dog-sit-093193,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-033065__frame_140_timestamp_5600.jpg,dog-sit-033065,frame_140_timestamp_5600.jpg,푸들,앉는 동작
+train,sit,20201118_dog-sit-001382.mp4__frame_113_timestamp_3770.jpg,20201118_dog-sit-001382.mp4,frame_113_timestamp_3770.jpg,믹스견,앉는 동작
+train,sit,dog-sit-057333__frame_120_timestamp_4000.jpg,dog-sit-057333,frame_120_timestamp_4000.jpg,오스트레일리안 실키 테리어,앉는 동작
+train,sit,dog-sit-101773__frame_105_timestamp_4200.jpg,dog-sit-101773,frame_105_timestamp_4200.jpg,베들링턴 테리어,앉는 동작
+train,sit,dog-sit-087743__frame_135_timestamp_5400.jpg,dog-sit-087743,frame_135_timestamp_5400.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-089219__frame_120_timestamp_4800.jpg,dog-sit-089219,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-055847__frame_125_timestamp_5000.jpg,dog-sit-055847,frame_125_timestamp_5000.jpg,푸들,앉기
+train,sit,dog-sit-023570__frame_140_timestamp_5600.jpg,dog-sit-023570,frame_140_timestamp_5600.jpg,피니시 스피츠,앉는 동작
+train,sit,dog-sit-085468__frame_108_timestamp_1800.jpg,dog-sit-085468,frame_108_timestamp_1800.jpg,푸들,앉는 동작
+train,sit,dog-sit-019527__frame_140_timestamp_5600.jpg,dog-sit-019527,frame_140_timestamp_5600.jpg,피니시 스피츠,앉기
+train,sit,dog-sit-098233__frame_100_timestamp_4000.jpg,dog-sit-098233,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-033279__frame_100_timestamp_4000.jpg,dog-sit-033279,frame_100_timestamp_4000.jpg,믹스견,앉는 동작
+train,sit,dog-sit-100661__frame_120_timestamp_4000.jpg,dog-sit-100661,frame_120_timestamp_4000.jpg,푸들,앉는 동작
+train,sit,dog-sit-046138__frame_138_timestamp_4600.jpg,dog-sit-046138,frame_138_timestamp_4600.jpg,푸들,앉는 동작
+train,sit,dog-sit-026238__frame_114_timestamp_3800.jpg,dog-sit-026238,frame_114_timestamp_3800.jpg,시추,앉는 동작
+train,sit,dog-sit-084419__frame_132_timestamp_4400.jpg,dog-sit-084419,frame_132_timestamp_4400.jpg,치와와,앉는 동작
+train,sit,dog-sit-047473__frame_156_timestamp_5200.jpg,dog-sit-047473,frame_156_timestamp_5200.jpg,치와와,앉는 동작
+train,sit,dog-sit-061031__frame_156_timestamp_5200.jpg,dog-sit-061031,frame_156_timestamp_5200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-098609__frame_126_timestamp_4200.jpg,dog-sit-098609,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,20201115_dog-sit-000622.mp4__frame_114_timestamp_3800.jpg,20201115_dog-sit-000622.mp4,frame_114_timestamp_3800.jpg,말티즈,앉기
+train,sit,dog-sit-090085__frame_125_timestamp_5000.jpg,dog-sit-090085,frame_125_timestamp_5000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-090648__frame_156_timestamp_5200.jpg,dog-sit-090648,frame_156_timestamp_5200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-092405__frame_110_timestamp_4400.jpg,dog-sit-092405,frame_110_timestamp_4400.jpg,시추,앉는 동작
+train,sit,dog-sit-079002__frame_115_timestamp_4600.jpg,dog-sit-079002,frame_115_timestamp_4600.jpg,시추,앉는 동작
+train,sit,dog-sit-060066__frame_150_timestamp_6000.jpg,dog-sit-060066,frame_150_timestamp_6000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-090219__frame_130_timestamp_5200.jpg,dog-sit-090219,frame_130_timestamp_5200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-037452__frame_1044_timestamp_17400.jpg,dog-sit-037452,frame_1044_timestamp_17400.jpg,믹스견,앉는 동작
+train,sit,dog-sit-036969__frame_150_timestamp_5000.jpg,dog-sit-036969,frame_150_timestamp_5000.jpg,시바,앉는 동작
+train,sit,20201202_dog-sit-003705.mp4__frame_114_timestamp_3800.jpg,20201202_dog-sit-003705.mp4,frame_114_timestamp_3800.jpg,푸들,앉는 동작
+train,sit,dog-sit-092507__frame_138_timestamp_4600.jpg,dog-sit-092507,frame_138_timestamp_4600.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-080270__frame_120_timestamp_4000.jpg,dog-sit-080270,frame_120_timestamp_4000.jpg,웰시 코기 (카디건),앉는 동작
+train,sit,dog-sit-064288__frame_126_timestamp_4200.jpg,dog-sit-064288,frame_126_timestamp_4200.jpg,믹스견,앉는 동작
+train,sit,dog-sit-015138__frame_145_timestamp_5800.jpg,dog-sit-015138,frame_145_timestamp_5800.jpg,치와와,앉는 동작
+train,sit,dog-sit-035413__frame_138_timestamp_4600.jpg,dog-sit-035413,frame_138_timestamp_4600.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-032326__frame_138_timestamp_4600.jpg,dog-sit-032326,frame_138_timestamp_4600.jpg,진돗개,앉는 동작
+train,sit,dog-sit-090089__frame_100_timestamp_4000.jpg,dog-sit-090089,frame_100_timestamp_4000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-073416__frame_0_timestamp_0.jpg,dog-sit-073416,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-072504__frame_126_timestamp_4200.jpg,dog-sit-072504,frame_126_timestamp_4200.jpg,푸들,앉는 동작
+train,sit,dog-sit-088155__frame_12_timestamp_400.jpg,dog-sit-088155,frame_12_timestamp_400.jpg,푸들,앉는 동작
+train,sit,dog-sit-053392__frame_145_timestamp_5800.jpg,dog-sit-053392,frame_145_timestamp_5800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-069057__frame_144_timestamp_4800.jpg,dog-sit-069057,frame_144_timestamp_4800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-081098__frame_125_timestamp_5000.jpg,dog-sit-081098,frame_125_timestamp_5000.jpg,래브라도 리트리버,앉기
+train,sit,dog-sit-038463__frame_120_timestamp_4000.jpg,dog-sit-038463,frame_120_timestamp_4000.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-021486__frame_1008_timestamp_16800.jpg,dog-sit-021486,frame_1008_timestamp_16800.jpg,믹스견,앉는 동작
+train,sit,dog-sit-045380__frame_10_timestamp_400.jpg,dog-sit-045380,frame_10_timestamp_400.jpg,포메라니안,앉는 동작
+train,sit,20201114_dog-sit-001747.mp4__frame_108_timestamp_3600.jpg,20201114_dog-sit-001747.mp4,frame_108_timestamp_3600.jpg,웰시 코기 (펨브록),앉기
+train,sit,dog-sit-028552__frame_138_timestamp_4600.jpg,dog-sit-028552,frame_138_timestamp_4600.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-026871__frame_10_timestamp_400.jpg,dog-sit-026871,frame_10_timestamp_400.jpg,푸들,앉는 동작
+train,sit,dog-sit-025093__frame_120_timestamp_4000.jpg,dog-sit-025093,frame_120_timestamp_4000.jpg,믹스견,앉는 동작
+train,sit,dog-sit-091332__frame_145_timestamp_5800.jpg,dog-sit-091332,frame_145_timestamp_5800.jpg,시추,앉기
+train,sit,dog-sit-011835__frame_138_timestamp_4600.jpg,dog-sit-011835,frame_138_timestamp_4600.jpg,닥스훈트,앉는 동작
+train,sit,dog-sit-074629__frame_114_timestamp_3800.jpg,dog-sit-074629,frame_114_timestamp_3800.jpg,비숑 프리제,앉는 동작
+train,sit,dog-sit-090788__frame_102_timestamp_3400.jpg,dog-sit-090788,frame_102_timestamp_3400.jpg,푸들,앉는 동작
+train,sit,dog-sit-067096__frame_115_timestamp_4600.jpg,dog-sit-067096,frame_115_timestamp_4600.jpg,말티즈,앉는 동작
+train,sit,dog-sit-080213__frame_145_timestamp_5800.jpg,dog-sit-080213,frame_145_timestamp_5800.jpg,시추,앉기
+train,sit,dog-sit-066422__frame_162_timestamp_5400.jpg,dog-sit-066422,frame_162_timestamp_5400.jpg,포메라니안,앉는 동작
+train,sit,dog-sit-091968__frame_105_timestamp_4200.jpg,dog-sit-091968,frame_105_timestamp_4200.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+train,sit,dog-sit-071964__frame_0_timestamp_0.jpg,dog-sit-071964,frame_0_timestamp_0.jpg,푸들,앉는 동작
+train,sit,dog-sit-065642__frame_114_timestamp_3800.jpg,dog-sit-065642,frame_114_timestamp_3800.jpg,말티즈,앉는 동작
+train,sit,dog-sit-057239__frame_156_timestamp_5200.jpg,dog-sit-057239,frame_156_timestamp_5200.jpg,말티즈,앉는 동작
+train,sit,dog-sit-051184__frame_132_timestamp_4400.jpg,dog-sit-051184,frame_132_timestamp_4400.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-029506__frame_150_timestamp_5000.jpg,dog-sit-029506,frame_150_timestamp_5000.jpg,말티즈,앉기
+val,sit,dog-sit-023905__frame_150_timestamp_6000.jpg,dog-sit-023905,frame_150_timestamp_6000.jpg,닥스훈트,앉는 동작
+val,sit,dog-sit-006461__frame_132_timestamp_4400.jpg,dog-sit-006461,frame_132_timestamp_4400.jpg,치와와,앉는 동작
+val,sit,dog-sit-064005__frame_102_timestamp_3400.jpg,dog-sit-064005,frame_102_timestamp_3400.jpg,말티즈,앉는 동작
+val,sit,dog-sit-071685__frame_0_timestamp_0.jpg,dog-sit-071685,frame_0_timestamp_0.jpg,포메라니안,앉는 동작
+val,sit,20201123_dog-sit-001034.mp4__frame_131_timestamp_4371.jpg,20201123_dog-sit-001034.mp4,frame_131_timestamp_4371.jpg,믹스견,앉는 동작
+val,sit,dog-sit-050879__frame_0_timestamp_0.jpg,dog-sit-050879,frame_0_timestamp_0.jpg,말티즈,앉는 동작
+val,sit,dog-sit-078034__frame_110_timestamp_4400.jpg,dog-sit-078034,frame_110_timestamp_4400.jpg,아메리칸 코커 스패니얼,앉는 동작
+val,sit,dog-sit-069457__frame_110_timestamp_4400.jpg,dog-sit-069457,frame_110_timestamp_4400.jpg,베들링턴 테리어,앉는 동작
+val,sit,dog-sit-089694__frame_135_timestamp_5400.jpg,dog-sit-089694,frame_135_timestamp_5400.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-098505__frame_120_timestamp_4800.jpg,dog-sit-098505,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-074250__frame_110_timestamp_4400.jpg,dog-sit-074250,frame_110_timestamp_4400.jpg,비숑 프리제,앉는 동작
+val,sit,dog-sit-035597__frame_100_timestamp_4000.jpg,dog-sit-035597,frame_100_timestamp_4000.jpg,보더 콜리,앉는 동작
+val,sit,dog-sit-079537__frame_0_timestamp_0.jpg,dog-sit-079537,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,20201126_dog-sit-002002.mp4__frame_1042_timestamp_17384.jpg,20201126_dog-sit-002002.mp4,frame_1042_timestamp_17384.jpg,비숑 프리제,앉는 동작
+val,sit,dog-sit-054508__frame_135_timestamp_5400.jpg,dog-sit-054508,frame_135_timestamp_5400.jpg,치와와,앉는 동작
+val,sit,dog-sit-085396__frame_120_timestamp_4800.jpg,dog-sit-085396,frame_120_timestamp_4800.jpg,믹스견,앉는 동작
+val,sit,dog-sit-087879__frame_125_timestamp_5000.jpg,dog-sit-087879,frame_125_timestamp_5000.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-093057__frame_0_timestamp_0.jpg,dog-sit-093057,frame_0_timestamp_0.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-090075__frame_120_timestamp_4800.jpg,dog-sit-090075,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-070693__frame_120_timestamp_4800.jpg,dog-sit-070693,frame_120_timestamp_4800.jpg,베들링턴 테리어,앉는 동작
+val,sit,dog-sit-087786__frame_125_timestamp_5000.jpg,dog-sit-087786,frame_125_timestamp_5000.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-045218__frame_0_timestamp_0.jpg,dog-sit-045218,frame_0_timestamp_0.jpg,시추,앉는 동작
+val,sit,20201202_dog-sit-003489.mp4__frame_114_timestamp_3800.jpg,20201202_dog-sit-003489.mp4,frame_114_timestamp_3800.jpg,믹스견,앉는 동작
+val,sit,dog-sit-089696__frame_12_timestamp_200.jpg,dog-sit-089696,frame_12_timestamp_200.jpg,치와와,앉는 동작
+val,sit,dog-sit-091235__frame_120_timestamp_4800.jpg,dog-sit-091235,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-063787__frame_108_timestamp_3600.jpg,dog-sit-063787,frame_108_timestamp_3600.jpg,치와와,앉는 동작
+val,sit,dog-sit-083616__frame_140_timestamp_5600.jpg,dog-sit-083616,frame_140_timestamp_5600.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-099225__frame_120_timestamp_4800.jpg,dog-sit-099225,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-045061__frame_135_timestamp_5400.jpg,dog-sit-045061,frame_135_timestamp_5400.jpg,보더 콜리,앉는 동작
+val,sit,dog-sit-017750__frame_0_timestamp_0.jpg,dog-sit-017750,frame_0_timestamp_0.jpg,푸들,앉는 동작
+val,sit,dog-sit-057836__frame_132_timestamp_2400.jpg,dog-sit-057836,frame_132_timestamp_2400.jpg,요크셔 테리어,앉는 동작
+val,sit,dog-sit-080404__frame_120_timestamp_4000.jpg,dog-sit-080404,frame_120_timestamp_4000.jpg,시추,앉는 동작
+val,sit,dog-sit-080378__frame_0_timestamp_0.jpg,dog-sit-080378,frame_0_timestamp_0.jpg,푸들,앉는 동작
+val,sit,dog-sit-048182__frame_138_timestamp_4600.jpg,dog-sit-048182,frame_138_timestamp_4600.jpg,말티즈,앉는 동작
+val,sit,dog-sit-036803__frame_150_timestamp_6000.jpg,dog-sit-036803,frame_150_timestamp_6000.jpg,비숑 프리제,앉는 동작
+val,sit,dog-sit-090031__frame_126_timestamp_4200.jpg,dog-sit-090031,frame_126_timestamp_4200.jpg,아메리칸 코커 스패니얼,앉는 동작
+val,sit,20201126_dog-sit-001673.mp4__frame_0_timestamp_0.jpg,20201126_dog-sit-001673.mp4,frame_0_timestamp_0.jpg,믹스견,앉기
+val,sit,20201202_dog-sit-003346.mp4__frame_144_timestamp_4800.jpg,20201202_dog-sit-003346.mp4,frame_144_timestamp_4800.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-052201__frame_174_timestamp_5800.jpg,dog-sit-052201,frame_174_timestamp_5800.jpg,푸들,앉는 동작
+val,sit,dog-sit-069346__frame_115_timestamp_4600.jpg,dog-sit-069346,frame_115_timestamp_4600.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-053577__frame_120_timestamp_4000.jpg,dog-sit-053577,frame_120_timestamp_4000.jpg,말티즈,앉는 동작
+val,sit,dog-sit-035913__frame_220_timestamp_4000.jpg,dog-sit-035913,frame_220_timestamp_4000.jpg,푸들,앉는 동작
+val,sit,dog-sit-080007__frame_162_timestamp_5400.jpg,dog-sit-080007,frame_162_timestamp_5400.jpg,푸들,앉는 동작
+val,sit,dog-sit-072781__frame_144_timestamp_4800.jpg,dog-sit-072781,frame_144_timestamp_4800.jpg,푸들,앉는 동작
+val,sit,dog-sit-089461__frame_114_timestamp_3800.jpg,dog-sit-089461,frame_114_timestamp_3800.jpg,말티즈,앉는 동작
+val,sit,dog-sit-045976__frame_150_timestamp_6000.jpg,dog-sit-045976,frame_150_timestamp_6000.jpg,푸들,앉는 동작
+val,sit,dog-sit-031978__frame_0_timestamp_0.jpg,dog-sit-031978,frame_0_timestamp_0.jpg,믹스견,앉는 동작
+val,sit,dog-sit-069048__frame_126_timestamp_4200.jpg,dog-sit-069048,frame_126_timestamp_4200.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-065560__frame_145_timestamp_5800.jpg,dog-sit-065560,frame_145_timestamp_5800.jpg,비숑 프리제,앉는 동작
+val,sit,dog-sit-073127__frame_135_timestamp_5400.jpg,dog-sit-073127,frame_135_timestamp_5400.jpg,치와와,앉는 동작
+val,sit,dog-sit-050850__frame_108_timestamp_1800.jpg,dog-sit-050850,frame_108_timestamp_1800.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-057461__frame_120_timestamp_4800.jpg,dog-sit-057461,frame_120_timestamp_4800.jpg,시바,앉는 동작
+val,sit,dog-sit-056670__frame_162_timestamp_5400.jpg,dog-sit-056670,frame_162_timestamp_5400.jpg,퍼그,앉는 동작
+val,sit,dog-sit-019712__frame_145_timestamp_5800.jpg,dog-sit-019712,frame_145_timestamp_5800.jpg,믹스견,앉는 동작
+val,sit,dog-sit-081734__frame_145_timestamp_5800.jpg,dog-sit-081734,frame_145_timestamp_5800.jpg,아메리칸 코커 스패니얼,앉는 동작
+val,sit,dog-sit-040132__frame_150_timestamp_6000.jpg,dog-sit-040132,frame_150_timestamp_6000.jpg,말티즈,앉는 동작
+val,sit,dog-sit-046778__frame_0_timestamp_0.jpg,dog-sit-046778,frame_0_timestamp_0.jpg,아메리칸 코커 스패니얼,앉는 동작
+val,sit,20201202_dog-sit-009748.mp4__frame_161_timestamp_5372.jpg,20201202_dog-sit-009748.mp4,frame_161_timestamp_5372.jpg,말티즈,앉는 동작
+val,sit,dog-sit-070084__frame_100_timestamp_4000.jpg,dog-sit-070084,frame_100_timestamp_4000.jpg,베들링턴 테리어,앉는 동작
+val,sit,dog-sit-071281__frame_120_timestamp_2000.jpg,dog-sit-071281,frame_120_timestamp_2000.jpg,푸들,앉는 동작
+val,sit,dog-sit-098438__frame_120_timestamp_4800.jpg,dog-sit-098438,frame_120_timestamp_4800.jpg,카발리에 킹 찰스 스패니얼,앉는 동작
+val,sit,dog-sit-044275__frame_145_timestamp_5800.jpg,dog-sit-044275,frame_145_timestamp_5800.jpg,푸들,앉는 동작
+val,sit,dog-sit-039113__frame_150_timestamp_5000.jpg,dog-sit-039113,frame_150_timestamp_5000.jpg,말티즈,앉는 동작
+val,sit,dog-sit-070682__frame_120_timestamp_4000.jpg,dog-sit-070682,frame_120_timestamp_4000.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-080907__frame_130_timestamp_5200.jpg,dog-sit-080907,frame_130_timestamp_5200.jpg,치와와,앉는 동작
+val,sit,20201202_dog-sit-010018.mp4__frame_132_timestamp_4400.jpg,20201202_dog-sit-010018.mp4,frame_132_timestamp_4400.jpg,푸들,앉는 동작
+val,sit,dog-sit-079771__frame_12_timestamp_400.jpg,dog-sit-079771,frame_12_timestamp_400.jpg,푸들,앉는 동작
+val,sit,dog-sit-023994__frame_144_timestamp_4800.jpg,dog-sit-023994,frame_144_timestamp_4800.jpg,푸들,앉는 동작
+val,sit,dog-sit-041574__frame_156_timestamp_5200.jpg,dog-sit-041574,frame_156_timestamp_5200.jpg,말티즈,앉는 동작
+val,sit,dog-sit-063867__frame_144_timestamp_4800.jpg,dog-sit-063867,frame_144_timestamp_4800.jpg,푸들,앉는 동작
+val,sit,dog-sit-065313__frame_150_timestamp_6000.jpg,dog-sit-065313,frame_150_timestamp_6000.jpg,푸들,앉는 동작
+val,sit,20201202_dog-sit-010020.mp4__frame_138_timestamp_4600.jpg,20201202_dog-sit-010020.mp4,frame_138_timestamp_4600.jpg,말티즈,앉는 동작
+val,sit,dog-sit-090495__frame_120_timestamp_4000.jpg,dog-sit-090495,frame_120_timestamp_4000.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-013884__frame_105_timestamp_4200.jpg,dog-sit-013884,frame_105_timestamp_4200.jpg,치와와,앉는 동작
+val,sit,dog-sit-040812__frame_12_timestamp_400.jpg,dog-sit-040812,frame_12_timestamp_400.jpg,믹스견,앉는 동작
+val,sit,dog-sit-039118__frame_156_timestamp_2600.jpg,dog-sit-039118,frame_156_timestamp_2600.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-034401__frame_145_timestamp_5800.jpg,dog-sit-034401,frame_145_timestamp_5800.jpg,시베리안 허스키,앉는 동작
+val,sit,dog-sit-066023__frame_114_timestamp_3800.jpg,dog-sit-066023,frame_114_timestamp_3800.jpg,포메라니안,앉는 동작
+val,sit,dog-sit-053282__frame_105_timestamp_4200.jpg,dog-sit-053282,frame_105_timestamp_4200.jpg,보더 콜리,앉는 동작
+train,walkrun,dog-walkrun-042370__frame_150_timestamp_6000.jpg,dog-walkrun-042370,frame_150_timestamp_6000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051228__frame_156_timestamp_5200.jpg,dog-walkrun-051228,frame_156_timestamp_5200.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-018717__frame_1092_timestamp_18200.jpg,dog-walkrun-018717,frame_1092_timestamp_18200.jpg,시추,걷거나 뜀 
+train,walkrun,dog-walkrun-084760__frame_120_timestamp_4000.jpg,dog-walkrun-084760,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-030747__frame_108_timestamp_3600.jpg,dog-walkrun-030747,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051872__frame_144_timestamp_4800.jpg,dog-walkrun-051872,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-084889__frame_105_timestamp_4200.jpg,dog-walkrun-084889,frame_105_timestamp_4200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-021438__frame_120_timestamp_4000.jpg,dog-walkrun-021438,frame_120_timestamp_4000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-017996__frame_144_timestamp_4800.jpg,dog-walkrun-017996,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-045493__frame_102_timestamp_3400.jpg,dog-walkrun-045493,frame_102_timestamp_3400.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-063597__frame_100_timestamp_4000.jpg,dog-walkrun-063597,frame_100_timestamp_4000.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-014574__frame_220_timestamp_4000.jpg,dog-walkrun-014574,frame_220_timestamp_4000.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-013709__frame_156_timestamp_5200.jpg,dog-walkrun-013709,frame_156_timestamp_5200.jpg,푸들,걷거나 뜀 
+train,walkrun,dog-walkrun-021436__frame_125_timestamp_5000.jpg,dog-walkrun-021436,frame_125_timestamp_5000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-080593__frame_115_timestamp_4600.jpg,dog-walkrun-080593,frame_115_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-099418__frame_0_timestamp_0.jpg,dog-walkrun-099418,frame_0_timestamp_0.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-035999__frame_105_timestamp_4200.jpg,dog-walkrun-035999,frame_105_timestamp_4200.jpg,포메라니안,걷거나 뜀 
+train,walkrun,dog-walkrun-057325__frame_0_timestamp_0.jpg,dog-walkrun-057325,frame_0_timestamp_0.jpg,오스트레일리안 실키 테리어,걷거나 달리는 동작
+train,walkrun,20201202_dog-walkrun-003629.mp4__frame_0_timestamp_0.jpg,20201202_dog-walkrun-003629.mp4,frame_0_timestamp_0.jpg,믹스견,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-020293__frame_0_timestamp_0.jpg,dog-walkrun-020293,frame_0_timestamp_0.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-079260__frame_105_timestamp_4200.jpg,dog-walkrun-079260,frame_105_timestamp_4200.jpg,아메리칸 코커 스패니얼,걷거나 달리는 동작
+train,walkrun,dog-walkrun-052648__frame_168_timestamp_5600.jpg,dog-walkrun-052648,frame_168_timestamp_5600.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-074052__frame_120_timestamp_4000.jpg,dog-walkrun-074052,frame_120_timestamp_4000.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-091804__frame_115_timestamp_4600.jpg,dog-walkrun-091804,frame_115_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-080150__frame_150_timestamp_5000.jpg,dog-walkrun-080150,frame_150_timestamp_5000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-073664__frame_10_timestamp_400.jpg,dog-walkrun-073664,frame_10_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069596__frame_195_timestamp_7800.jpg,dog-walkrun-069596,frame_195_timestamp_7800.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-057235__frame_140_timestamp_5600.jpg,dog-walkrun-057235,frame_140_timestamp_5600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-061396__frame_114_timestamp_3800.jpg,dog-walkrun-061396,frame_114_timestamp_3800.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-093701__frame_100_timestamp_4000.jpg,dog-walkrun-093701,frame_100_timestamp_4000.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-062379__frame_10_timestamp_400.jpg,dog-walkrun-062379,frame_10_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-042971__frame_108_timestamp_3600.jpg,dog-walkrun-042971,frame_108_timestamp_3600.jpg,웰시 코기 (카디건),걷거나 달리는 동작
+train,walkrun,dog-walkrun-056727__frame_145_timestamp_5800.jpg,dog-walkrun-056727,frame_145_timestamp_5800.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-061039__frame_102_timestamp_3400.jpg,dog-walkrun-061039,frame_102_timestamp_3400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-060052__frame_168_timestamp_5600.jpg,dog-walkrun-060052,frame_168_timestamp_5600.jpg,요크셔 테리어,걷거나 달리는 동작
+train,walkrun,20201202_dog-walkrun-004009.mp4__frame_126_timestamp_4200.jpg,20201202_dog-walkrun-004009.mp4,frame_126_timestamp_4200.jpg,믹스견,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-045152__frame_180_timestamp_6000.jpg,dog-walkrun-045152,frame_180_timestamp_6000.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-070512__frame_100_timestamp_4000.jpg,dog-walkrun-070512,frame_100_timestamp_4000.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069664__frame_10_timestamp_400.jpg,dog-walkrun-069664,frame_10_timestamp_400.jpg,말티즈,걷거나 뜀 
+train,walkrun,dog-walkrun-045897__frame_0_timestamp_0.jpg,dog-walkrun-045897,frame_0_timestamp_0.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033342__frame_126_timestamp_4200.jpg,dog-walkrun-033342,frame_126_timestamp_4200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-036227__frame_126_timestamp_4200.jpg,dog-walkrun-036227,frame_126_timestamp_4200.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-056668__frame_132_timestamp_4400.jpg,dog-walkrun-056668,frame_132_timestamp_4400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043537__frame_0_timestamp_0.jpg,dog-walkrun-043537,frame_0_timestamp_0.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-008387__frame_130_timestamp_5200.jpg,dog-walkrun-008387,frame_130_timestamp_5200.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-081486__frame_114_timestamp_3800.jpg,dog-walkrun-081486,frame_114_timestamp_3800.jpg,아메리칸 코커 스패니얼,걷거나 달리는 동작
+train,walkrun,dog-walkrun-065719__frame_140_timestamp_5600.jpg,dog-walkrun-065719,frame_140_timestamp_5600.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-084615__frame_150_timestamp_5000.jpg,dog-walkrun-084615,frame_150_timestamp_5000.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-085426__frame_138_timestamp_4600.jpg,dog-walkrun-085426,frame_138_timestamp_4600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,20201202_dog-walkrun-005394.mp4__frame_139_timestamp_5792.jpg,20201202_dog-walkrun-005394.mp4,frame_139_timestamp_5792.jpg,포메라니안,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-063905__frame_150_timestamp_6000.jpg,dog-walkrun-063905,frame_150_timestamp_6000.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043897__frame_105_timestamp_4200.jpg,dog-walkrun-043897,frame_105_timestamp_4200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-068114__frame_156_timestamp_5200.jpg,dog-walkrun-068114,frame_156_timestamp_5200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033756__frame_102_timestamp_3400.jpg,dog-walkrun-033756,frame_102_timestamp_3400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-025947__frame_110_timestamp_4400.jpg,dog-walkrun-025947,frame_110_timestamp_4400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-030423__frame_110_timestamp_4400.jpg,dog-walkrun-030423,frame_110_timestamp_4400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-011183__frame_120_timestamp_4000.jpg,dog-walkrun-011183,frame_120_timestamp_4000.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043109__frame_130_timestamp_5200.jpg,dog-walkrun-043109,frame_130_timestamp_5200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-045130__frame_130_timestamp_5200.jpg,dog-walkrun-045130,frame_130_timestamp_5200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-053605__frame_144_timestamp_4800.jpg,dog-walkrun-053605,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-049115__frame_120_timestamp_4800.jpg,dog-walkrun-049115,frame_120_timestamp_4800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-017643__frame_120_timestamp_2000.jpg,dog-walkrun-017643,frame_120_timestamp_2000.jpg,닥스훈트,걷거나 뜀 
+train,walkrun,dog-walkrun-046016__frame_144_timestamp_4800.jpg,dog-walkrun-046016,frame_144_timestamp_4800.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-037232__frame_144_timestamp_4800.jpg,dog-walkrun-037232,frame_144_timestamp_4800.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-085596__frame_156_timestamp_5200.jpg,dog-walkrun-085596,frame_156_timestamp_5200.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043993__frame_132_timestamp_4400.jpg,dog-walkrun-043993,frame_132_timestamp_4400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-091714__frame_108_timestamp_3600.jpg,dog-walkrun-091714,frame_108_timestamp_3600.jpg,골든 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067023__frame_132_timestamp_4400.jpg,dog-walkrun-067023,frame_132_timestamp_4400.jpg,사모예드견,걷거나 뜀 
+train,walkrun,dog-walkrun-078551__frame_156_timestamp_5200.jpg,dog-walkrun-078551,frame_156_timestamp_5200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-070932__frame_10_timestamp_400.jpg,dog-walkrun-070932,frame_10_timestamp_400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-063809__frame_12_timestamp_400.jpg,dog-walkrun-063809,frame_12_timestamp_400.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064974__frame_125_timestamp_5000.jpg,dog-walkrun-064974,frame_125_timestamp_5000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064332__frame_150_timestamp_5000.jpg,dog-walkrun-064332,frame_150_timestamp_5000.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-071794__frame_162_timestamp_5400.jpg,dog-walkrun-071794,frame_162_timestamp_5400.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088399__frame_132_timestamp_4400.jpg,dog-walkrun-088399,frame_132_timestamp_4400.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-052992__frame_156_timestamp_5200.jpg,dog-walkrun-052992,frame_156_timestamp_5200.jpg,요크셔 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088600__frame_110_timestamp_4400.jpg,dog-walkrun-088600,frame_110_timestamp_4400.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-048152__frame_150_timestamp_5000.jpg,dog-walkrun-048152,frame_150_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-092863__frame_12_timestamp_400.jpg,dog-walkrun-092863,frame_12_timestamp_400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067882__frame_105_timestamp_4200.jpg,dog-walkrun-067882,frame_105_timestamp_4200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-071673__frame_216_timestamp_3600.jpg,dog-walkrun-071673,frame_216_timestamp_3600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-034982__frame_0_timestamp_0.jpg,dog-walkrun-034982,frame_0_timestamp_0.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-012067__frame_105_timestamp_4200.jpg,dog-walkrun-012067,frame_105_timestamp_4200.jpg,보더 콜리,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088411__frame_115_timestamp_4600.jpg,dog-walkrun-088411,frame_115_timestamp_4600.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-051105__frame_130_timestamp_5200.jpg,dog-walkrun-051105,frame_130_timestamp_5200.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-012849__frame_145_timestamp_5800.jpg,dog-walkrun-012849,frame_145_timestamp_5800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-044391__frame_156_timestamp_5200.jpg,dog-walkrun-044391,frame_156_timestamp_5200.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-058063__frame_105_timestamp_4200.jpg,dog-walkrun-058063,frame_105_timestamp_4200.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069603__frame_115_timestamp_4600.jpg,dog-walkrun-069603,frame_115_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067407__frame_120_timestamp_4000.jpg,dog-walkrun-067407,frame_120_timestamp_4000.jpg,사모예드견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-089303__frame_10_timestamp_400.jpg,dog-walkrun-089303,frame_10_timestamp_400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-037900__frame_102_timestamp_3400.jpg,dog-walkrun-037900,frame_102_timestamp_3400.jpg,시추,걷거나 달리는 동작
+train,walkrun,20201202_dog-walkrun-005592.mp4__frame_179_timestamp_2986.jpg,20201202_dog-walkrun-005592.mp4,frame_179_timestamp_2986.jpg,비숑 프리제,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-052923__frame_12_timestamp_400.jpg,dog-walkrun-052923,frame_12_timestamp_400.jpg,요크셔 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-008212__frame_168_timestamp_5600.jpg,dog-walkrun-008212,frame_168_timestamp_5600.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-052979__frame_105_timestamp_4200.jpg,dog-walkrun-052979,frame_105_timestamp_4200.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-048220__frame_145_timestamp_5800.jpg,dog-walkrun-048220,frame_145_timestamp_5800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-041883__frame_138_timestamp_4600.jpg,dog-walkrun-041883,frame_138_timestamp_4600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-099445__frame_150_timestamp_6000.jpg,dog-walkrun-099445,frame_150_timestamp_6000.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043579__frame_100_timestamp_4000.jpg,dog-walkrun-043579,frame_100_timestamp_4000.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-089369__frame_145_timestamp_5800.jpg,dog-walkrun-089369,frame_145_timestamp_5800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-022470__frame_108_timestamp_3600.jpg,dog-walkrun-022470,frame_108_timestamp_3600.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-008660__frame_10_timestamp_400.jpg,dog-walkrun-008660,frame_10_timestamp_400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066769__frame_102_timestamp_3400.jpg,dog-walkrun-066769,frame_102_timestamp_3400.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-100306__frame_108_timestamp_3600.jpg,dog-walkrun-100306,frame_108_timestamp_3600.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-038967__frame_114_timestamp_3800.jpg,dog-walkrun-038967,frame_114_timestamp_3800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-027756__frame_135_timestamp_5400.jpg,dog-walkrun-027756,frame_135_timestamp_5400.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-099332__frame_105_timestamp_4200.jpg,dog-walkrun-099332,frame_105_timestamp_4200.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051568__frame_150_timestamp_5000.jpg,dog-walkrun-051568,frame_150_timestamp_5000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051895__frame_0_timestamp_0.jpg,dog-walkrun-051895,frame_0_timestamp_0.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-045491__frame_180_timestamp_6000.jpg,dog-walkrun-045491,frame_180_timestamp_6000.jpg,보더 콜리,걷거나 달리는 동작
+train,walkrun,dog-walkrun-065297__frame_120_timestamp_4000.jpg,dog-walkrun-065297,frame_120_timestamp_4000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033021__frame_144_timestamp_4800.jpg,dog-walkrun-033021,frame_144_timestamp_4800.jpg,말티즈,걷거나 뜀 
+train,walkrun,dog-walkrun-069875__frame_100_timestamp_4000.jpg,dog-walkrun-069875,frame_100_timestamp_4000.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-102826__frame_0_timestamp_0.jpg,dog-walkrun-102826,frame_0_timestamp_0.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066739__frame_12_timestamp_400.jpg,dog-walkrun-066739,frame_12_timestamp_400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-013307__frame_156_timestamp_2600.jpg,dog-walkrun-013307,frame_156_timestamp_2600.jpg,푸들,걷거나 뜀 
+train,walkrun,dog-walkrun-045297__frame_0_timestamp_0.jpg,dog-walkrun-045297,frame_0_timestamp_0.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-053042__frame_102_timestamp_3400.jpg,dog-walkrun-053042,frame_102_timestamp_3400.jpg,요크셔 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031228__frame_130_timestamp_5200.jpg,dog-walkrun-031228,frame_130_timestamp_5200.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-025412__frame_144_timestamp_4800.jpg,dog-walkrun-025412,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-093552__frame_120_timestamp_4800.jpg,dog-walkrun-093552,frame_120_timestamp_4800.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-099333__frame_110_timestamp_4400.jpg,dog-walkrun-099333,frame_110_timestamp_4400.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-044577__frame_125_timestamp_5000.jpg,dog-walkrun-044577,frame_125_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-028543__frame_105_timestamp_4200.jpg,dog-walkrun-028543,frame_105_timestamp_4200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-073649__frame_114_timestamp_3800.jpg,dog-walkrun-073649,frame_114_timestamp_3800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-016527__frame_145_timestamp_5800.jpg,dog-walkrun-016527,frame_145_timestamp_5800.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-026608__frame_138_timestamp_4600.jpg,dog-walkrun-026608,frame_138_timestamp_4600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-101263__frame_125_timestamp_5000.jpg,dog-walkrun-101263,frame_125_timestamp_5000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-078564__frame_126_timestamp_4200.jpg,dog-walkrun-078564,frame_126_timestamp_4200.jpg,페키니즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033352__frame_0_timestamp_0.jpg,dog-walkrun-033352,frame_0_timestamp_0.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064810__frame_138_timestamp_4600.jpg,dog-walkrun-064810,frame_138_timestamp_4600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031547__frame_105_timestamp_4200.jpg,dog-walkrun-031547,frame_105_timestamp_4200.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-025038__frame_162_timestamp_5400.jpg,dog-walkrun-025038,frame_162_timestamp_5400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-040868__frame_132_timestamp_4400.jpg,dog-walkrun-040868,frame_132_timestamp_4400.jpg,파피용,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051079__frame_120_timestamp_4800.jpg,dog-walkrun-051079,frame_120_timestamp_4800.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-070865__frame_130_timestamp_5200.jpg,dog-walkrun-070865,frame_130_timestamp_5200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-048559__frame_156_timestamp_5200.jpg,dog-walkrun-048559,frame_156_timestamp_5200.jpg,보더 콜리,걷거나 뜀 
+train,walkrun,dog-walkrun-070935__frame_102_timestamp_3400.jpg,dog-walkrun-070935,frame_102_timestamp_3400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-032948__frame_150_timestamp_5000.jpg,dog-walkrun-032948,frame_150_timestamp_5000.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-052042__frame_125_timestamp_5000.jpg,dog-walkrun-052042,frame_125_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-038976__frame_104_timestamp_5200.jpg,dog-walkrun-038976,frame_104_timestamp_5200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-026332__frame_150_timestamp_6000.jpg,dog-walkrun-026332,frame_150_timestamp_6000.jpg,시베리안 허스키,걷거나 달리는 동작
+train,walkrun,dog-walkrun-014392__frame_108_timestamp_3600.jpg,dog-walkrun-014392,frame_108_timestamp_3600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088031__frame_15_timestamp_600.jpg,dog-walkrun-088031,frame_15_timestamp_600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-035282__frame_198_timestamp_6600.jpg,dog-walkrun-035282,frame_198_timestamp_6600.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067900__frame_125_timestamp_5000.jpg,dog-walkrun-067900,frame_125_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-052736__frame_115_timestamp_4600.jpg,dog-walkrun-052736,frame_115_timestamp_4600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-034957__frame_120_timestamp_4000.jpg,dog-walkrun-034957,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067819__frame_174_timestamp_5800.jpg,dog-walkrun-067819,frame_174_timestamp_5800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-050960__frame_115_timestamp_4600.jpg,dog-walkrun-050960,frame_115_timestamp_4600.jpg,파피용,걷거나 달리는 동작
+train,walkrun,dog-walkrun-016988__frame_108_timestamp_1800.jpg,dog-walkrun-016988,frame_108_timestamp_1800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-093536__frame_140_timestamp_5600.jpg,dog-walkrun-093536,frame_140_timestamp_5600.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-092107__frame_120_timestamp_4000.jpg,dog-walkrun-092107,frame_120_timestamp_4000.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-051380__frame_125_timestamp_5000.jpg,dog-walkrun-051380,frame_125_timestamp_5000.jpg,푸들,걷거나 뜀 
+train,walkrun,dog-walkrun-068465__frame_105_timestamp_4200.jpg,dog-walkrun-068465,frame_105_timestamp_4200.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-091857__frame_120_timestamp_4800.jpg,dog-walkrun-091857,frame_120_timestamp_4800.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-044171__frame_108_timestamp_3600.jpg,dog-walkrun-044171,frame_108_timestamp_3600.jpg,푸들,걷거나 뜀 
+train,walkrun,dog-walkrun-030576__frame_144_timestamp_4800.jpg,dog-walkrun-030576,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-080551__frame_0_timestamp_0.jpg,dog-walkrun-080551,frame_0_timestamp_0.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067460__frame_126_timestamp_4200.jpg,dog-walkrun-067460,frame_126_timestamp_4200.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-084721__frame_105_timestamp_4200.jpg,dog-walkrun-084721,frame_105_timestamp_4200.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-040539__frame_150_timestamp_5000.jpg,dog-walkrun-040539,frame_150_timestamp_5000.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-022311__frame_102_timestamp_3400.jpg,dog-walkrun-022311,frame_102_timestamp_3400.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-084351__frame_130_timestamp_5200.jpg,dog-walkrun-084351,frame_130_timestamp_5200.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-099381__frame_150_timestamp_6000.jpg,dog-walkrun-099381,frame_150_timestamp_6000.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-042076__frame_150_timestamp_5000.jpg,dog-walkrun-042076,frame_150_timestamp_5000.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-042105__frame_145_timestamp_5800.jpg,dog-walkrun-042105,frame_145_timestamp_5800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-058580__frame_132_timestamp_4400.jpg,dog-walkrun-058580,frame_132_timestamp_4400.jpg,보더 콜리,걷거나 뜀 
+train,walkrun,dog-walkrun-044304__frame_12_timestamp_400.jpg,dog-walkrun-044304,frame_12_timestamp_400.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-044877__frame_150_timestamp_5000.jpg,dog-walkrun-044877,frame_150_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-027004__frame_336_timestamp_11200.jpg,dog-walkrun-027004,frame_336_timestamp_11200.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-050931__frame_10_timestamp_400.jpg,dog-walkrun-050931,frame_10_timestamp_400.jpg,푸들,걷거나 뜀 
+train,walkrun,dog-walkrun-066504__frame_156_timestamp_5200.jpg,dog-walkrun-066504,frame_156_timestamp_5200.jpg,보더 콜리,걷거나 뜀 
+train,walkrun,dog-walkrun-012135__frame_102_timestamp_3400.jpg,dog-walkrun-012135,frame_102_timestamp_3400.jpg,미니어처 핀셔,걷거나 달리는 동작
+train,walkrun,dog-walkrun-072382__frame_108_timestamp_1800.jpg,dog-walkrun-072382,frame_108_timestamp_1800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-022921__frame_0_timestamp_0.jpg,dog-walkrun-022921,frame_0_timestamp_0.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064134__frame_138_timestamp_4600.jpg,dog-walkrun-064134,frame_138_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-094473__frame_108_timestamp_3600.jpg,dog-walkrun-094473,frame_108_timestamp_3600.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-086209__frame_145_timestamp_5800.jpg,dog-walkrun-086209,frame_145_timestamp_5800.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-074169__frame_144_timestamp_4800.jpg,dog-walkrun-074169,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-012574__frame_108_timestamp_1800.jpg,dog-walkrun-012574,frame_108_timestamp_1800.jpg,시추,걷거나 달리는 동작
+train,walkrun,dog-walkrun-030497__frame_156_timestamp_5200.jpg,dog-walkrun-030497,frame_156_timestamp_5200.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066887__frame_132_timestamp_4400.jpg,dog-walkrun-066887,frame_132_timestamp_4400.jpg,골든 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033020__frame_108_timestamp_3600.jpg,dog-walkrun-033020,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031591__frame_102_timestamp_3400.jpg,dog-walkrun-031591,frame_102_timestamp_3400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-016048__frame_132_timestamp_4400.jpg,dog-walkrun-016048,frame_132_timestamp_4400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-013332__frame_150_timestamp_5000.jpg,dog-walkrun-013332,frame_150_timestamp_5000.jpg,믹스견,걷거나 뜀 
+train,walkrun,dog-walkrun-027133__frame_10_timestamp_400.jpg,dog-walkrun-027133,frame_10_timestamp_400.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-035749__frame_10_timestamp_400.jpg,dog-walkrun-035749,frame_10_timestamp_400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-056690__frame_132_timestamp_4400.jpg,dog-walkrun-056690,frame_132_timestamp_4400.jpg,퍼그,걷거나 달리는 동작
+train,walkrun,dog-walkrun-047993__frame_180_timestamp_6000.jpg,dog-walkrun-047993,frame_180_timestamp_6000.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-033294__frame_165_timestamp_6600.jpg,dog-walkrun-033294,frame_165_timestamp_6600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-040293__frame_156_timestamp_5200.jpg,dog-walkrun-040293,frame_156_timestamp_5200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-057005__frame_10_timestamp_400.jpg,dog-walkrun-057005,frame_10_timestamp_400.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-038699__frame_135_timestamp_5400.jpg,dog-walkrun-038699,frame_135_timestamp_5400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064598__frame_150_timestamp_5000.jpg,dog-walkrun-064598,frame_150_timestamp_5000.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-057885__frame_18_timestamp_600.jpg,dog-walkrun-057885,frame_18_timestamp_600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-052377__frame_105_timestamp_4200.jpg,dog-walkrun-052377,frame_105_timestamp_4200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-058184__frame_100_timestamp_4000.jpg,dog-walkrun-058184,frame_100_timestamp_4000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-093747__frame_126_timestamp_4200.jpg,dog-walkrun-093747,frame_126_timestamp_4200.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043936__frame_108_timestamp_3600.jpg,dog-walkrun-043936,frame_108_timestamp_3600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-037138__frame_105_timestamp_4200.jpg,dog-walkrun-037138,frame_105_timestamp_4200.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-066579__frame_108_timestamp_3600.jpg,dog-walkrun-066579,frame_108_timestamp_3600.jpg,보더 콜리,걷거나 뜀 
+train,walkrun,dog-walkrun-045938__frame_135_timestamp_5400.jpg,dog-walkrun-045938,frame_135_timestamp_5400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-065611__frame_135_timestamp_5400.jpg,dog-walkrun-065611,frame_135_timestamp_5400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-085454__frame_120_timestamp_2000.jpg,dog-walkrun-085454,frame_120_timestamp_2000.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043002__frame_114_timestamp_3800.jpg,dog-walkrun-043002,frame_114_timestamp_3800.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088362__frame_156_timestamp_5200.jpg,dog-walkrun-088362,frame_156_timestamp_5200.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-051356__frame_120_timestamp_4800.jpg,dog-walkrun-051356,frame_120_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-061620__frame_108_timestamp_3600.jpg,dog-walkrun-061620,frame_108_timestamp_3600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067472__frame_102_timestamp_3400.jpg,dog-walkrun-067472,frame_102_timestamp_3400.jpg,사모예드견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-073697__frame_135_timestamp_9000.jpg,dog-walkrun-073697,frame_135_timestamp_9000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-036910__frame_138_timestamp_4600.jpg,dog-walkrun-036910,frame_138_timestamp_4600.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031353__frame_150_timestamp_6000.jpg,dog-walkrun-031353,frame_150_timestamp_6000.jpg,믹스견,걷거나 뜀 
+train,walkrun,dog-walkrun-036731__frame_115_timestamp_4600.jpg,dog-walkrun-036731,frame_115_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-032423__frame_150_timestamp_5000.jpg,dog-walkrun-032423,frame_150_timestamp_5000.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-029664__frame_140_timestamp_5600.jpg,dog-walkrun-029664,frame_140_timestamp_5600.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064193__frame_102_timestamp_3400.jpg,dog-walkrun-064193,frame_102_timestamp_3400.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-027259__frame_140_timestamp_5600.jpg,dog-walkrun-027259,frame_140_timestamp_5600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064152__frame_120_timestamp_4000.jpg,dog-walkrun-064152,frame_120_timestamp_4000.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-032783__frame_114_timestamp_3800.jpg,dog-walkrun-032783,frame_114_timestamp_3800.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-091217__frame_138_timestamp_4600.jpg,dog-walkrun-091217,frame_138_timestamp_4600.jpg,요크셔 테리어,걷거나 달리는 동작
+train,walkrun,dog-walkrun-020795__frame_130_timestamp_5200.jpg,dog-walkrun-020795,frame_130_timestamp_5200.jpg,피니시 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-038261__frame_108_timestamp_3600.jpg,dog-walkrun-038261,frame_108_timestamp_3600.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-064600__frame_110_timestamp_4400.jpg,dog-walkrun-064600,frame_110_timestamp_4400.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031890__frame_108_timestamp_3600.jpg,dog-walkrun-031890,frame_108_timestamp_3600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-091204__frame_115_timestamp_4600.jpg,dog-walkrun-091204,frame_115_timestamp_4600.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-084713__frame_140_timestamp_5600.jpg,dog-walkrun-084713,frame_140_timestamp_5600.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069321__frame_115_timestamp_4600.jpg,dog-walkrun-069321,frame_115_timestamp_4600.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-034838__frame_215_timestamp_8600.jpg,dog-walkrun-034838,frame_215_timestamp_8600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-026087__frame_114_timestamp_3800.jpg,dog-walkrun-026087,frame_114_timestamp_3800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-065896__frame_162_timestamp_5400.jpg,dog-walkrun-065896,frame_162_timestamp_5400.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-072468__frame_175_timestamp_7000.jpg,dog-walkrun-072468,frame_175_timestamp_7000.jpg,미니어처 핀셔,걷거나 달리는 동작
+train,walkrun,dog-walkrun-100405__frame_130_timestamp_5200.jpg,dog-walkrun-100405,frame_130_timestamp_5200.jpg,베들링턴 테리어,걷거나 달리는 동작
+train,walkrun,20201122_dog-walkrun-003521.mp4__frame_114_timestamp_3800.jpg,20201122_dog-walkrun-003521.mp4,frame_114_timestamp_3800.jpg,포메라니안,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-094475__frame_126_timestamp_4200.jpg,dog-walkrun-094475,frame_126_timestamp_4200.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-089380__frame_130_timestamp_5200.jpg,dog-walkrun-089380,frame_130_timestamp_5200.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-073555__frame_120_timestamp_4000.jpg,dog-walkrun-073555,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-022124__frame_108_timestamp_1800.jpg,dog-walkrun-022124,frame_108_timestamp_1800.jpg,믹스견,걷거나 뜀 
+train,walkrun,dog-walkrun-026971__frame_12_timestamp_400.jpg,dog-walkrun-026971,frame_12_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-078182__frame_100_timestamp_4000.jpg,dog-walkrun-078182,frame_100_timestamp_4000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-078065__frame_125_timestamp_5000.jpg,dog-walkrun-078065,frame_125_timestamp_5000.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-100297__frame_162_timestamp_5400.jpg,dog-walkrun-100297,frame_162_timestamp_5400.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-053321__frame_150_timestamp_5000.jpg,dog-walkrun-053321,frame_150_timestamp_5000.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-085995__frame_125_timestamp_5000.jpg,dog-walkrun-085995,frame_125_timestamp_5000.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-073846__frame_156_timestamp_5200.jpg,dog-walkrun-073846,frame_156_timestamp_5200.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088386__frame_145_timestamp_5800.jpg,dog-walkrun-088386,frame_145_timestamp_5800.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-052476__frame_228_timestamp_7600.jpg,dog-walkrun-052476,frame_228_timestamp_7600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-025939__frame_10_timestamp_400.jpg,dog-walkrun-025939,frame_10_timestamp_400.jpg,시베리안 허스키,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043599__frame_108_timestamp_3600.jpg,dog-walkrun-043599,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-014028__frame_162_timestamp_5400.jpg,dog-walkrun-014028,frame_162_timestamp_5400.jpg,시추,걷거나 달리는 동작
+train,walkrun,dog-walkrun-061622__frame_120_timestamp_4800.jpg,dog-walkrun-061622,frame_120_timestamp_4800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-035242__frame_120_timestamp_4000.jpg,dog-walkrun-035242,frame_120_timestamp_4000.jpg,말티즈,걷거나 뜀 
+train,walkrun,dog-walkrun-100095__frame_120_timestamp_4000.jpg,dog-walkrun-100095,frame_120_timestamp_4000.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031379__frame_0_timestamp_0.jpg,dog-walkrun-031379,frame_0_timestamp_0.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-059937__frame_144_timestamp_4800.jpg,dog-walkrun-059937,frame_144_timestamp_4800.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-068342__frame_126_timestamp_4200.jpg,dog-walkrun-068342,frame_126_timestamp_4200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066514__frame_120_timestamp_4000.jpg,dog-walkrun-066514,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-019565__frame_110_timestamp_4400.jpg,dog-walkrun-019565,frame_110_timestamp_4400.jpg,피니시 스피츠,걷거나 뜀 
+train,walkrun,20201126_dog-walkrun-001592.mp4__frame_143_timestamp_4771.jpg,20201126_dog-walkrun-001592.mp4,frame_143_timestamp_4771.jpg,믹스견,걷거나 뜀 
+train,walkrun,dog-walkrun-056819__frame_150_timestamp_6000.jpg,dog-walkrun-056819,frame_150_timestamp_6000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-028284__frame_162_timestamp_5400.jpg,dog-walkrun-028284,frame_162_timestamp_5400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-090649__frame_132_timestamp_4400.jpg,dog-walkrun-090649,frame_132_timestamp_4400.jpg,믹스견,걷거나 뜀 
+train,walkrun,dog-walkrun-018922__frame_156_timestamp_5200.jpg,dog-walkrun-018922,frame_156_timestamp_5200.jpg,파피용,걷거나 달리는 동작
+train,walkrun,dog-walkrun-031920__frame_154_timestamp_2800.jpg,dog-walkrun-031920,frame_154_timestamp_2800.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-080936__frame_156_timestamp_5200.jpg,dog-walkrun-080936,frame_156_timestamp_5200.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-058190__frame_1020_timestamp_17000.jpg,dog-walkrun-058190,frame_1020_timestamp_17000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-024919__frame_105_timestamp_4200.jpg,dog-walkrun-024919,frame_105_timestamp_4200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-041661__frame_132_timestamp_4400.jpg,dog-walkrun-041661,frame_132_timestamp_4400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-099405__frame_135_timestamp_5400.jpg,dog-walkrun-099405,frame_135_timestamp_5400.jpg,래브라도 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-074032__frame_144_timestamp_4800.jpg,dog-walkrun-074032,frame_144_timestamp_4800.jpg,진돗개,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069042__frame_125_timestamp_5000.jpg,dog-walkrun-069042,frame_125_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067398__frame_0_timestamp_0.jpg,dog-walkrun-067398,frame_0_timestamp_0.jpg,사모예드견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-037107__frame_108_timestamp_3600.jpg,dog-walkrun-037107,frame_108_timestamp_3600.jpg,시바,걷거나 달리는 동작
+train,walkrun,dog-walkrun-067098__frame_144_timestamp_4800.jpg,dog-walkrun-067098,frame_144_timestamp_4800.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-069736__frame_108_timestamp_3600.jpg,dog-walkrun-069736,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-019872__frame_138_timestamp_4600.jpg,dog-walkrun-019872,frame_138_timestamp_4600.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-029729__frame_102_timestamp_3400.jpg,dog-walkrun-029729,frame_102_timestamp_3400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-037388__frame_108_timestamp_3600.jpg,dog-walkrun-037388,frame_108_timestamp_3600.jpg,닥스훈트,걷거나 달리는 동작
+train,walkrun,dog-walkrun-036583__frame_0_timestamp_0.jpg,dog-walkrun-036583,frame_0_timestamp_0.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-013191__frame_115_timestamp_4600.jpg,dog-walkrun-013191,frame_115_timestamp_4600.jpg,푸들,걷거나 뜀 
+train,walkrun,20201202_dog-walkrun-005182.mp4__frame_114_timestamp_3800.jpg,20201202_dog-walkrun-005182.mp4,frame_114_timestamp_3800.jpg,푸들,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-071620__frame_145_timestamp_5800.jpg,dog-walkrun-071620,frame_145_timestamp_5800.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043693__frame_135_timestamp_5400.jpg,dog-walkrun-043693,frame_135_timestamp_5400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-027134__frame_125_timestamp_5000.jpg,dog-walkrun-027134,frame_125_timestamp_5000.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-059049__frame_180_timestamp_7200.jpg,dog-walkrun-059049,frame_180_timestamp_7200.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-016991__frame_130_timestamp_5200.jpg,dog-walkrun-016991,frame_130_timestamp_5200.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066615__frame_168_timestamp_2800.jpg,dog-walkrun-066615,frame_168_timestamp_2800.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-068103__frame_162_timestamp_5400.jpg,dog-walkrun-068103,frame_162_timestamp_5400.jpg,말티즈,걷거나 뜀 
+train,walkrun,dog-walkrun-016868__frame_102_timestamp_3400.jpg,dog-walkrun-016868,frame_102_timestamp_3400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-063290__frame_114_timestamp_3800.jpg,dog-walkrun-063290,frame_114_timestamp_3800.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-040579__frame_132_timestamp_4400.jpg,dog-walkrun-040579,frame_132_timestamp_4400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066568__frame_156_timestamp_5200.jpg,dog-walkrun-066568,frame_156_timestamp_5200.jpg,보더 콜리,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066374__frame_126_timestamp_4200.jpg,dog-walkrun-066374,frame_126_timestamp_4200.jpg,보더 콜리,걷거나 달리는 동작
+train,walkrun,dog-walkrun-054913__frame_108_timestamp_3600.jpg,dog-walkrun-054913,frame_108_timestamp_3600.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-040529__frame_144_timestamp_4800.jpg,dog-walkrun-040529,frame_144_timestamp_4800.jpg,골든 리트리버,걷거나 달리는 동작
+train,walkrun,dog-walkrun-070819__frame_130_timestamp_5200.jpg,dog-walkrun-070819,frame_130_timestamp_5200.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-056913__frame_192_timestamp_3200.jpg,dog-walkrun-056913,frame_192_timestamp_3200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-072351__frame_110_timestamp_4400.jpg,dog-walkrun-072351,frame_110_timestamp_4400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-056771__frame_105_timestamp_4200.jpg,dog-walkrun-056771,frame_105_timestamp_4200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-043952__frame_12_timestamp_400.jpg,dog-walkrun-043952,frame_12_timestamp_400.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-088367__frame_0_timestamp_0.jpg,dog-walkrun-088367,frame_0_timestamp_0.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+train,walkrun,dog-walkrun-037845__frame_186_timestamp_6200.jpg,dog-walkrun-037845,frame_186_timestamp_6200.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-070371__frame_150_timestamp_5000.jpg,dog-walkrun-070371,frame_150_timestamp_5000.jpg,사모예드견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-042077__frame_162_timestamp_5400.jpg,dog-walkrun-042077,frame_162_timestamp_5400.jpg,말티즈,걷거나 달리는 동작
+train,walkrun,dog-walkrun-068381__frame_102_timestamp_3400.jpg,dog-walkrun-068381,frame_102_timestamp_3400.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-025179__frame_108_timestamp_3600.jpg,dog-walkrun-025179,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-102625__frame_150_timestamp_6000.jpg,dog-walkrun-102625,frame_150_timestamp_6000.jpg,치와와,걷거나 달리는 동작
+train,walkrun,dog-walkrun-056784__frame_126_timestamp_4200.jpg,dog-walkrun-056784,frame_126_timestamp_4200.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-020074__frame_12_timestamp_400.jpg,dog-walkrun-020074,frame_12_timestamp_400.jpg,포메라니안,걷거나 달리는 동작
+train,walkrun,dog-walkrun-032578__frame_156_timestamp_5200.jpg,dog-walkrun-032578,frame_156_timestamp_5200.jpg,풍산개,걷거나 달리는 동작
+train,walkrun,20201123_dog-walkrun-003524.mp4__frame_162_timestamp_5400.jpg,20201123_dog-walkrun-003524.mp4,frame_162_timestamp_5400.jpg,포메라니안,걷거나 뛰는 동작
+train,walkrun,dog-walkrun-064434__frame_145_timestamp_5800.jpg,dog-walkrun-064434,frame_145_timestamp_5800.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-021326__frame_0_timestamp_0.jpg,dog-walkrun-021326,frame_0_timestamp_0.jpg,믹스견,걷거나 달리는 동작
+train,walkrun,dog-walkrun-015793__frame_168_timestamp_2800.jpg,dog-walkrun-015793,frame_168_timestamp_2800.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-030357__frame_114_timestamp_3800.jpg,dog-walkrun-030357,frame_114_timestamp_3800.jpg,재패니스 스피츠,걷거나 달리는 동작
+train,walkrun,dog-walkrun-018882__frame_108_timestamp_3600.jpg,dog-walkrun-018882,frame_108_timestamp_3600.jpg,푸들,걷거나 달리는 동작
+train,walkrun,dog-walkrun-058575__frame_0_timestamp_0.jpg,dog-walkrun-058575,frame_0_timestamp_0.jpg,비숑 프리제,걷거나 달리는 동작
+train,walkrun,dog-walkrun-066304__frame_100_timestamp_4000.jpg,dog-walkrun-066304,frame_100_timestamp_4000.jpg,믹스견,걷거나 뜀 
+val,walkrun,dog-walkrun-067696__frame_110_timestamp_4400.jpg,dog-walkrun-067696,frame_110_timestamp_4400.jpg,치와와,걷거나 달리는 동작
+val,walkrun,dog-walkrun-053362__frame_174_timestamp_5800.jpg,dog-walkrun-053362,frame_174_timestamp_5800.jpg,오스트레일리안 실키 테리어,걷거나 달리는 동작
+val,walkrun,dog-walkrun-046882__frame_135_timestamp_5400.jpg,dog-walkrun-046882,frame_135_timestamp_5400.jpg,보더 콜리,걷거나 달리는 동작
+val,walkrun,dog-walkrun-078931__frame_132_timestamp_4400.jpg,dog-walkrun-078931,frame_132_timestamp_4400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-035010__frame_135_timestamp_5400.jpg,dog-walkrun-035010,frame_135_timestamp_5400.jpg,치와와,걷거나 달리는 동작
+val,walkrun,dog-walkrun-058647__frame_150_timestamp_6000.jpg,dog-walkrun-058647,frame_150_timestamp_6000.jpg,진돗개,걷거나 달리는 동작
+val,walkrun,dog-walkrun-043886__frame_150_timestamp_5000.jpg,dog-walkrun-043886,frame_150_timestamp_5000.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-019361__frame_132_timestamp_4400.jpg,dog-walkrun-019361,frame_132_timestamp_4400.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-045131__frame_135_timestamp_5400.jpg,dog-walkrun-045131,frame_135_timestamp_5400.jpg,푸들,걷거나 뜀 
+val,walkrun,dog-walkrun-101879__frame_130_timestamp_5200.jpg,dog-walkrun-101879,frame_130_timestamp_5200.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-030083__frame_144_timestamp_4800.jpg,dog-walkrun-030083,frame_144_timestamp_4800.jpg,시추,걷거나 달리는 동작
+val,walkrun,dog-walkrun-054741__frame_144_timestamp_4800.jpg,dog-walkrun-054741,frame_144_timestamp_4800.jpg,비숑 프리제,걷거나 달리는 동작
+val,walkrun,dog-walkrun-059851__frame_138_timestamp_4600.jpg,dog-walkrun-059851,frame_138_timestamp_4600.jpg,포메라니안,걷거나 달리는 동작
+val,walkrun,dog-walkrun-079010__frame_126_timestamp_4200.jpg,dog-walkrun-079010,frame_126_timestamp_4200.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-024045__frame_140_timestamp_5600.jpg,dog-walkrun-024045,frame_140_timestamp_5600.jpg,치와와,걷거나 달리는 동작
+val,walkrun,dog-walkrun-052008__frame_10_timestamp_400.jpg,dog-walkrun-052008,frame_10_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,20201202_dog-walkrun-003736.mp4__frame_155_timestamp_5172.jpg,20201202_dog-walkrun-003736.mp4,frame_155_timestamp_5172.jpg,셔틀랜드 쉽독,걷거나 뛰는 동작
+val,walkrun,dog-walkrun-072488__frame_145_timestamp_5800.jpg,dog-walkrun-072488,frame_145_timestamp_5800.jpg,포메라니안,걷거나 달리는 동작
+val,walkrun,dog-walkrun-087674__frame_156_timestamp_5200.jpg,dog-walkrun-087674,frame_156_timestamp_5200.jpg,비숑 프리제,걷거나 달리는 동작
+val,walkrun,dog-walkrun-099365__frame_145_timestamp_5800.jpg,dog-walkrun-099365,frame_145_timestamp_5800.jpg,래브라도 리트리버,걷거나 달리는 동작
+val,walkrun,dog-walkrun-059879__frame_126_timestamp_4200.jpg,dog-walkrun-059879,frame_126_timestamp_4200.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-021512__frame_150_timestamp_5000.jpg,dog-walkrun-021512,frame_150_timestamp_5000.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-081799__frame_138_timestamp_4600.jpg,dog-walkrun-081799,frame_138_timestamp_4600.jpg,푸들,걷거나 뜀 
+val,walkrun,dog-walkrun-024132__frame_130_timestamp_5200.jpg,dog-walkrun-024132,frame_130_timestamp_5200.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-064697__frame_108_timestamp_3600.jpg,dog-walkrun-064697,frame_108_timestamp_3600.jpg,시추,걷거나 달리는 동작
+val,walkrun,dog-walkrun-080274__frame_114_timestamp_3800.jpg,dog-walkrun-080274,frame_114_timestamp_3800.jpg,웰시 코기 (카디건),걷거나 달리는 동작
+val,walkrun,dog-walkrun-085643__frame_140_timestamp_5600.jpg,dog-walkrun-085643,frame_140_timestamp_5600.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-060648__frame_138_timestamp_4600.jpg,dog-walkrun-060648,frame_138_timestamp_4600.jpg,포메라니안,걷거나 달리는 동작
+val,walkrun,dog-walkrun-101211__frame_12_timestamp_400.jpg,dog-walkrun-101211,frame_12_timestamp_400.jpg,닥스훈트,걷거나 뜀 
+val,walkrun,dog-walkrun-065824__frame_0_timestamp_0.jpg,dog-walkrun-065824,frame_0_timestamp_0.jpg,베들링턴 테리어,걷거나 달리는 동작
+val,walkrun,dog-walkrun-069813__frame_162_timestamp_5400.jpg,dog-walkrun-069813,frame_162_timestamp_5400.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-066858__frame_150_timestamp_6000.jpg,dog-walkrun-066858,frame_150_timestamp_6000.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-032617__frame_162_timestamp_5400.jpg,dog-walkrun-032617,frame_162_timestamp_5400.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-065308__frame_200_timestamp_8000.jpg,dog-walkrun-065308,frame_200_timestamp_8000.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-016662__frame_0_timestamp_0.jpg,dog-walkrun-016662,frame_0_timestamp_0.jpg,비숑 프리제,걷거나 달리는 동작
+val,walkrun,dog-walkrun-067342__frame_114_timestamp_3800.jpg,dog-walkrun-067342,frame_114_timestamp_3800.jpg,포메라니안,걷거나 달리는 동작
+val,walkrun,dog-walkrun-033345__frame_0_timestamp_0.jpg,dog-walkrun-033345,frame_0_timestamp_0.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-015785__frame_120_timestamp_4000.jpg,dog-walkrun-015785,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-044329__frame_120_timestamp_4000.jpg,dog-walkrun-044329,frame_120_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-088427__frame_10_timestamp_400.jpg,dog-walkrun-088427,frame_10_timestamp_400.jpg,웰시 코기 (펨브록),걷거나 달리는 동작
+val,walkrun,dog-walkrun-051737__frame_12_timestamp_400.jpg,dog-walkrun-051737,frame_12_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,20201202_dog-walkrun-003288.mp4__frame_150_timestamp_5000.jpg,20201202_dog-walkrun-003288.mp4,frame_150_timestamp_5000.jpg,포메라니안,걷거나 뛰는 동작
+val,walkrun,dog-walkrun-061550__frame_102_timestamp_3400.jpg,dog-walkrun-061550,frame_102_timestamp_3400.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-061569__frame_135_timestamp_5400.jpg,dog-walkrun-061569,frame_135_timestamp_5400.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-032915__frame_150_timestamp_6000.jpg,dog-walkrun-032915,frame_150_timestamp_6000.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-087676__frame_140_timestamp_5600.jpg,dog-walkrun-087676,frame_140_timestamp_5600.jpg,비숑 프리제,걷거나 달리는 동작
+val,walkrun,dog-walkrun-055476__frame_115_timestamp_4600.jpg,dog-walkrun-055476,frame_115_timestamp_4600.jpg,푸들,걷거나 뜀 
+val,walkrun,dog-walkrun-043294__frame_102_timestamp_3400.jpg,dog-walkrun-043294,frame_102_timestamp_3400.jpg,시바,걷거나 달리는 동작
+val,walkrun,dog-walkrun-100299__frame_132_timestamp_4400.jpg,dog-walkrun-100299,frame_132_timestamp_4400.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-078791__frame_100_timestamp_4000.jpg,dog-walkrun-078791,frame_100_timestamp_4000.jpg,페키니즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-043653__frame_126_timestamp_4200.jpg,dog-walkrun-043653,frame_126_timestamp_4200.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-029248__frame_105_timestamp_4200.jpg,dog-walkrun-029248,frame_105_timestamp_4200.jpg,보더 콜리,걷거나 달리는 동작
+val,walkrun,dog-walkrun-073369__frame_10_timestamp_400.jpg,dog-walkrun-073369,frame_10_timestamp_400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-051275__frame_156_timestamp_5200.jpg,dog-walkrun-051275,frame_156_timestamp_5200.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-051778__frame_144_timestamp_4800.jpg,dog-walkrun-051778,frame_144_timestamp_4800.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-099981__frame_100_timestamp_4000.jpg,dog-walkrun-099981,frame_100_timestamp_4000.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-100193__frame_0_timestamp_0.jpg,dog-walkrun-100193,frame_0_timestamp_0.jpg,베들링턴 테리어,걷거나 달리는 동작
+val,walkrun,dog-walkrun-030526__frame_162_timestamp_5400.jpg,dog-walkrun-030526,frame_162_timestamp_5400.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-063714__frame_105_timestamp_4200.jpg,dog-walkrun-063714,frame_105_timestamp_4200.jpg,닥스훈트,걷거나 달리는 동작
+val,walkrun,dog-walkrun-053789__frame_140_timestamp_5600.jpg,dog-walkrun-053789,frame_140_timestamp_5600.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-063248__frame_144_timestamp_4800.jpg,dog-walkrun-063248,frame_144_timestamp_4800.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-008323__frame_105_timestamp_4200.jpg,dog-walkrun-008323,frame_105_timestamp_4200.jpg,말티즈,걷거나 뜀 
+val,walkrun,dog-walkrun-088527__frame_162_timestamp_5400.jpg,dog-walkrun-088527,frame_162_timestamp_5400.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-039401__frame_162_timestamp_5400.jpg,dog-walkrun-039401,frame_162_timestamp_5400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-035459__frame_144_timestamp_4800.jpg,dog-walkrun-035459,frame_144_timestamp_4800.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-041413__frame_156_timestamp_5200.jpg,dog-walkrun-041413,frame_156_timestamp_5200.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-078048__frame_115_timestamp_4600.jpg,dog-walkrun-078048,frame_115_timestamp_4600.jpg,아메리칸 코커 스패니얼,걷거나 달리는 동작
+val,walkrun,dog-walkrun-085320__frame_140_timestamp_5600.jpg,dog-walkrun-085320,frame_140_timestamp_5600.jpg,래브라도 리트리버,걷거나 달리는 동작
+val,walkrun,dog-walkrun-059112__frame_0_timestamp_0.jpg,dog-walkrun-059112,frame_0_timestamp_0.jpg,웰시 코기 (카디건),걷거나 달리는 동작
+val,walkrun,dog-walkrun-054926__frame_12_timestamp_400.jpg,dog-walkrun-054926,frame_12_timestamp_400.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-070605__frame_110_timestamp_4400.jpg,dog-walkrun-070605,frame_110_timestamp_4400.jpg,말티즈,걷거나 달리는 동작
+val,walkrun,dog-walkrun-027032__frame_114_timestamp_3800.jpg,dog-walkrun-027032,frame_114_timestamp_3800.jpg,포메라니안,걷거나 달리는 동작
+val,walkrun,dog-walkrun-066949__frame_132_timestamp_4400.jpg,dog-walkrun-066949,frame_132_timestamp_4400.jpg,골든 리트리버,걷거나 달리는 동작
+val,walkrun,dog-walkrun-051896__frame_110_timestamp_4400.jpg,dog-walkrun-051896,frame_110_timestamp_4400.jpg,치와와,걷거나 뜀 
+val,walkrun,dog-walkrun-037699__frame_140_timestamp_5600.jpg,dog-walkrun-037699,frame_140_timestamp_5600.jpg,믹스견,걷거나 달리는 동작
+val,walkrun,dog-walkrun-041178__frame_145_timestamp_5800.jpg,dog-walkrun-041178,frame_145_timestamp_5800.jpg,말티즈,걷거나 뜀 
+val,walkrun,dog-walkrun-051405__frame_108_timestamp_1800.jpg,dog-walkrun-051405,frame_108_timestamp_1800.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-067924__frame_114_timestamp_3800.jpg,dog-walkrun-067924,frame_114_timestamp_3800.jpg,푸들,걷거나 달리는 동작
+val,walkrun,dog-walkrun-050462__frame_0_timestamp_0.jpg,dog-walkrun-050462,frame_0_timestamp_0.jpg,재패니스 스피츠,걷거나 달리는 동작
+val,walkrun,dog-walkrun-100543__frame_135_timestamp_5400.jpg,dog-walkrun-100543,frame_135_timestamp_5400.jpg,시바,걷거나 달리는 동작
