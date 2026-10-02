@@ -25,10 +25,10 @@
 
 ```
 dog-pose-project/
-  RAW/                    # 원본 데이터 (git 미포함)
+  RAW/                    # 원본 데이터
     images/<class>/<video_id>.mp4/frame_*.jpg
     labels/<class>/<video_id>.mp4.json
-  dataset/                # 학습용 서브셋 (이미지/라벨은 git 미포함, 아래 두 개만 포함)
+  dataset/                # 학습용 서브셋
     manifest.csv           # 추출된 이미지 ↔ 원본 영상 매핑 + 견종/행동 설명
     data.yaml               # YOLO 학습용 데이터셋 설정
   scripts/
@@ -44,7 +44,7 @@ dog-pose-project/
 pip install -r requirements.txt
 ```
 
-- PyTorch는 CUDA 12.8(cu128) 빌드로 고정되어 있습니다 — RTX 50 시리즈(Blackwell, sm_120) GPU 지원을 위해 필요합니다. 다른 GPU를 쓴다면 본인 환경에 맞는 CUDA 빌드로 바꿔도 됩니다.
+- PyTorch는 CUDA 12.8(cu128) 빌드로 고정되어 있습니다 — RTX 50 시리즈(Blackwell, sm_120) GPU 지원
 
 ## 데이터 준비
 
@@ -85,8 +85,21 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 클래스별 정확도: `footup` 0.67, `lying` 0.65, `sit` 0.61, `walkrun` 0.52. 눈에 띄는 혼동은 `walkrun`→`sit` 26%, `footup`→`sit` 24% — `sit`이 다른 클래스의 애매한 프레임을 흡수하는 경향이 있습니다 (걷다가 멈칫하는 순간, 손 주며 앉아있는 프레임 등이 단순 `sit`으로 오분류).
 
-다음 개선 방향 후보:
+## 실험 1: 데이터 2배 증량 (yolov8n, 클래스당 800장)
 
-1. `walkrun`/`footup` 클래스 데이터 추가 확보 (현재 각 400장만 사용, RAW에는 더 많음)
-2. `sit`과 헷갈리는 오분류 샘플 직접 확인 후, 애매한 프레임 제거·재선별
-3. 더 큰 모델(`yolov8s.pt`)로 재학습
+68 epoch에서 조기 종료 (best epoch 48, `patience=20`).
+
+| metric | 값 (best epoch 기준) |
+|---|---|
+| precision | 0.627 |
+| recall | 0.708 |
+| mAP50 | 0.725 |
+| mAP50-95 | 0.580 |
+
+![data800 results](assets/data800-results.png)
+
+### Confusion Matrix
+
+![data800 confusion matrix](assets/data800-confusion-matrix.png)
+
+클래스별 정확도: `lying` 0.71, `walkrun` 0.64, `footup` 0.64, `sit` 0.51. baseline(400장) 대비 recall·mAP50·mAP50-95는 올랐지만 precision은 소폭 하락했고, `walkrun`→`sit` 혼동은 26%→11%로 줄어든 반면 `footup`↔`sit` 혼동은 오히려 늘었습니다(24%→32%, 17%→30%). 영상당 프레임을 완전 무작위로 뽑다 보니 라벨은 `footup`/`walkrun`이어도 실제로는 앉아있는 순간의 프레임이 섞여 들어가는 라벨 노이즈가 원인으로 보이며, 데이터를 늘릴수록 노이즈도 비례해서 늘어나 `footup`-`sit` 경계는 개선되지 않은 것으로 보입니다.
