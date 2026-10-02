@@ -87,6 +87,8 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 ## 실험 1: 데이터 2배 증량 (yolov8n, 클래스당 800장)
 
+`build_dataset.py`의 `IMAGES_PER_CLASS`를 400에서 800으로 바꿔 데이터만 늘렸습니다. 나머지 파이프라인은 baseline과 동일합니다.
+
 68 epoch에서 조기 종료 (best epoch 48, `patience=20`).
 
 | metric | 값 (best epoch 기준) |
@@ -103,3 +105,24 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 ![data800 confusion matrix](assets/data800-confusion-matrix.png)
 
 클래스별 정확도: `lying` 0.71, `walkrun` 0.64, `footup` 0.64, `sit` 0.51. baseline(400장) 대비 recall·mAP50·mAP50-95는 올랐지만 precision은 소폭 하락했고, `walkrun`→`sit` 혼동은 26%→11%로 줄어든 반면 `footup`↔`sit` 혼동은 오히려 늘었습니다(24%→32%, 17%→30%). 영상당 프레임을 완전 무작위로 뽑다 보니 라벨은 `footup`/`walkrun`이어도 실제로는 앉아있는 순간의 프레임이 섞여 들어가는 라벨 노이즈가 원인으로 보이며, 데이터를 늘릴수록 노이즈도 비례해서 늘어나 `footup`-`sit` 경계는 개선되지 않은 것으로 보입니다.
+
+## 실험 2: 프레임 선택 방식 개선 (yolov8n, 클래스당 800장)
+
+실험 1에서 확인된 라벨 노이즈를 줄이기 위해 프레임 선택 방식을 바꿨습니다. `footup` 외 클래스는 영상 중간 구간(프레임 순서 기준 40~60%)에서, `footup`은 JSON keypoints로 앞다리/발(10~15번, 변동폭 분석으로 추정)이 가장 높이 올라간 프레임을 고르도록 했습니다.
+
+86 epoch에서 조기 종료 (best epoch 66, `patience=20`).
+
+| metric | 값 (best epoch 기준) |
+|---|---|
+| precision | 0.715 |
+| recall | 0.721 |
+| mAP50 | 0.750 |
+| mAP50-95 | 0.600 |
+
+![kpfootup results](assets/kpfootup-results.png)
+
+### Confusion Matrix
+
+![kpfootup confusion matrix](assets/kpfootup-confusion-matrix.png)
+
+클래스별 정확도: `footup` 0.70, `lying` 0.66, `sit` 0.67, `walkrun` 0.79. 실험 1 대비 precision·recall·mAP50·mAP50-95 전부 올랐고, `footup`↔`sit` 혼동이 뚜렷이 줄었습니다(footup→sit 32%→21%, sit→footup 30%→15%). 다만 `lying`→`footup` 오분류는 14~16% 수준으로 실험 1 때부터 남아있습니다.

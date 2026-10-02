@@ -1,11 +1,11 @@
-# PyTorch (CUDA 12.8 빌드 - Blackwell/RTX 50 시리즈 GPU 지원)
+# PyTorch (본인 GPU 환경에 맞는 버전)
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch==2.11.0+cu128
 torchvision==0.26.0+cu128
 torchaudio==2.11.0+cu128
 
-# YOLO 학습 프레임워크 (numpy, opencv-python, pandas, matplotlib, pyyaml, pillow, scipy 등 하위 의존성 자동 설치)
-ultralytics==8.4.138
+# YOLO 학습 프레임워크
+ultralytics
 
-# 실험 추적 (선택)
-wandb==0.29.0
+# 실험 추적
+wandb
