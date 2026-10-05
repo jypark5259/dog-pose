@@ -68,7 +68,7 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 ## Baseline 결과 (yolov8n, 클래스당 400장)
 
-99 epoch에서 조기 종료 (best epoch 79, `patience=20`).
+99 epoch에서 조기 종료 (best epoch 79, `patience=20`), 총 학습 시간 약 45분.
 
 | metric | 값 (best epoch 기준) |
 |---|---|
@@ -89,7 +89,7 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 `build_dataset.py`의 `IMAGES_PER_CLASS`를 400에서 800으로 바꿔 데이터만 늘렸습니다.
 
-68 epoch에서 조기 종료 (best epoch 48, `patience=20`).
+68 epoch에서 조기 종료 (best epoch 48, `patience=20`), 총 학습 시간 약 60분.
 
 | metric | 값 (best epoch 기준) |
 |---|---|
@@ -110,7 +110,7 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 실험 1에서 확인된 라벨 노이즈를 줄이기 위해 프레임 선택 방식을 바꿨습니다. `footup` 외 클래스는 영상 중간 구간(프레임 순서 기준 40-60%)에서, `footup`은 JSON keypoints로 앞다리/발(10-15번, 변동폭 분석으로 추정)이 가장 높이 올라간 프레임을 고르도록 했습니다.
 
-86 epoch에서 조기 종료 (best epoch 66, `patience=20`).
+86 epoch에서 조기 종료 (best epoch 66, `patience=20`), 총 학습 시간 약 76분.
 
 | metric | 값 (best epoch 기준) |
 |---|---|
@@ -126,3 +126,24 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 ![kpfootup confusion matrix](assets/kpfootup-confusion-matrix.png)
 
 클래스별 정확도: `footup` 0.70, `lying` 0.66, `sit` 0.67, `walkrun` 0.79. 실험 1 대비 precision·recall·mAP50·mAP50-95 전부 올랐고, `footup`↔`sit` 혼동이 뚜렷이 줄었습니다(footup→sit 32%→21%, sit→footup 30%→15%). 다만 `lying`→`footup` 오분류는 14-16% 수준으로 실험 1 때부터 남아있습니다.
+
+## 실험 3: 모델 크기 증가 (yolov8s, 클래스당 800장)
+
+데이터는 실험 2와 동일하게 두고 `model=yolov8n.pt`을 `model=yolov8s.pt`로만 바꿨습니다.
+
+68 epoch에서 조기 종료 (best epoch 48, `patience=20`), 총 학습 시간 약 116분.
+
+| metric | 값 (best epoch 기준) |
+|---|---|
+| precision | 0.693 |
+| recall | 0.716 |
+| mAP50 | 0.746 |
+| mAP50-95 | 0.591 |
+
+![yolov8s results](assets/yolov8s-results.png)
+
+### Confusion Matrix
+
+![yolov8s confusion matrix](assets/yolov8s-confusion-matrix.png)
+
+클래스별 정확도: `footup` 0.64, `lying` 0.76, `sit` 0.53, `walkrun` 0.79. 실험 2(yolov8n) 대비 precision·recall·mAP50·mAP50-95 전부 소폭 하락했습니다. `lying`→`footup` 오분류는 16%→11%로 줄었지만 `sit`이 여러 클래스·background로 분산되며 크게 떨어졌고(0.67→0.53), 학습 시간은 epoch당 약 2배로 늘었습니다. 지금 데이터 규모(클래스당 800장)에서는 모델을 키워도 이득이 없는 것으로 보이며, 병목은 모델 용량이 아니라 데이터 쪽에 있는 것으로 보입니다.
