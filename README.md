@@ -108,7 +108,7 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 
 ## 실험 2: 프레임 선택 방식 개선 (yolov8n, 클래스당 800장)
 
-실험 1에서 확인된 라벨 노이즈를 줄이기 위해 프레임 선택 방식을 바꿨습니다. `footup` 외 클래스는 영상 중간 구간(프레임 순서 기준 40-60%)에서, `footup`은 JSON keypoints로 앞다리/발(10-15번, 변동폭 분석으로 추정)이 가장 높이 올라간 프레임을 고르도록 했습니다.
+실험 1에서 확인된 라벨 노이즈를 줄이기 위해 프레임 선택 방식을 바꿨습니다. `footup` 외 클래스는 영상 중간 구간(프레임 순서 기준 40-60%)에서, `footup`은 JSON keypoints를 이용해 프레임을 골랐습니다. 이 실험의 keypoint 기준은 10-15번을 앞다리로 잘못 가정한 것이었습니다(10-15번은 실제로 뒷다리와 꼬리에 해당합니다). 이 기록은 당시 결과로 남기고, 올바른 키포인트 정의를 적용한 결과는 아래 실험 4에 따로 정리합니다.
 
 86 epoch에서 조기 종료 (best epoch 66, `patience=20`), 총 학습 시간 약 76분.
 
@@ -147,3 +147,24 @@ yolo detect train model=yolov8n.pt data=dataset/data.yaml \
 ![yolov8s confusion matrix](assets/yolov8s-confusion-matrix.png)
 
 클래스별 정확도: `footup` 0.64, `lying` 0.76, `sit` 0.53, `walkrun` 0.79. 실험 2(yolov8n) 대비 precision·recall·mAP50·mAP50-95 전부 소폭 하락했습니다. `lying`→`footup` 오분류는 16%→11%로 줄었지만 `sit`이 여러 클래스·background로 분산되며 크게 떨어졌고(0.67→0.53), 학습 시간은 epoch당 약 2배로 늘었습니다. 지금 데이터 규모(클래스당 800장)에서는 모델을 키워도 이득이 없는 것으로 보이며, 병목은 모델 용량이 아니라 데이터 쪽에 있는 것으로 보입니다.
+
+## 실험 4: 앞발 키포인트 기준으로 수정 (yolov8n, 클래스당 800장)
+
+실험 2의 키포인트 기준이 잘못되었음을 확인했습니다. 키포인트 정의서에 따르면 10-15번은 대퇴골, 뒷다리 발목, 꼬리에 해당하고, 앞발 발목은 8번과 9번입니다. 이에 따라 `footup`은 8번과 9번의 좌우 높이 차이가 가장 큰 프레임(한 발만 든 순간)을, `lying` hard negative는 8번과 9번이 가장 벌어진 프레임 160장을 고르도록 수정했습니다.
+
+68 epoch에서 조기 종료 (best epoch 63, `patience=20`), 총 학습 시간 약 85분.
+
+| metric | 값 (best epoch 기준) |
+|---|---|
+| precision | 0.689 |
+| recall | 0.742 |
+| mAP50 | 0.771 |
+| mAP50-95 | 0.616 |
+
+![frontpaw results](assets/frontpaw-results.png)
+
+### Confusion Matrix
+
+![frontpaw confusion matrix](assets/frontpaw-confusion-matrix.png)
+
+클래스별 정확도: `footup` 0.68, `lying` 0.62, `sit` 0.61, `walkrun` 0.79. 지금까지 실험 중 mAP50과 mAP50-95가 가장 높습니다. 다만 precision은 실험 2 대비 소폭 낮아졌고, `lying`과 `sit`의 정확도는 떨어졌습니다. 올바른 앞발 키포인트를 써도 `footup`→`sit` 혼동(21%)과 `sit`→`footup` 혼동(15%)은 거의 그대로여서, 키포인트 기준보다 한 발만 든 자세와 앉은 자세가 2D 이미지에서 비슷하게 보이는 점이 근본 원인으로 보입니다. mAP 개선은 주로 recall 상승에서 왔습니다.
